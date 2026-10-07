@@ -1,4 +1,4 @@
-# 🌿 BMA — Mental Health Chatbot
+# 🌿 BMA — AI Chatbot For Mental Health Support
 
 > **BMA** is an AI-powered mental health support companion that provides
 > empathetic, non-judgmental emotional support using a hybrid architecture
