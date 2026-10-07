@@ -1,0 +1,827 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<title>BMA — Mental Health Support</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,300;14..32,400;14..32,500;14..32,600;14..32,700&family=Amiri:ital,wght@0,400;0,700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+<style>
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  :root {
+    --bg-primary: #f7f9fc;
+    --bg-sidebar: rgba(255, 255, 255, 0.96);
+    --surface-white: #ffffff;
+    --teal: #1a7a6e;
+    --teal-light: #2aab9a;
+    --teal-soft: #e0f2ef;
+    --gold: #c9a84c;
+    --gold-soft: #fef5e6;
+    --text-dark: #1e2a2e;
+    --text-muted: #5b6e6b;
+    --border-light: #e9edf2;
+    --shadow-sm: 0 8px 20px rgba(0, 0, 0, 0.03), 0 2px 6px rgba(0, 0, 0, 0.05);
+    --shadow-md: 0 20px 35px -12px rgba(0, 0, 0, 0.1);
+    --radius-xl: 24px;
+    --radius-lg: 18px;
+    --radius-md: 14px;
+    --transition: all 0.25s ease;
+  }
+
+  body {
+    font-family: 'Inter', sans-serif;
+    background: var(--bg-primary);
+    color: var(--text-dark);
+    height: 100vh;
+    display: flex;
+    overflow: hidden;
+  }
+
+  /* ========= SIDEBAR ========= */
+  .sidebar {
+    width: 300px;
+    background: var(--bg-sidebar);
+    backdrop-filter: blur(2px);
+    border-right: 1px solid var(--border-light);
+    display: flex;
+    flex-direction: column;
+    overflow-y: auto;
+    transition: var(--transition);
+    box-shadow: var(--shadow-sm);
+    z-index: 10;
+  }
+
+  .sidebar-top {
+    padding: 28px 20px 20px;
+    border-bottom: 1px solid var(--border-light);
+  }
+
+  .brand {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+  }
+
+  .brand-logo {
+    width: 48px;
+    height: 48px;
+    background: linear-gradient(135deg, var(--teal), var(--teal-light));
+    border-radius: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 6px 12px rgba(26,122,110,0.2);
+  }
+
+  .brand-logo i {
+    font-size: 26px;
+    color: white;
+  }
+
+  .brand-text h1 {
+    font-size: 24px;
+    font-weight: 700;
+    background: linear-gradient(135deg, var(--teal), var(--teal-light));
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    letter-spacing: -0.3px;
+  }
+
+  .brand-text p {
+    font-size: 11px;
+    color: var(--text-muted);
+    margin-top: 2px;
+  }
+
+  /* Quranic verses */
+  .quran-sidebar {
+    background: var(--gold-soft);
+    margin: 20px 16px;
+    padding: 18px 14px;
+    border-radius: 28px;
+    border-left: 4px solid var(--gold);
+    box-shadow: var(--shadow-sm);
+  }
+
+  .verse-block {
+    margin-bottom: 18px;
+  }
+
+  .verse-block:last-child {
+    margin-bottom: 0;
+  }
+
+  .arabic-verse {
+    font-family: 'Amiri', serif;
+    font-size: 19px;
+    font-weight: 700;
+    color: var(--teal);
+    direction: rtl;
+    text-align: right;
+    line-height: 1.4;
+    margin-bottom: 6px;
+  }
+
+  .verse-translation {
+    font-size: 11px;
+    color: var(--text-muted);
+    border-top: 1px dashed rgba(0,0,0,0.08);
+    padding-top: 6px;
+  }
+
+  .verse-ref {
+    font-size: 9px;
+    color: var(--gold);
+    display: inline-block;
+    margin-top: 5px;
+    font-weight: 500;
+  }
+
+  /* Navigation */
+  .sidebar-nav {
+    padding: 0 12px 12px;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    border-bottom: 1px solid var(--border-light);
+  }
+
+  .nav-item {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 10px 14px;
+    border-radius: 16px;
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--text-muted);
+    transition: var(--transition);
+    text-decoration: none;
+  }
+
+  .nav-item i {
+    width: 24px;
+    font-size: 18px;
+  }
+
+  .nav-item:hover, .nav-item.active {
+    background: var(--teal-soft);
+    color: var(--teal);
+  }
+
+  /* Mood picker */
+  .sidebar-mood {
+    padding: 20px 20px;
+    border-bottom: 1px solid var(--border-light);
+  }
+
+  .section-label {
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: var(--text-muted);
+    margin-bottom: 14px;
+  }
+
+  .mood-row {
+    display: flex;
+    justify-content: space-between;
+    gap: 6px;
+  }
+
+  .mood-btn {
+    flex: 1;
+    aspect-ratio: 1;
+    background: white;
+    border: 1px solid var(--border-light);
+    border-radius: 20px;
+    font-size: 22px;
+    cursor: pointer;
+    transition: var(--transition);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .mood-btn:hover, .mood-btn.active {
+    background: var(--teal-soft);
+    border-color: var(--teal);
+    transform: translateY(-3px);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.05);
+  }
+
+  /* Conversation history */
+  .sidebar-conversations {
+    padding: 16px 16px;
+    border-bottom: 1px solid var(--border-light);
+  }
+
+  .conv-list {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    max-height: 280px;
+    overflow-y: auto;
+  }
+
+  .conv-item {
+    font-size: 13px;
+    padding: 10px 12px;
+    background: #f8fafc;
+    border-radius: 16px;
+    cursor: pointer;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    transition: var(--transition);
+    color: var(--text-dark);
+  }
+
+  .conv-item:hover {
+    background: var(--teal-soft);
+    color: var(--teal);
+  }
+
+  .conv-item.active {
+    background: var(--teal);
+    color: white;
+  }
+
+  /* New chat & crisis */
+  .sidebar-actions {
+    padding: 16px 20px;
+  }
+
+  .new-chat-btn {
+    width: 100%;
+    background: linear-gradient(135deg, var(--teal), var(--teal-light));
+    border: none;
+    border-radius: 40px;
+    padding: 12px;
+    color: white;
+    font-weight: 600;
+    font-size: 14px;
+    cursor: pointer;
+    transition: opacity 0.2s, transform 0.1s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    box-shadow: 0 4px 12px rgba(26,122,110,0.3);
+  }
+
+  .new-chat-btn:active {
+    transform: scale(0.97);
+  }
+
+  .crisis-bar, .crisis-always {
+    margin: 0 20px 12px;
+    background: #fff1f0;
+    border-radius: 20px;
+    padding: 12px 16px;
+    font-size: 12px;
+    color: #aa2e2e;
+    border: 1px solid #ffcdcd;
+  }
+
+  .crisis-bar {
+    display: none;
+  }
+
+  .crisis-bar.show {
+    display: block;
+  }
+
+  .crisis-phone {
+    font-weight: 800;
+    font-size: 16px;
+    display: block;
+  }
+
+  /* Creators section */
+  .sidebar-creators {
+    margin-top: auto;
+    padding: 16px 20px;
+    border-top: 1px solid var(--border-light);
+    font-size: 11px;
+    color: var(--text-muted);
+    text-align: center;
+    line-height: 1.5;
+  }
+  .creator-names {
+    font-weight: 500;
+    color: var(--teal);
+    margin-top: 5px;
+  }
+
+  /* ========= MAIN CHAT AREA ========= */
+  .main {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    background: var(--bg-primary);
+    overflow: hidden;
+  }
+
+  .topbar {
+    background: rgba(255,255,255,0.85);
+    backdrop-filter: blur(12px);
+    padding: 14px 28px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid var(--border-light);
+  }
+
+  .bot-avatar {
+    width: 48px;
+    height: 48px;
+    background: linear-gradient(135deg, var(--teal), var(--teal-light));
+    border-radius: 28px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+  }
+
+  .online-dot {
+    width: 8px;
+    height: 8px;
+    background: #2ecc71;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 6px;
+    animation: pulse 1.8s infinite;
+  }
+
+  @keyframes pulse {
+    0%,100% { opacity: 1; transform: scale(1);}
+    50% { opacity: 0.5; transform: scale(1.2);}
+  }
+
+  .topbar-info h2 {
+    font-size: 18px;
+    font-weight: 600;
+  }
+
+  .topbar-info p {
+    font-size: 12px;
+    color: var(--teal);
+  }
+
+  /* Messages */
+  .messages {
+    flex: 1;
+    overflow-y: auto;
+    padding: 24px 28px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    scroll-behavior: smooth;
+  }
+
+  .msg {
+    display: flex;
+    gap: 12px;
+    max-width: 80%;
+    animation: fadeSlideUp 0.3s ease;
+  }
+
+  @keyframes fadeSlideUp {
+    from { opacity: 0; transform: translateY(12px);}
+    to { opacity: 1; transform: translateY(0);}
+  }
+
+  .msg.user {
+    align-self: flex-end;
+    flex-direction: row-reverse;
+  }
+
+  .avatar {
+    width: 38px;
+    height: 38px;
+    border-radius: 20px;
+    background: #eef2f5;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    flex-shrink: 0;
+  }
+
+  .avatar.bot {
+    background: linear-gradient(135deg, var(--teal-soft), white);
+    color: var(--teal);
+  }
+
+  .bubble {
+    padding: 12px 18px;
+    border-radius: 24px;
+    line-height: 1.5;
+    font-size: 14px;
+    word-break: break-word;
+    box-shadow: var(--shadow-sm);
+  }
+
+  .msg.bot .bubble {
+    background: white;
+    border-bottom-left-radius: 6px;
+    color: var(--text-dark);
+    border: 1px solid var(--border-light);
+  }
+
+  .msg.user .bubble {
+    background: linear-gradient(135deg, var(--teal), var(--teal-light));
+    color: white;
+    border-bottom-right-radius: 6px;
+  }
+
+  .bubble.rtl {
+    direction: rtl;
+    text-align: right;
+    font-family: 'Amiri', serif;
+  }
+
+  .typing .bubble {
+    padding: 16px 20px;
+    display: flex;
+    gap: 5px;
+  }
+
+  .dot {
+    width: 7px;
+    height: 7px;
+    background: var(--teal);
+    border-radius: 50%;
+    animation: bounce 1.2s infinite;
+  }
+  .dot:nth-child(2) { animation-delay: 0.2s; }
+  .dot:nth-child(3) { animation-delay: 0.4s; }
+  @keyframes bounce {
+    0%,60%,100% { transform: translateY(0); }
+    30% { transform: translateY(-6px); }
+  }
+
+  /* Chips in English */
+  .chips {
+    padding: 8px 28px 12px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+
+  .chip {
+    background: white;
+    border: 1px solid var(--border-light);
+    border-radius: 40px;
+    padding: 8px 18px;
+    font-size: 13px;
+    font-weight: 500;
+    color: var(--text-muted);
+    transition: var(--transition);
+    cursor: pointer;
+  }
+
+  .chip:hover {
+    background: var(--teal);
+    color: white;
+    border-color: var(--teal);
+    transform: translateY(-2px);
+  }
+
+  /* Input */
+  .input-area {
+    padding: 12px 28px 24px;
+    display: flex;
+    gap: 12px;
+    background: transparent;
+  }
+
+  .input-area textarea {
+    flex: 1;
+    background: white;
+    border: 1px solid var(--border-light);
+    border-radius: 32px;
+    padding: 14px 20px;
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    resize: none;
+    height: 56px;
+    transition: 0.2s;
+    box-shadow: var(--shadow-sm);
+  }
+
+  .input-area textarea:focus {
+    outline: none;
+    border-color: var(--teal);
+    box-shadow: 0 0 0 3px rgba(26,122,110,0.1);
+  }
+
+  .send-btn {
+    width: 56px;
+    height: 56px;
+    background: linear-gradient(135deg, var(--teal), var(--teal-light));
+    border: none;
+    border-radius: 32px;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+    transition: 0.2s;
+    box-shadow: var(--shadow-sm);
+  }
+
+  .send-btn:active {
+    transform: scale(0.94);
+  }
+
+  ::-webkit-scrollbar {
+    width: 5px;
+  }
+  ::-webkit-scrollbar-track {
+    background: #eef2f5;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: var(--teal-light);
+    border-radius: 10px;
+  }
+
+  @media (max-width: 680px) {
+    .sidebar {
+      position: fixed;
+      left: -300px;
+      transition: 0.2s;
+      z-index: 100;
+      height: 100%;
+    }
+    .sidebar.open {
+      left: 0;
+    }
+    .msg {
+      max-width: 90%;
+    }
+    .messages {
+      padding: 16px;
+    }
+  }
+</style>
+</head>
+<body>
+
+<aside class="sidebar" id="sidebar">
+  <div class="sidebar-top">
+    <div class="brand">
+      <div class="brand-logo"><i class="fas fa-brain"></i></div>
+      <div class="brand-text"><h1>BMA</h1><p>mental health companion 🇲🇦</p></div>
+    </div>
+  </div>
+
+  <div class="quran-sidebar">
+    <div class="verse-block">
+      <div class="arabic-verse">لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا</div>
+      <div class="verse-translation">"Allah does not burden a soul beyond its capacity."</div>
+      <div class="verse-ref">📖 Al-Baqarah 2:286</div>
+    </div>
+    <div class="verse-block">
+      <div class="arabic-verse">أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ</div>
+      <div class="verse-translation">"Verily, in the remembrance of Allah do hearts find rest."</div>
+      <div class="verse-ref">📖 Ar-Ra'd 13:28</div>
+    </div>
+  </div>
+
+  <nav class="sidebar-nav">
+    <a href="/" class="nav-item active"><i class="fas fa-comment-dots"></i> Chat</a>
+    <a href="/dashboard" class="nav-item"><i class="fas fa-chart-line"></i> Dashboard</a>
+  </nav>
+
+  <div class="sidebar-mood">
+    <div class="section-label"><i class="far fa-smile"></i> My mood</div>
+    <div class="mood-row" id="moodGrid">
+      <button class="mood-btn" data-score="2">😔</button>
+      <button class="mood-btn" data-score="4">😞</button>
+      <button class="mood-btn" data-score="6">😐</button>
+      <button class="mood-btn" data-score="8">🙂</button>
+      <button class="mood-btn" data-score="10">😊</button>
+    </div>
+  </div>
+
+  <div class="sidebar-conversations">
+    <div class="section-label"><i class="fas fa-history"></i> History</div>
+    <div id="conversationList" class="conv-list">Loading...</div>
+  </div>
+
+  <div class="sidebar-actions">
+    <button class="new-chat-btn" onclick="newConversation()"><i class="fas fa-plus"></i> New chat</button>
+  </div>
+
+  <div class="crisis-bar" id="crisisBar">
+    <i class="fas fa-exclamation-triangle"></i> <strong>Crisis helpline (Morocco):</strong> <span class="crisis-phone">15</span>
+  </div>
+  <div class="crisis-always">
+    <i class="fas fa-heart" style="color:#aa2e2e;"></i> <strong>Emergency?</strong> Call 15 (Morocco)
+  </div>
+
+  <!-- Creators section (left side) -->
+  <div class="sidebar-creators">
+    <i class="fas fa-code-branch"></i> Created by<br>
+    <div class="creator-names">Bilal Jellaoui, Mohammed Azil, Ayoube Echihami 🇲🇦</div>
+  </div>
+</aside>
+
+<main class="main">
+  <div class="topbar">
+    <div style="display: flex; align-items: center; gap: 12px;">
+      <i class="fas fa-bars" style="font-size: 22px; cursor: pointer; display: none;" id="menuToggle"></i>
+      <div class="bot-avatar">B</div>
+      <div class="topbar-info">
+        <h2>BMA <span style="font-size: 12px; font-weight: normal;">wellbeing assistant</span></h2>
+        <p><span class="online-dot"></span> Online · Safe space</p>
+      </div>
+    </div>
+    <a href="/dashboard" style="color: var(--teal); font-weight: 500;"><i class="fas fa-chart-simple"></i> Dashboard</a>
+  </div>
+
+  <div class="messages" id="messages"></div>
+
+  <!-- English chips -->
+  <div class="chips" id="chips">
+    <div class="chip" onclick="sendChip(this)">anxious</div>
+    <div class="chip" onclick="sendChip(this)">who created you</div>
+    <div class="chip" onclick="sendChip(this)">What is the difference between sadness and depression?</div>
+    <div class="chip" onclick="sendChip(this)">exam stress</div>
+    <div class="chip" onclick="sendChip(this)">I'm angry</div>
+    <div class="chip" onclick="sendChip(this)">I keep comparing myself to others</div>
+    <div class="chip" onclick="sendChip(this)">How can i manage my time?</div>
+    <div class="chip" onclick="sendChip(this)">I need motivation</div>
+  </div>
+
+  <div class="input-area">
+    <textarea id="msgInput" placeholder="Type your message..." rows="1" onkeydown="handleKey(event)" oninput="autoRtl(this)"></textarea>
+    <button class="send-btn" onclick="sendMessage()"><i class="fas fa-paper-plane"></i></button>
+  </div>
+</main>
+
+<script>
+const API_BASE = "";
+let sessionId = null;
+let currentConvId = null;
+
+function isArabic(text) { return /[\u0600-\u06FF]/.test(text); }
+function escapeHtml(s) { return s.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/\n/g,"<br>"); }
+
+async function init() {
+  try {
+    const res = await fetch(`${API_BASE}/api/session/start`, { method: "POST" });
+    const data = await res.json();
+    sessionId = data.session_id;
+    localStorage.setItem('sessionId', sessionId);
+    await loadConversations();
+    const firstConv = document.querySelector('.conv-item');
+    if (firstConv && firstConv.dataset.convId) {
+      currentConvId = parseInt(firstConv.dataset.convId);
+      await loadConversation(currentConvId);
+    } else {
+      await newConversation();
+    }
+  } catch(e) { console.error(e); addBotMessage("Connected to server. Feel free to send a message."); }
+}
+
+async function loadConversations() {
+  if (!sessionId) return;
+  const res = await fetch(`${API_BASE}/api/conversations?session_id=${sessionId}`);
+  const convs = await res.json();
+  const container = document.getElementById('conversationList');
+  if (!convs.length) {
+    container.innerHTML = '<div class="conv-item">No conversations yet</div>';
+    return;
+  }
+  container.innerHTML = convs.map(c => `
+    <div class="conv-item ${c.id === currentConvId ? 'active' : ''}" data-conv-id="${c.id}">
+      ${escapeHtml(c.title.length > 40 ? c.title.substring(0,40)+'…' : c.title)}
+    </div>
+  `).join('');
+  document.querySelectorAll('.conv-item[data-conv-id]').forEach(el => {
+    el.addEventListener('click', () => loadConversation(parseInt(el.dataset.convId)));
+  });
+}
+
+async function loadConversation(convId) {
+  const res = await fetch(`${API_BASE}/api/conversations/${convId}`);
+  const data = await res.json();
+  const messagesDiv = document.getElementById('messages');
+  messagesDiv.innerHTML = '';
+  for (const msg of data.messages) {
+    if (msg.role === 'user') addUserMessage(msg.content, false);
+    else addBotMessage(msg.content, false, 'en');
+  }
+  currentConvId = convId;
+  await loadConversations();
+}
+
+async function newConversation() {
+  if (!sessionId) return;
+  const res = await fetch(`${API_BASE}/api/conversations/new`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ session_id: sessionId })
+  });
+  const data = await res.json();
+  currentConvId = data.conv_id;
+  document.getElementById('messages').innerHTML = '';
+  addBotMessage("Salamo Alykoum🌿 I'm BMA, your mental health companion. ⚠️ I am not a doctor and cannot provide medical advice. Please consult a qualified healthcare professional for any serious concerns. How are you feeling today?");
+  await loadConversations();
+}
+
+async function sendMessage() {
+  const input = document.getElementById("msgInput");
+  const text = input.value.trim();
+  if (!text) return;
+  input.value = "";
+  addUserMessage(text);
+  showTyping();
+  try {
+    const res = await fetch(`${API_BASE}/api/chat`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ session_id: sessionId, message: text, conv_id: currentConvId })
+    });
+    const data = await res.json();
+    removeTyping();
+    if (data.conv_id && !currentConvId) currentConvId = data.conv_id;
+    addBotMessage(data.reply, data.is_crisis, data.language || 'en');
+    if (data.is_crisis) document.getElementById("crisisBar").classList.add("show");
+    await loadConversations();
+  } catch(e) {
+    removeTyping();
+    addBotMessage("Network error. Please check your connection.");
+  }
+}
+
+function sendChip(el) { document.getElementById("msgInput").value = el.textContent; sendMessage(); }
+function handleKey(e) { if (e.key === "Enter" && !e.shiftKey) { e.preventDefault(); sendMessage(); } }
+function addUserMessage(text, save=true) {
+  const rtl = isArabic(text) ? " rtl" : "";
+  const bubbleClass = `bubble${rtl}`;
+  document.getElementById("messages").innerHTML += `
+    <div class="msg user${rtl}">
+      <div class="avatar user"><i class="fas fa-user"></i></div>
+      <div class="${bubbleClass}">${escapeHtml(text)}</div>
+    </div>`;
+  document.getElementById("messages").scrollTop = 1e9;
+}
+function addBotMessage(text, isCrisis=false, lang="en") {
+  const rtl = (lang === "ar" || isArabic(text)) ? " rtl" : "";
+  const bubbleClass = `bubble${rtl}`;
+  document.getElementById("messages").innerHTML += `
+    <div class="msg bot${rtl}">
+      <div class="avatar bot"><i class="fas fa-robot"></i></div>
+      <div class="${bubbleClass}">${escapeHtml(text)}</div>
+    </div>`;
+  document.getElementById("messages").scrollTop = 1e9;
+}
+function autoRtl(el) { el.style.direction = isArabic(el.value) ? "rtl" : "ltr"; }
+function showTyping() {
+  document.getElementById("messages").innerHTML += `
+    <div class="msg bot typing" id="typingIndicator">
+      <div class="avatar bot"><i class="fas fa-robot"></i></div>
+      <div class="bubble"><div class="dot"></div><div class="dot"></div><div class="dot"></div></div>
+    </div>`;
+  document.getElementById("messages").scrollTop = 1e9;
+}
+function removeTyping() { document.getElementById("typingIndicator")?.remove(); }
+
+// Mood buttons
+document.querySelectorAll(".mood-btn").forEach(btn => {
+  btn.addEventListener("click", async () => {
+    const score = parseInt(btn.dataset.score);
+    await fetch(`${API_BASE}/api/mood`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ session_id: sessionId, score })
+    });
+    const label = score <= 4 ? "low" : score <= 7 ? "average" : "good";
+    addBotMessage(`Thanks for sharing. I see you're feeling ${label} right now. I'm here for you.`);
+  });
+});
+
+// Mobile menu toggle
+const toggle = document.getElementById('menuToggle');
+if (toggle) {
+  toggle.style.display = window.innerWidth <= 680 ? 'block' : 'none';
+  toggle.addEventListener('click', () => document.getElementById('sidebar').classList.toggle('open'));
+  window.addEventListener('resize', () => toggle.style.display = window.innerWidth <= 680 ? 'block' : 'none');
+}
+
+init();
+</script>
+</body>
+</html>

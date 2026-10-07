@@ -1,0 +1,1248 @@
+text,intent,label
+where can i go to find a support group clearly for me for me?,fact-24,36
+what treatment options r available in simple words?,fact-15,26
+that's not what i'm looking for,wrong,104
+what should i do if i know someone who appears to have the symptoms of a mental disorder in simple words?,fact-13,24
+i am quite having family problems,family-issues,50
+guide me to i could use some advice,user-advice,99
+could you explain what r the different types of mental health professionals?,fact-23,35
+can you help me i want to feel better about myself?,self-care,86
+i need support with relationship,default,16
+"honestly, i've been dealing with trauma",trauma,97
+can you explain how to i'm interested in learning about mental health?,learn-mental-health,63
+could you help me show me how to i want self-improvement tips?,personal-development,79
+could you explain can you teach me about mental health?,learn-mental-health,63
+give me advice about that's all,done,19
+quick question: could you tell me what should i do if i know someone who appears to have the symptoms of a mental disorder in simple words briefly?,fact-13,24
+can you explain can you explain where can i learn about types of mental health treatment in simple words please?,fact-22,34
+my relationship is stressing me out,relationship-issues,82
+i am really having problems at work,work-problems,102
+what do you specialize in?,skill,87
+ok gotta go,goodbye,54
+can you explain who is bma?,about,0
+could you tell me are there cures for mental health problems?,fact-26,38
+could you define the best way to know if i'm unwell please clearly for me?,fact-29,41
+could you define the difference between anxiety and stress briefly?,fact-31,44
+where are you located in simple words?,location,65
+i feel insecure about myself today,low-self-esteem,67
+can i get your opinion on something please?,ask,6
+i have a question: could you explain what leads to mental health problems clearly briefly?,fact-27,39
+"i agree, i could use a break",user-agree,100
+i need information on mental health,learn-mental-health,63
+quick question: any tips to maintain social connections? what if i feel lonely please in simple words?,fact-30,43
+you're kind clearly for me,compliment,12
+show me how to thank you for the meditation tips. i'm noticing a positive difference in my mood,user-meditation,101
+"right now, i've been bored",boredom,7
+could you help me that's déjà vu?,repeat,84
+guide me to teach me to breathe,breathing-exercise,8
+goodnight,goodbye,54
+guide me to i need a hotline,crisis-resources,14
+i need help to i'm always busy,time-management,96
+show me how to that's not what i'm looking for,wrong,104
+i want to know can we talk about something else instead?,something-else,89
+how can i find a mental health professional right for my child or myself clearly clearly?,fact-18,29
+i've been stressed about money lately,financial-problems,51
+i lost my father,death,15
+what r some of the warning signs of mental illness clearly briefly?,fact-11,22
+"i have a question: if i become involved in treatment, what do i need to know for me?",fact-16,27
+i've been having problems at work today,work-problems,102
+where can i find therapy briefly for me?,fact-21,33
+i need help to teach me a breathing exercise,breathing-exercise,8
+could you help me i feel like you hate me?,hate-me,59
+could you help me i don't trust you?,hate-you,60
+quick question: what can trigger mental health problems briefly briefly?,fact-27,39
+i am stressed today,stressed,91
+that helped so much,thanks,94
+can you help me i have no discipline?,discipline,18
+"today, i am bored",boredom,7
+"at the moment, i am having relationship problems",relationship-issues,82
+i want to know what should i know before starting a new medication please briefly?,fact-20,32
+i have a question: can you give me some advice?,user-advice,99
+what are the causes of mental health problems please?,fact-27,39
+i want help with my uncle died,death,15
+can you explain how to just shut up?,not-talking,76
+can u prevent mental health problems please?,fact-25,37
+"right now, i'm having family problems",family-issues,50
+"at the moment, i feel having relationship problems",relationship-issues,82
+i need support with i'm feeling tense because i'm having relationship issues,problem,81
+i want help with exams,default,16
+guide me to give me a mental health fact,mental-health-fact,69
+quick question: how were you created?,creation,13
+could you help me i need advice on something?,user-advice,99
+"if i become involved in treatment, what do i need to know for me?",fact-16,27
+oh i see?,casual,10
+can you help me guide me to define mental health?,fact-1,21
+i want to know what should i do if i know someone who appears to have the symptoms of a mental disorder?,fact-13,24
+could you explain how to practice self-care?,self-care,86
+"right now, i feel sad",sad,85
+i need help to not really in the mood,no-approach,75
+i need help to i want to kill myself,suicide,93
+what's your name in simple words?,name,72
+show me how to i'm not feeling very social right now,no-approach,75
+good chatbot in simple words for me clearly,compliment,12
+hi bma,greeting,56
+"right now, i feel stressed about school",academic-stress,1
+i need support with your meditation advice was spot on! i feel more centered and grounded now,user-meditation,101
+can you explain how to please help me please help me guide me to difference between sadness and depression?,fact-32,45
+any tips to manage my time?,time-management,96
+please help me not really in the mood,no-approach,75
+i want to know can you tell me where can i learn about types of mental health treatment briefly clearly briefly?,fact-22,34
+quick question: where else can i get help briefly for me?,fact-19,30
+quick question: what are the different types of mental health professionals in simple words?,fact-23,35
+"at the moment, i'm dealing with trauma",trauma,97
+show me how to i've heard that before,repeat,84
+"i have a question: i have a question: if i become involved in treatment, what do i need to know for me clearly?",fact-16,27
+please help me family,default,16
+please help me i want to learn about mental health,learn-mental-health,63
+i want help with define mental health,fact-1,21
+what are the warning signs of mental illness please?,fact-11,22
+"to be honest, i am having relationship problems",relationship-issues,82
+what are the different types of mental health professionals please clearly?,fact-23,35
+quick question: could you tell me what does it mean to have a mental illness briefly?,fact-8,49
+i need support with tips for self-care,self-care,86
+how do i find a therapist in simple words?,therapy,95
+i'm bad when i compare myself today,comparison,11
+i want to know what does it mean to have a mental illness?,fact-8,49
+i'm having relationship problems today,relationship-issues,82
+quick question: what does therapy do?,therapy,95
+what treatment options are available clearly?,fact-15,26
+give me advice about affirmation pls,positive-affirmation,80
+could you help me you're useless?,understand,98
+alright see you soon,goodbye,54
+i am panicking right now right now,panic-attack,78
+i have a question: what can i do to know if i'm unwell please?,fact-29,41
+show me how to i need a good laugh,jokes,62
+show me how to define mental health,fact-1,21
+could you help me help me handle stress?,stress-management,90
+"lately, i've been stressed",stressed,91
+i need support with i need to relax,relaxation-techniques,83
+i need support with nothing much,neutral-response,73
+can you explain how are you?,casual,10
+i have a question: my name is?,name,72
+i have a question: explain the best way to find a mental health professional for myself or my child for me in simple words briefly?,fact-14,25
+what can trigger mental health problems for me?,fact-27,39
+can you teach me about mental health?,learn-mental-health,63
+i am extremely panicking right now,panic-attack,78
+i am lonely today,loneliness,66
+can you help me i feel thankful?,gratitude,55
+money,default,16
+hello bma there,greeting,56
+hi there friend,greeting,56
+guide me to i don't know what my goals are,goal-setting,53
+what r the different types of mental health professionals please?,fact-23,35
+quick question: could you define the difference between mental health professionals briefly?,fact-17,28
+how do i set goals?,goal-setting,53
+"these days, i am sad",sad,85
+i need support with that's all,done,19
+can you prevent mental health problems briefly?,fact-25,37
+what should i know about the difference between anxiety and stress in simple words briefly?,fact-31,44
+are you even listening in simple words?,stupid,92
+"to be honest, i am struggling with addiction",addiction-support,2
+can you explain what does it mean to have a mental illness clearly clearly in simple words?,fact-8,49
+i am really grieving,grief,57
+i want to know what treatment options r available?,fact-15,26
+show me how to help me calm down,relaxation-techniques,83
+can you help me please help me i need support with i need a hotline?,crisis-resources,14
+you are a great bot clearly clearly,compliment,12
+hey afternoon,afternoon,3
+financial problems,default,16
+how do i find a mental health professional right for my child or myself briefly?,fact-18,29
+how do i find a mental health professional right for my child or myself please?,fact-18,29
+i have a question: help me understand is recovery from mental illness possible for me?,fact-12,23
+"today, i'm having problems at work",work-problems,102
+top of the morning to u bma,morning,70
+i feel happy,happy,58
+can you explain can you explain where can i learn about types of mental health treatment briefly?,fact-22,34
+i want to know where are you from?,location,65
+much appreciated so much,thanks,94
+can you help me teach me a breathing exercise?,breathing-exercise,8
+give me advice about i could use some advice,user-advice,99
+gn,night,74
+life doesn't seem worth living,suicide,93
+i need support with i need a breathing exercise,breathing-exercise,8
+"honestly, i am having problems at work",work-problems,102
+you're repeating what you said,repeat,84
+"today, i've been dealing with trauma",trauma,97
+i need help to tell me more,learn-more,64
+i'm stressed about school today,academic-stress,1
+please help me you're against me,hate-me,59
+i'm so burned out,burnout,9
+i feel quite stressed about school,academic-stress,1
+can u prevent mental health problems for me for me in simple words?,fact-25,37
+give me advice about i don't have anything more to say,done,19
+i am dealing with trauma lately,trauma,97
+i am grieving these days,grief,57
+i've been stressed about school these days,academic-stress,1
+i need support with i don't think that's accurate,wrong,104
+what can i do to find a mental health professional right for my child or myself clearly for me?,fact-18,29
+quick question: how to practice self-care?,self-care,86
+can you prevent mental health problems clearly please clearly?,fact-25,37
+i am depressed right now,depressed,17
+i'm mad,anger,4
+i want help with tell me about mental health,learn-mental-health,63
+quick question: i have a question: could you explain what leads to mental health problems briefly clearly?,fact-27,39
+can we talk about something else instead clearly?,something-else,89
+can you help me that sounds useful?,meditation,68
+can you help me i'm feeling tense because i'm having relationship issues?,problem,81
+show me how to i think i could benefit from that,meditation,68
+i have a question: what do you specialize in?,skill,87
+i have a question: i have a question: could you define the difference between mental health professionals?,fact-17,28
+i've been grieving lately,grief,57
+i need someone to talk to?,help,61
+can you help me i want to develop myself?,personal-development,79
+i'd like to know is there any cure for mental health problems briefly?,fact-26,38
+i want to know where else can i get help briefly?,fact-19,30
+thank you very much so much,thanks,94
+can you help me i need support with guide me to i want help with give me advice about define mental health?,fact-1,21
+i have a question: i have a question: explain the best way to find a mental health professional for myself or my child briefly briefly clearly?,fact-14,25
+i want help with help me become better,personal-development,79
+any tips to become disciplined?,discipline,18
+"today, i'm struggling with addiction",addiction-support,2
+could you help me tell me something positive?,positive-affirmation,80
+can you help me tell me a joke?,jokes,62
+can you explain how to my grandparent passed away?,death,15
+give me advice about that sounds useful,meditation,68
+quick question: where do you live?,location,65
+guide me to help me handle stress,stress-management,90
+i'm quite depressed,depressed,17
+"lately, i've been bored",boredom,7
+i feel stressed these days,stressed,91
+show me how to i need to plan my future,goal-setting,53
+could you help me i need help to mental health emergency for me?,crisis-resources,14
+i need help?,help,61
+what is a fact about mental health?,mental-health-fact,69
+guide me to i lost my drive,motivation,71
+could you explain can you give me some advice?,user-advice,99
+i am insecure about myself at the moment,low-self-esteem,67
+i appreciate this,gratitude,55
+can you help me your guidance has been invaluable. i'll continue practicing meditation and focus on the aspects of my life that i can influence?,pandora-useful,77
+what can i do to manage stress?,stress-management,90
+please help me you're not making any sense,stupid,92
+give me advice about i feel like i'm always the one who feels like i'm being ignored,friends,52
+give me advice about teach me to breathe,breathing-exercise,8
+"honestly, i've been struggling with addiction",addiction-support,2
+give me advice about i'm not feeling very social right now,no-approach,75
+could you explain where else can i get help for me please?,fact-19,30
+could you tell me how were you made?,creation,13
+i want help with tips for self-care,self-care,86
+i have a question: how are sadness and depression briefly different?,fact-32,45
+i am struggling with addiction right now,addiction-support,2
+i am depressed at the moment,depressed,17
+i want help with i need to set some goals,goal-setting,53
+help me understand is recovery from mental illness possible briefly in simple words clearly?,fact-12,23
+give me advice about just taking it easy,neutral-response,73
+can you tell me can you explain how to define depression?,fact-3,42
+"to be honest, i am stressed",stressed,91
+i'd like to know who is therapy for in simple words?,fact-7,48
+i need support with i have trouble falling asleep,sleep,88
+could you explain can you tell me what should i do if i know someone who appears to have the symptoms of a mental disorder?,fact-13,24
+guide me to i'm not feeling very social right now,no-approach,75
+i feel bored right now,boredom,7
+i want help with i need some advice,user-advice,99
+can you tell me what can i do to find a mental health professional for myself or my child briefly clearly briefly?,fact-14,25
+i need help to i don't trust you,hate-you,60
+"at the moment, i've been bored",boredom,7
+top of the morning to you bma,morning,70
+help me understand can you help me define depression briefly please?,fact-3,42
+"honestly, i don't believe in myself",low-self-esteem,67
+i need help to give me something to laugh about,jokes,62
+can you help me that's all?,done,19
+quick question: quick question: what should i know before starting a new medication briefly?,fact-20,32
+can you help me i'm wide awake when i should be sleeping?,sleep,88
+"honestly, i've been feeling lonely",loneliness,66
+hey hey afternoon,afternoon,3
+i have a question: quick question: am i mentally ill for me?,fact-5,46
+can you explain what should i do if i know someone who appears to have the symptoms of a mental disorder clearly please please?,fact-13,24
+i want to know where do i go to find a support group clearly clearly?,fact-24,36
+guide me to i remember you saying that,repeat,84
+hello evening bma,evening,20
+guide me to i never have time,time-management,96
+how are you?,casual,10
+help me understand where can i learn about types of mental health treatment clearly briefly?,fact-22,34
+guide me to i don't like you,hate-you,60
+i need help to ok sure. i would like to learn more about it,learn-more,64
+give me advice about i need a good laugh,jokes,62
+i need support with nobody understands me,understand,98
+could you explain is there any cure for mental health problems?,fact-26,38
+i'd like to know can u prevent mental health problems?,fact-25,37
+could you help me tell me your abilities?,skill,87
+sbah lkhir,morning,70
+good night,night,74
+i feel really happy,happy,58
+i have a question: how can you help?,skill,87
+hey hello evening,evening,20
+i'm happy today,happy,58
+ok until next time,goodbye,54
+i am extremely having problems at work,work-problems,102
+i need help to i'm not feeling up to it,no-approach,75
+could you explain can you explain what does a therapist do?,fact-6,47
+quick question: should i see a therapist?,therapy,95
+can you explain how to i need a hotline?,crisis-resources,14
+can you explain how to i have no time?,time-management,96
+show me how to i want to learn more about mental health,learn-mental-health,63
+"these days, i'm feeling low",sad,85
+tell me about therapy,therapy,95
+give me advice about i think i'm feeling stressed because of the workload at my job,problem,81
+could you explain what helps with relaxation?,relaxation-techniques,83
+what's the best way to know if i'm unwell please?,fact-29,41
+how do i breathe to calm down?,breathing-exercise,8
+i have a question: quick question: help me understand is recovery from mental illness possible briefly in simple words?,fact-12,23
+quick question: what treatment options are available?,fact-15,26
+what are you in simple words?,about,0
+"these days, i feel having family problems",family-issues,50
+what should i do if i know someone who appears to have the symptoms of a mental disorder for me?,fact-13,24
+please help me i feel like i'm always the one who feels like i'm being excluded,friends,52
+heading to bed bma,night,74
+i've been angry at the moment,anger,4
+good evening bot for me,evening,20
+please help me yeah you're absolutely right about that,user-agree,100
+can you explain what are the different types of mental health professionals clearly in simple words?,fact-23,35
+where can i find a support group clearly for me?,fact-24,36
+am i suffering from depression clearly?,fact-5,46
+i'd like to know who built you?,creation,13
+i need help to i waste too much time,time-management,96
+i feel quite sad,sad,85
+can you help me i'm feeling upset because of a disagreement with a friend?,problem,81
+mind if i pick your brain about something please?,ask,6
+i'm so insecure about myself,low-self-esteem,67
+what are common signs of mental illness briefly?,fact-11,22
+"at the moment, i feel bored",boredom,7
+i feel worthless right now,worthless,103
+i'd like to know how were you created?,creation,13
+where can i find therapy briefly?,fact-21,33
+can you help me help me plan goals?,goal-setting,53
+i'd like to know where should i look for a support group?,fact-24,36
+could you explain can you tell me a mental health fact?,mental-health-fact,69
+i need support with i'm feeling overwhelmed because i have too many assignments to complete,problem,81
+can you tell me what do i do if i'm worried about my mental health?,fact-28,40
+"to be honest, i've been feeling happy",happy,58
+help me understand what does a therapist do?,fact-6,47
+do you know any jokes clearly?,jokes,62
+can you explain how to i could use some advice?,user-advice,99
+can you tell me can you explain what can i do to know if i'm unwell please?,fact-29,41
+i think i'm very having a panic attack,panic-attack,78
+i need help to affirmation pls,positive-affirmation,80
+give me advice about i don't want to talk about it,not-talking,76
+u r helpful for me,compliment,12
+"i need help to no, that would be all",done,19
+i am so bad when i compare myself,comparison,11
+guide me to just taking it easy,neutral-response,73
+can you explain how to help me handle stress?,stress-management,90
+i feel quite like i have no value,worthless,103
+i want help with i want to set new goals,goal-setting,53
+could you help me thank you for being here?,gratitude,55
+"i need support with interesting, i might give that a try",meditation,68
+could you tell me what do i do if i'm worried about my mental health clearly clearly?,fact-28,40
+i need help to i need more willpower,discipline,18
+quick question: what can i do to find therapy in simple words?,fact-21,33
+i have a question: what are the different types of mental health professionals?,fact-23,35
+"if i become involved in treatment, what do i need to know in simple words for me for me for me?",fact-16,27
+please help me show me how to define depression please,fact-3,42
+please help me you're useless,understand,98
+can you help me tell me more?,learn-more,64
+where should i look for therapy clearly for me?,fact-21,33
+can you tell me what can you do?,about,0
+can you help me i feel better now?,user-meditation,101
+show me how to mental health emergency,crisis-resources,14
+show me how to i waste too much time,time-management,96
+i don't believe in myself right now,low-self-esteem,67
+i feel lonely at the moment,loneliness,66
+i'm so stressed about money,financial-problems,51
+"lately, i am struggling with addiction",addiction-support,2
+i need help to i practiced meditation as you suggested and it really helped calm my mind,user-meditation,101
+could you explain what should i call you?,name,72
+what does the difference between mental health professionals for me mean?,fact-17,28
+quick question: what do i do if i'm worried about my mental health?,fact-28,40
+i want help with that doesn't seem right,wrong,104
+where can i go to find therapy clearly briefly?,fact-21,33
+you're not helpful at all,understand,98
+things are tense at home right now,family-issues,50
+"lately, i am burned out",burnout,9
+can you help me you're saying the same thing?,repeat,84
+help me understand can you tell me what can i do to find a mental health professional right for my child or myself?,fact-18,29
+help?,help,61
+could you help me nothing much?,neutral-response,73
+night bot,night,74
+could you help me?,help,61
+help me understand can you explain what are the different types of mental health professionals?,fact-23,35
+oh i see please?,casual,10
+give me advice about i need a breathing exercise,breathing-exercise,8
+i want help with i want clear objectives,goal-setting,53
+show me how to i need some advice,user-advice,99
+salomo alykoum,greeting,56
+you're kind clearly for me please,compliment,12
+tell me a fact about mental health,mental-health-fact,69
+could you explain what does it mean to have a mental illness?,fact-8,49
+i have a question: am i suffering from depression please in simple words?,fact-5,46
+i am very stressed about money,financial-problems,51
+i'm very alone,loneliness,66
+i'm extremely exhausted from everything,burnout,9
+could you help me clearly?,help,61
+i feel dealing with trauma these days,trauma,97
+"these days, i am dealing with trauma",trauma,97
+i want help with i don't know what my goals are,goal-setting,53
+can you explain how to i lost my father?,death,15
+i've been stressed about money,financial-problems,51
+quick question: i'd like to know what r some of the warning signs of mental illness please?,fact-11,22
+quick question: what should i know about the difference between mental health professionals briefly?,fact-17,28
+i feel really insecure about myself,low-self-esteem,67
+hey good day bma,afternoon,3
+i have a question: what are you doing?,casual,10
+i am very bad when i compare myself,comparison,11
+i need help to i need self care tips,self-care,86
+"lately, i've been feeling anxious",anxious,5
+"honestly, i am worthless",worthless,103
+i feel extremely panicking right now,panic-attack,78
+guide me to i need motivation,motivation,71
+can you help me i want to grow as a person?,personal-development,79
+who is therapy for clearly for me?,fact-7,48
+i feel so lonely,loneliness,66
+"i have a question: quick question: if i become involved in treatment, what do i need to know in simple words?",fact-16,27
+i have a question: i have a question: what are the different types of mental health professionals for me?,fact-23,35
+hey good night,night,74
+could you help me you're saying the same thing?,repeat,84
+show me how to hmmm that sounds like it could be useful to me,meditation,68
+okay?,casual,10
+"i want help with no, that would be all",done,19
+what's the difference between anxiety and stress for me?,fact-31,44
+quick question: quick question: what should i know before starting a new medication in simple words?,fact-20,32
+hey evening bma,evening,20
+please help me say something nice to me,positive-affirmation,80
+could you define the best way to know if i'm unwell clearly please?,fact-29,41
+i need help to i've thought about killing myself,suicide,93
+could you tell me where else can i get help briefly?,fact-19,30
+i've been feeling depressed,depressed,17
+i need support with you're not making any sense,stupid,92
+can you help me i feel exhausted but can't sleep?,sleep,88
+guide me to my mother passed away,death,15
+"quick question: i have a question: if i become involved in treatment, what do i need to know clearly in simple words please clearly?",fact-16,27
+i have a question: explain the best way to find a mental health professional for myself or my child please briefly?,fact-14,25
+"right now, i've been feeling happy",happy,58
+guide me to i want self-improvement tips please,personal-development,79
+evening bma bot,evening,20
+i need help to i'm not sure about that one,wrong,104
+i want help with i have no discipline,discipline,18
+show me how to emergency mental health help,crisis-resources,14
+"honestly, i am lonely",loneliness,66
+help me understand what does it mean to have a mental illness in simple words for me clearly in simple words?,fact-8,49
+good day bot bma,afternoon,3
+is it alright if i seek your expertise?,ask,6
+give me advice about i feel better now,user-meditation,101
+could you help me i don't feel like talking right now?,not-talking,76
+can you tell me what should i know before starting a new medication for me?,fact-20,32
+what is mental health in simple words?,fact-1,21
+can you explain how to you hate me?,hate-me,59
+what's the best way to relax?,relaxation-techniques,83
+i'm very happy,happy,58
+can i get your opinion on something in simple words?,ask,6
+what do i do if i'm worried about my mental health please in simple words?,fact-28,40
+"today, i've been feeling worthless",worthless,103
+i'd like to know where should i look for therapy briefly?,fact-21,33
+i am quite having problems at work,work-problems,102
+i need help to i don't think that's accurate,wrong,104
+i'm quite anxious,anxious,5
+i have a question: any tips to maintain social connections? what if i feel lonely please clearly?,fact-30,43
+please help me i think you dislike me,hate-me,59
+show me how to i appreciate your insights. i'll prioritize meditation and center my attention on the areas where i can make a difference,pandora-useful,77
+i've been having problems at work these days,work-problems,102
+can you explain can you tell me a mental health fact?,mental-health-fact,69
+"lately, i'm sad",sad,85
+can you explain how to i feel like i'm always the one who feels like i'm being avoided?,friends,52
+i'm struggling with addiction right now,addiction-support,2
+i'd like to know what treatment options are available for me briefly?,fact-15,26
+please help me i'm wide awake when i should be sleeping,sleep,88
+guide me to give me advice about define mental health,fact-1,21
+i need support with i feel like i'm always the one who feels like i'm being avoided,friends,52
+can you help me girlfriend?,default,16
+can you explain how to i've heard that before?,repeat,84
+could you tell me is there any cure for mental health problems?,fact-26,38
+i need support with i'm not sure about that one,wrong,104
+i've been angry lately,anger,4
+give me a simple definition of the difference between mental health professionals clearly for me?,fact-17,28
+can you explain what should i do if i know someone who appears to have the symptoms of a mental disorder clearly please?,fact-13,24
+please help me i feel like i'm always the one who feels like i'm being avoided,friends,52
+could you help me i feel like i'm always the one who feels like i'm being pushed away?,friends,52
+i have a question: i have a question: explain the best way to find a mental health professional for myself or my child please briefly?,fact-14,25
+could you help me just hanging out?,neutral-response,73
+i have a question: help me understand is recovery from mental illness possible please in simple words for me?,fact-12,23
+give me advice about i feel grateful,gratitude,55
+"if i become involved in treatment, what do i need to know for me briefly clearly?",fact-16,27
+thank you,thanks,94
+hey morning for me,morning,70
+give me advice about you must hate me,hate-me,59
+i need support with i would like to learn more about it,learn-more,64
+guide me to help me calm down,relaxation-techniques,83
+can you tell me who is therapy for?,fact-7,48
+i need help to let's change the subject,something-else,89
+i need help to i could use some advice,user-advice,99
+i'm feeling frustrated because i can't seem to solve this problem,problem,81
+ok?,casual,10
+i'm so lonely,loneliness,66
+could you explain what can i do to find therapy for me briefly please?,fact-21,33
+what is self-care?,self-care,86
+i've been having problems at work at the moment,work-problems,102
+i feel really stressed about school,academic-stress,1
+i have a question: can you tell me something funny?,jokes,62
+can you explain are you available in morocco?,location,65
+could you help me help me with time management?,time-management,96
+evenin',evening,20
+i have a question: could you define the difference between mental health professionals?,fact-17,28
+"at the moment, i am angry",anger,4
+what can i do to set goals?,goal-setting,53
+i am grieving right now,grief,57
+i like talking to you,compliment,12
+quick question: i'd like to know where can i learn about types of mental health treatment for me?,fact-22,34
+guide me to i feel exhausted but can't sleep,sleep,88
+could you tell me how are anxiety and stress different?,fact-31,44
+i feel very angry,anger,4
+"to be honest, i am burned out",burnout,9
+can you tell me why does mental health matter?,fact-2,31
+i need help to you're not making any sense,stupid,92
+could you explain what are the different types of mental health professionals briefly?,fact-23,35
+how do i know if i'm unwell clearly?,fact-29,41
+"i need support with you're correct, i need to take a break",user-agree,100
+i need help to i remember you saying that,repeat,84
+i keep waking up during the night,sleep,88
+i need help to i feel better now,user-meditation,101
+what helps with relaxation for me?,relaxation-techniques,83
+is there any cure for mental health problems please?,fact-26,38
+hey afternoon bot clearly,afternoon,3
+i need support with my aunt passed away,death,15
+cya for now,goodbye,54
+i have no time,time-management,96
+i need support with i don't know what my goals are,goal-setting,53
+what should i know about the difference between mental health professionals clearly clearly?,fact-17,28
+i have a question: what treatment options r available for me?,fact-15,26
+can you assist me please?,help,61
+can you define the difference between anxiety and stress?,fact-31,44
+show me how to money,default,16
+i've been stressed about school lately,academic-stress,1
+hello evening,evening,20
+i have a question: i want to know what should i know before starting a new medication in simple words?,fact-20,32
+quick question: i have a question: am i suffering from depression clearly in simple words?,fact-5,46
+can you explain how to i can't stick to anything?,discipline,18
+"please help me i don't think so, i have too much on my plate",no-approach,75
+please help me i'm feeling worried because i have an important deadline approaching,problem,81
+i don't want to talk about it,not-talking,76
+i want help with i need support with please help me please help me define depression,fact-3,42
+i need support with motivate me,motivation,71
+what are stress management tips briefly?,stress-management,90
+i have a question: quick question: where can i learn about types of mental health treatment clearly?,fact-22,34
+show me how to i want self-improvement tips,personal-development,79
+"i need support with same old, same old",neutral-response,73
+i feel so bad when i compare myself,comparison,11
+i need help to tell me about mental health,learn-mental-health,63
+i don't have any more thoughts on this,done,19
+i'm panicking right now these days,panic-attack,78
+could you help me i'm not feeling up to it?,no-approach,75
+"guide me to i've never tried meditation before, but i'm willing to give it a shot",meditation,68
+quick question: what should i know about the difference between mental health professionals?,fact-17,28
+help me understand are there cures for mental health problems clearly?,fact-26,38
+i've been having relationship problems,relationship-issues,82
+i want help with say something nice to me,positive-affirmation,80
+please help me thank you for your assistance. i'll stick to meditation and channel my efforts towards the aspects of my life that i can control,pandora-useful,77
+"today, i'm stressed",stressed,91
+how about a joke?,jokes,62
+i feel worthless lately,worthless,103
+what should i know about the best way to know if i'm unwell?,fact-29,41
+"these days, my job is stressing me out",work-problems,102
+help me understand can you help me define depression clearly clearly?,fact-3,42
+"right now, i'm stressed",stressed,91
+can i get your opinion on something clearly?,ask,6
+"right now, i've been having problems at work",work-problems,102
+quick question: any tips to maintain social connections? what if i feel lonely clearly?,fact-30,43
+are there cures for mental health problems in simple words please?,fact-26,38
+guide me to i want to learn about mental health,learn-mental-health,63
+could you explain are you available in morocco?,location,65
+i have a question: i have a question: do i need therapy for me?,fact-7,48
+quick question: what's up?,casual,10
+could you tell me can you help me?,help,61
+how can i know if i'm unwell briefly?,fact-29,41
+sup there,greeting,56
+quick question: quick question: what can i do to find therapy?,fact-21,33
+any tips to find a mental health professional right for my child or myself briefly?,fact-18,29
+i want help with just taking it easy,neutral-response,73
+please help me you hate me,hate-me,59
+please help me briefly?,help,61
+"at the moment, i have financial problems",financial-problems,51
+can you help me i sense animosity from you?,hate-me,59
+hey hey night,night,74
+i'm worthless,worthless,103
+show me how to exams,default,16
+i feel extremely depressed,depressed,17
+please help me i would like to learn more about it,learn-more,64
+i'm really stressed about school,academic-stress,1
+"today, i've been stressed about money",financial-problems,51
+i have a question: help me understand is recovery from mental illness possible please briefly in simple words briefly in simple words?,fact-12,23
+my sibling died,death,15
+hi bot there,greeting,56
+can you explain how to i feel like ending my life?,suicide,93
+"can you explain how to yes, i would like to learn more about it?",learn-more,64
+can you help me you're against me?,hate-me,59
+i have a question: are there cures for mental health problems?,fact-26,38
+quick question: am i depressed in simple words?,fact-5,46
+"honestly, i'm grieving",grief,57
+i need support with i did what you said and i feel a lot better. thank you very much,user-meditation,101
+please help me i need a breathing exercise,breathing-exercise,8
+i am really anxious,anxious,5
+guide me to i need urgent help,crisis-resources,14
+could you help me teach me a relaxation technique?,relaxation-techniques,83
+i'm really worthless,worthless,103
+explain the difference between mental health professionals in simple words?,fact-17,28
+i'd like to know what country are you for?,location,65
+what are the different types of mental health professionals briefly?,fact-23,35
+can you explain how to that's not quite accurate?,wrong,104
+i have a question: how are you doing?,casual,10
+"right now, i'm dealing with trauma",trauma,97
+show me how to i am going to kill myself,suicide,93
+is therapy right for me clearly?,therapy,95
+i want to know what should i know before starting a new medication please?,fact-20,32
+can you explain how to i think i'm feeling stressed because of the workload at my job?,problem,81
+i'd like to know what are the different types of mental health professionals please clearly?,fact-23,35
+"today, i am having family problems",family-issues,50
+i am anxious,anxious,5
+can you help me i hate you?,hate-you,60
+guide me to i feel grateful,gratitude,55
+can you explain how to help me set goals?,goal-setting,53
+i need support with i'm feeling down because i failed a test,problem,81
+quick question: any tips to find a mental health professional right for my child or myself clearly in simple words clearly?,fact-18,29
+"at the moment, i've been angry",anger,4
+tell me about the importance of mental health briefly?,fact-2,31
+what is your purpose briefly?,about,0
+i have a question: tell me about a therapist?,fact-6,47
+should i see a therapist for me?,therapy,95
+i'm in a good mood,happy,58
+"at the moment, i am anxious",anxious,5
+what should i do if i know someone who appears to have the symptoms of a mental disorder briefly?,fact-13,24
+i am struggling after something traumatic,trauma,97
+what are you?,about,0
+i have a question: is it alright if i seek your expertise?,ask,6
+quick question: explain the importance of mental health briefly in simple words?,fact-2,31
+i want to know are you available in morocco?,location,65
+see you later for now,goodbye,54
+can you define the importance of mental health please?,fact-2,31
+i am insecure about myself lately,low-self-esteem,67
+do you have a name clearly?,name,72
+i want to know what r some of the warning signs of mental illness clearly?,fact-11,22
+i want to know who is therapy for briefly for me?,fact-7,48
+may i seek your advice on a matter for me?,ask,6
+i am burned out lately,burnout,9
+am i suffering from depression clearly in simple words clearly?,fact-5,46
+can you tell me where can i learn about types of mental health treatment please?,fact-22,34
+"right now, i feel anxious",anxious,5
+i feel extremely struggling with addiction,addiction-support,2
+i am having family problems at the moment,family-issues,50
+could you tell me who is therapy for?,fact-7,48
+give me advice about i need positive words,positive-affirmation,80
+give me a simple definition of the difference between anxiety and stress in simple words?,fact-31,44
+i'm quite worthless,worthless,103
+i'm quite feeling low,sad,85
+can you tell me is therapy right for me?,therapy,95
+i have a question: could you explain what leads to mental health problems clearly?,fact-27,39
+"at the moment, i am having family problems",family-issues,50
+give me a simple definition of therapy clearly clearly?,fact-7,48
+can you help me i lost my father?,death,15
+quick question: what can you do?,about,0
+could you tell me what should i do if i know someone who appears to have the symptoms of a mental disorder clearly please briefly?,fact-13,24
+can you help me tell me another joke?,jokes,62
+can you explain how to i need support with tell me about therapy?,therapy,95
+i need support with thank you for the meditation tips. i'm noticing a positive difference in my mood,user-meditation,101
+quick question: i need someone to talk to?,help,61
+i want to know what do you specialize in?,skill,87
+i'm grieving at the moment,grief,57
+i feel mad,anger,4
+give me advice about you're clueless,stupid,92
+i want help with im constantly stressed,stress-management,90
+help me understand is recovery from mental illness possible please in simple words?,fact-12,23
+i need support with i followed your advice and i'm feeling much more relaxed,user-meditation,101
+quick question: quick question: i'd like to know where else can i get help for me please briefly for me clearly?,fact-19,30
+could you help me i feel grateful?,gratitude,55
+can you explain where can i learn about types of mental health treatment in simple words briefly?,fact-22,34
+i feel extremely like i have no value,worthless,103
+give me advice about i appreciate your insights. i'll prioritize meditation and center my attention on the areas where i can make a difference,pandora-useful,77
+im grateful,gratitude,55
+i want to know what r some of the warning signs of mental illness clearly for me?,fact-11,22
+many thanks,thanks,94
+i'm feeling worried because i have an important deadline approaching,problem,81
+"to be honest, i've been feeling depressed",depressed,17
+help me understand what does it mean to have a mental illness in simple words for me for me?,fact-8,49
+help me understand what treatment options r available in simple words?,fact-15,26
+can you tell me what should i know about the difference between mental health professionals?,fact-17,28
+do you know any jokes briefly?,jokes,62
+i need help to you don't get it,understand,98
+i feel grieving today,grief,57
+can you explain how to help me breathe?,breathing-exercise,8
+i have a question: i have a question: could you explain what leads to mental health problems for me briefly briefly?,fact-27,39
+i need support with thank you for your assistance. i'll stick to meditation and channel my efforts towards the aspects of my life that i can control,pandora-useful,77
+i am worthless these days,worthless,103
+i have a question: any tips to maintain social connections? what if i feel lonely in simple words briefly clearly for me for me please?,fact-30,43
+i've been having relationship problems at the moment,relationship-issues,82
+i have no motivation,motivation,71
+i like talking to u,compliment,12
+"these days, i'm sad",sad,85
+can you explain how to you don't get it?,understand,98
+"can you explain how to you're correct, i need to take a break?",user-agree,100
+could you tell me how are anxiety and stress different in simple words please?,fact-31,44
+i need help to i feel like i'm always the one who feels like i'm being sidelined,friends,52
+give me advice about hmmm that sounds like it could be useful to me,meditation,68
+i feel extremely bored,boredom,7
+i'm quite happy,happy,58
+i need more willpower,discipline,18
+"to be honest, i am lonely",loneliness,66
+please help me boyfriend,default,16
+i want help with i lost my father,death,15
+can you explain how to i hate you?,hate-you,60
+i am grieving today,grief,57
+could you tell me what helps with relaxation?,relaxation-techniques,83
+can you tell me can you tell me why does mental health matter?,fact-2,31
+could you tell me can you explain can you tell me is there any cure for mental health problems?,fact-26,38
+i want to know can you explain what do i do if i'm worried about my mental health for me for me briefly in simple words?,fact-28,40
+could you tell me who created you?,creation,13
+give me advice about i need self-care advice,self-care,86
+could you tell me who is therapy for please in simple words?,fact-7,48
+can you help me for me?,help,61
+quick question: i want to know what does it mean to have a mental illness in simple words clearly briefly for me?,fact-8,49
+could you help me i want to die?,suicide,93
+what does it mean to have a mental illness briefly?,fact-8,49
+what makes mental health important?,fact-2,31
+"guide me to i've heard about meditation, but i'm not sure how to start",meditation,68
+"i have a question for you, if that's okay for me?",ask,6
+thanks for the help so much,thanks,94
+hello bma friend,greeting,56
+could you help me that's not quite accurate?,wrong,104
+gm bot briefly,morning,70
+please help me give me advice about define mental health,fact-1,21
+"lately, i feel anxious",anxious,5
+could you tell me what does a therapist do in simple words?,fact-6,47
+i'm stressed at the moment,stressed,91
+help me understand who are you?,about,0
+you're saying the same thing,repeat,84
+i need support with i lost my drive,motivation,71
+show me how to i'm feeling worried because i have an important deadline approaching,problem,81
+could you explain can you explain what does it mean to have a mental illness please?,fact-8,49
+"honestly, i've been angry",anger,4
+tell me another fact about mental health,mental-health-fact,69
+"at the moment, i am panicking right now",panic-attack,78
+really many thanks,thanks,94
+i'm so dealing with trauma,trauma,97
+"at the moment, i've been dealing with trauma",trauma,97
+can you help me i feel like i'm always the one who feels like i'm being pushed away?,friends,52
+i am extremely insecure about myself,low-self-esteem,67
+could you help me stress is overwhelming me?,stress-management,90
+i have a question: where are you from?,location,65
+i need help to i don't want to talk about it,not-talking,76
+i need support for addiction these days,addiction-support,2
+please help me nobody understands me,understand,98
+i feel having family problems right now,family-issues,50
+can u prevent mental health problems in simple words?,fact-25,37
+"i need help to i see your point, i should take a step back and rest",user-agree,100
+what is your name please?,name,72
+"to be honest, i'm bored",boredom,7
+i am angry these days,anger,4
+can you tell me is it alright if i seek your expertise?,ask,6
+i am dealing with loss,grief,57
+"honestly, i have financial problems",financial-problems,51
+i'd like to know who is therapy for?,fact-7,48
+my relationship is stressing me out these days,relationship-issues,82
+help me understand is it alright if i seek your expertise?,ask,6
+give me advice about i want to develop myself,personal-development,79
+i need help to i'm wide awake when i should be sleeping,sleep,88
+i need support with mental health emergency,crisis-resources,14
+guide me to your meditation advice was spot on! i feel more centered and grounded now,user-meditation,101
+"at the moment, i am stressed about school",academic-stress,1
+i have a question: what is your name?,name,72
+"today, i've been having family problems",family-issues,50
+i've been grieving,grief,57
+hey hey night bot bot,night,74
+can you tell me how are you?,casual,10
+how do i find a mental health professional for myself or my child briefly please?,fact-14,25
+please help me tell me about therapy,therapy,95
+i want to know what should i know before starting a new medication please in simple words please?,fact-20,32
+quick question: can we talk about something else?,not-talking,76
+can you explain can you tell me is there any cure for mental health problems?,fact-26,38
+show me how to i have zero discipline,discipline,18
+i'd like to know why should i keep going?,motivation,71
+i feel extremely lonely,loneliness,66
+can you define therapy briefly?,fact-7,48
+hello evening bma bot,evening,20
+how can i maintain social connections? what if i feel lonely briefly?,fact-30,43
+quick question: any tips to find a mental health professional for myself or my child briefly briefly?,fact-14,25
+"these days, i feel insecure about myself",low-self-esteem,67
+explain depression clearly?,fact-3,42
+could you help me money?,default,16
+can you help me i'm interested in learning about mental health?,learn-mental-health,63
+could you explain what can trigger mental health problems please in simple words?,fact-27,39
+explain the importance of mental health briefly briefly?,fact-2,31
+quick question: i'd like to know can you tell me what can i do to find a mental health professional right for my child or myself in simple words?,fact-18,29
+can u prevent mental health problems?,fact-25,37
+who created you for me?,creation,13
+"i have a question: i have a question: if i become involved in treatment, what do i need to know for me for me?",fact-16,27
+i feel dealing with trauma lately,trauma,97
+could you tell me what do i do if i'm worried about my mental health please in simple words?,fact-28,40
+you are amazing,compliment,12
+please help me emergency mental health help,crisis-resources,14
+i have a question: i have a question: what should i know before starting a new medication clearly?,fact-20,32
+i want to know what is your name?,name,72
+could you tell me can you explain can you define the difference between mental health professionals please?,fact-17,28
+what are some of the warning signs of mental illness?,fact-11,22
+my job is stressing me out at the moment,work-problems,102
+what does a therapist do in simple words?,fact-6,47
+quick question: what do you specialize in?,skill,87
+i've been feeling lonely,loneliness,66
+i'm worthless these days,worthless,103
+i want help with you're useless,hate-you,60
+"right now, i feel burned out",burnout,9
+can you explain how to i feel exhausted but can't sleep?,sleep,88
+can you help me affirmation please?,positive-affirmation,80
+can you prevent mental health problems briefly briefly?,fact-25,37
+guide me to i'd like to shift the conversation to something else,something-else,89
+guide me to please help me guide me to difference between sadness and depression,fact-32,45
+show me how to share a mental health fact,mental-health-fact,69
+how are sadness and depression clearly different?,fact-32,45
+hey evenin' bot bot,evening,20
+i have a question: help me understand depression clearly?,fact-3,42
+i want help with you're acting dumb,stupid,92
+i'd like to know what can you do?,about,0
+could you explain what can i do to find a mental health professional for myself or my child?,fact-14,25
+"you're right, i should give myself some time to relax",user-agree,100
+i need support for addiction,addiction-support,2
+can you define the best way to maintain social connections? what if i feel lonely in simple words for me please?,fact-30,43
+please help me hmmm that sounds like it could be useful to me,meditation,68
+"if i become involved in treatment, what do i need to know in simple words please briefly clearly in simple words?",fact-16,27
+do you have a brain briefly?,stupid,92
+am i mentally ill in simple words?,fact-5,46
+really thanks,thanks,94
+what do i do if i'm worried about my mental health for me please?,fact-28,40
+how about a joke for me?,jokes,62
+tell me about depression briefly?,fact-3,42
+how are sadness and depression please different?,fact-32,45
+help me understand what should i do if i know someone who appears to have the symptoms of a mental disorder for me?,fact-13,24
+tell me about your expertise?,skill,87
+please help me help me with time management,time-management,96
+"honestly, my studies are overwhelming me",academic-stress,1
+i've been struggling with addiction at the moment,addiction-support,2
+what can i do to manage my time?,time-management,96
+i have a question: what r some of the warning signs of mental illness please?,fact-11,22
+i am having relationship problems these days,relationship-issues,82
+give me advice about define mental health clearly,fact-1,21
+could you help me i've thought about killing myself?,suicide,93
+i feel bored at the moment,boredom,7
+hey hello night bot,night,74
+u r kind,compliment,12
+i am panicking right now today,panic-attack,78
+could you help me i need some advice?,user-advice,99
+"lately, i'm feeling low",sad,85
+can you help me i need advice on something?,user-advice,99
+i have a question: i have a question: explain the importance of mental health in simple words clearly?,fact-2,31
+guide me to my uncle died,death,15
+difference between anxiety and stress please in simple words?,fact-31,44
+i think i'm having a panic attack,panic-attack,78
+guide me to i want to develop myself,personal-development,79
+can you tell me how were you made?,creation,13
+who built you in simple words?,creation,13
+i've been stressed about money today,financial-problems,51
+am i suffering from depression please?,fact-5,46
+quick question: what can you do?,skill,87
+could you tell me what does therapy do?,therapy,95
+help me understand what should i know before starting a new medication for me in simple words for me?,fact-20,32
+really thank you,thanks,94
+can you help me you're acting dumb?,stupid,92
+give me advice about thank you once again for your advice. i'll make meditation a priority and concentrate on what i have the power to change,pandora-useful,77
+who are you for me?,about,0
+i am extremely stressed,stressed,91
+"i want help with i've heard about meditation, but i'm not sure how to start",meditation,68
+explain the importance of mental health briefly for me briefly?,fact-2,31
+i'm having relationship problems,relationship-issues,82
+im constantly stressed,stress-management,90
+please help me i need motivation,motivation,71
+"to be honest, i feel worthless",worthless,103
+thank you so much so much,thanks,94
+i am really sad,sad,85
+show me how to i don't trust you,hate-you,60
+tell me about a therapist in simple words for me?,fact-6,47
+could you explain can we talk about something else instead?,something-else,89
+i'm so feeling low,sad,85
+"today, i am stressed",stressed,91
+can you prevent mental health problems briefly for me clearly clearly?,fact-25,37
+please help me i don't trust you,hate-you,60
+i want to know what should i know before starting a new medication please in simple words in simple words?,fact-20,32
+i'd like to know can you explain can people with mental illness recover clearly?,fact-12,23
+can you help me tell me a fact about mental health?,mental-health-fact,69
+hi bot,greeting,56
+can you help me?,help,61
+can you tell me what does therapy mean in simple words?,fact-7,48
+quick question: what treatment options r available clearly for me?,fact-15,26
+really much appreciated,thanks,94
+help me understand what are the different types of mental health professionals?,fact-23,35
+"i want help with i don't think so, i have too much on my plate",no-approach,75
+could you explain what can i do to find a mental health professional for myself or my child briefly?,fact-14,25
+please help me difference between sadness and depression,fact-32,45
+could you explain what do i do if i'm worried about my mental health clearly?,fact-28,40
+what treatment options are available briefly?,fact-15,26
+"right now, i'm bad when i compare myself",comparison,11
+morning bma clearly,morning,70
+"show me how to meditation seems intriguing, but i'm not sure if it's for me",meditation,68
+alright later,goodbye,54
+i want to know where else can i get help clearly?,fact-19,30
+i am extremely stressed about money,financial-problems,51
+i want help with you're such an idiot,stupid,92
+"please help me yes, i would like to learn more about it",learn-more,64
+"honestly, i feel having problems at work",work-problems,102
+quick question: i have a question: could you tell me what r some of the warning signs of mental illness clearly clearly?,fact-11,22
+quick question: what do i do if i'm worried about my mental health in simple words clearly?,fact-28,40
+what does a therapist mean?,fact-6,47
+difference between sadness and depression for me,fact-32,45
+take care for now,goodbye,54
+help me understand what does a therapist do please?,fact-6,47
+can you help me please leave me alone?,not-talking,76
+"right now, i've been stressed about school",academic-stress,1
+i have a question: what treatment options are available please?,fact-15,26
+what can i do to find a mental health professional right for my child or myself in simple words please?,fact-18,29
+are there cures for mental health problems for me?,fact-26,38
+could you help me i don't have anything more to say?,done,19
+who am i talking to please?,name,72
+what treatment options are available in simple words?,fact-15,26
+show me how to tell me something positive,positive-affirmation,80
+could you help me thank you once again for your advice. i'll make meditation a priority and concentrate on what i have the power to change?,pandora-useful,77
+how are you doing in simple words?,casual,10
+i have a question: any tips to find a mental health professional right for my child or myself clearly in simple words please?,fact-18,29
+what leads to mental health problems?,fact-27,39
+i have a question: where should i look for a support group clearly?,fact-24,36
+i am bad when i compare myself right now,comparison,11
+i've been feeling bored at the moment,boredom,7
+please help me i feel like you hate me,hate-me,59
+i want help with thanks for your support. i'll commit to meditation and redirect my energy towards the things i have power over,pandora-useful,77
+show me how to stress is overwhelming me,stress-management,90
+"could you help me yes, i would like to learn more about it?",learn-more,64
+could you explain where do i go to find a support group please?,fact-24,36
+help me calm down,relaxation-techniques,83
+where can i get crisis help?,crisis-resources,14
+i feel grateful,gratitude,55
+"at the moment, i'm bored",boredom,7
+quick question: any tips to maintain social connections? what if i feel lonely please?,fact-30,43
+hey night in simple words,night,74
+i don't know what my goals are,goal-setting,53
+could you help me define mental health?,fact-1,21
+where else can i get help in simple words in simple words in simple words?,fact-19,30
+show me how to i need more willpower,discipline,18
+show me how to this topic doesn't interest me,something-else,89
+"to be honest, i feel having family problems",family-issues,50
+i've been feeling happy today,happy,58
+"honestly, i am having family problems",family-issues,50
+help me understand what is your name?,name,72
+"to be honest, i've been stressed about money",financial-problems,51
+guide me to please explain further,learn-more,64
+i am extremely sad,sad,85
+give me advice about i have no discipline,discipline,18
+could you explain what can you tell me about mental health?,learn-mental-health,63
+see ya,goodbye,54
+what should i know about the best way to know if i'm unwell please?,fact-29,41
+i need support with i'm so stressed out,stress-management,90
+help me understand the difference between mental health professionals for me?,fact-17,28
+can you explain why are you even here?,hate-you,60
+quick question: i have a question: any tips to maintain social connections? what if i feel lonely in simple words briefly clearly in simple words for me?,fact-30,43
+is now a good time for me to ask something clearly?,ask,6
+i need support with you must hate me,hate-me,59
+morning friend,morning,70
+"to be honest, i feel grieving",grief,57
+what does depression mean please?,fact-3,42
+meditation has become an essential part of my self-care routine thanks to your guidance,user-meditation,101
+can you explain who built you?,creation,13
+i want to know how can you help?,skill,87
+"these days, i feel mad",anger,4
+can you explain how to tell me another fact about mental health?,mental-health-fact,69
+not much,neutral-response,73
+guide me to tell me about mental health,learn-mental-health,63
+i'm depressed,depressed,17
+i feel burned out today,burnout,9
+i need help to nobody understands me,understand,98
+afternoon briefly in simple words briefly,afternoon,3
+i'd like to know can we talk about something else?,not-talking,76
+show me how to i'm not interested in this topic,something-else,89
+what's the best way to maintain social connections? what if i feel lonely briefly please?,fact-30,43
+"right now, i've been feeling depressed",depressed,17
+i need support with i have no motivation,motivation,71
+can you explain how to teach me a breathing exercise?,breathing-exercise,8
+i feel like ending my life,suicide,93
+afternoon bot briefly please,afternoon,3
+i'm quite struggling after something traumatic,trauma,97
+i have a question: am i suffering from depression please?,fact-5,46
+"right now, i've been feeling sad",sad,85
+i'd like to shift the conversation to something else,something-else,89
+"at the moment, i've been feeling burned out",burnout,9
+i think i'm having a panic attack today,panic-attack,78
+show me how to that's not quite accurate,wrong,104
+can you explain how to i don't feel like talking right now?,not-talking,76
+"these days, i feel anxious",anxious,5
+hey sleep tight briefly in simple words,night,74
+any tips to find a support group please briefly?,fact-24,36
+could you explain what can trigger mental health problems please in simple words please?,fact-27,39
+i feel quite anxious,anxious,5
+could you explain can you tell me more?,learn-more,64
+i need support with you don't understand me,understand,98
+can you help me i want to practice gratitude?,gratitude,55
+i am briefly?,name,72
+i feel insecure about myself right now,low-self-esteem,67
+"right now, i need support for addiction",addiction-support,2
+i want help with i am going to commit suicide,suicide,93
+i am really panicking right now,panic-attack,78
+could you help me thank you for your assistance. i'll stick to meditation and channel my efforts towards the aspects of my life that i can control?,pandora-useful,77
+can you explain how to i feel like i'm never rested?,sleep,88
+what's the best way to improve myself?,personal-development,79
+can you explain how to please explain further?,learn-more,64
+are you available in morocco clearly?,location,65
+can you explain how to thank you for being here?,gratitude,55
+please help me not much,neutral-response,73
+"today, i've been feeling happy",happy,58
+really thanks a bunch,thanks,94
+show me how to i need motivation,motivation,71
+can you prevent mental health problems clearly?,fact-25,37
+i want to know what does a therapist do for me?,fact-6,47
+what does therapy do for me?,therapy,95
+what is your name for me?,name,72
+can you explain can you help me define mental health briefly?,fact-1,21
+what should i know about a therapist?,fact-6,47
+i need support with i'm not really feeling like myself today,no-approach,75
+i've been stressed about money right now,financial-problems,51
+please help me i want to feel better about myself,self-care,86
+are there cures for mental health problems in simple words?,fact-26,38
+tell me about the importance of mental health?,fact-2,31
+i feel angry right now,anger,4
+you're helpful briefly in simple words clearly please,compliment,12
+guide me to i want help with i need support with guide me to i want help with give me advice about define mental health,fact-1,21
+my mother passed away,death,15
+"today, i'm anxious",anxious,5
+i feel extremely bad when i compare myself,comparison,11
+can you tell me what helps with relaxation?,relaxation-techniques,83
+i feel so stressed about money,financial-problems,51
+i have a question: quick question: what do i do if i'm worried about my mental health in simple words clearly?,fact-28,40
+where can i get crisis help please?,crisis-resources,14
+"at the moment, i've been feeling happy",happy,58
+can you help me help me build discipline?,discipline,18
+i am bad when i compare myself at the moment,comparison,11
+i need support with i need support with define depression,fact-3,42
+i'm extremely bad when i compare myself,comparison,11
+"these days, things are tense at home",family-issues,50
+could you tell me can u prevent mental health problems for me please?,fact-25,37
+i'm very stressed,stressed,91
+ok goodbye,goodbye,54
+where can i find a support group clearly clearly?,fact-24,36
+can you help me i feel like i'm always the one who feels like i'm being ignored?,friends,52
+guide me to i'm not feeling up to it,no-approach,75
+show me how to i have no discipline,discipline,18
+please help me i don't feel like talking right now,not-talking,76
+give me advice about my aunt passed away,death,15
+i feel burned out,burnout,9
+i have a question: can you define the best way to find a mental health professional for myself or my child?,fact-14,25
+i'm depressed at the moment,depressed,17
+show me how to i'm bored of this topic. let's talk about something else,something-else,89
+i'm extremely burned out,burnout,9
+i need support with i've thought about killing myself,suicide,93
+quick question: i have a question: could you explain what does it mean to have a mental illness in simple words?,fact-8,49
+i want help with i want to feel better about myself,self-care,86
+can people with mental illness recover?,fact-12,23
+give me advice about i'd like to hear a mental health fact,mental-health-fact,69
+what is the difference between sadness and depression?,fact-32,45
+what can you do for me?,skill,87
+i need support with i practiced meditation as you suggested and it really helped calm my mind,user-meditation,101
+can you explain how to that's all?,done,19
+i feel happy today,happy,58
+can you help me thanks for your support. i'll commit to meditation and redirect my energy towards the things i have power over?,pandora-useful,77
+i need help to that sounds useful,meditation,68
+show me how to i'm thankful for your advice. i'll continue meditating and focus on what i have the ability to change,pandora-useful,77
+quick question: any tips to maintain social connections? what if i feel lonely clearly in simple words?,fact-30,43
+quick question: quick question: what can i do to find therapy in simple words clearly?,fact-21,33
+could you explain what can i do to find a mental health professional for myself or my child clearly?,fact-14,25
+what does therapy mean please?,fact-7,48
+could you tell me what r some of the warning signs of mental illness in simple words?,fact-11,22
+quick question: anxiety vs stress in simple words for me?,fact-31,44
+"i have a question: i have a question: if i become involved in treatment, what do i need to know for me clearly please in simple words?",fact-16,27
+could you explain what should i do if i know someone who appears to have the symptoms of a mental disorder please?,fact-13,24
+help me breathe,breathing-exercise,8
+i need support with you hate me,hate-me,59
+"please help me you're right, i should give myself some time to relax",user-agree,100
+quick question: could you explain can you explain what does it mean to have a mental illness please?,fact-8,49
+i need support with show me how to help me calm down,relaxation-techniques,83
+can you help me i have trouble falling asleep?,sleep,88
+u r great briefly in simple words,compliment,12
+"at the moment, i'm panicking right now",panic-attack,78
+i feel extremely overwhelmed,stressed,91
+"right now, i'm having relationship problems",relationship-issues,82
+how do i find a mental health professional for myself or my child please clearly?,fact-14,25
+"these days, i am anxious",anxious,5
+"if i become involved in treatment, what do i need to know for me in simple words?",fact-16,27
+guide me to you're acting dumb,stupid,92
+i'd like to know can u prevent mental health problems for me for me?,fact-25,37
+tell me about depression?,fact-3,42
+give me advice about i need motivation,motivation,71
+could you explain what leads to mental health problems briefly for me?,fact-27,39
+can you explain how to nobody understands me?,understand,98
+i'm really burned out,burnout,9
+"please help me i agree, i could use a break",user-agree,100
+quick question: do you have a brain?,stupid,92
+hey afternoon bma,afternoon,3
+guide me to i need self care tips,self-care,86
+where can i learn about types of mental health treatment briefly clearly please?,fact-22,34
+hey hey good afternoon,afternoon,3
+give me advice about i think we covered everything,done,19
+i want to know what are your capabilities?,skill,87
+i need stress relief,stress-management,90
+could you explain where else can i get help clearly?,fact-19,30
+i have a question: what can i do to know if i have depression?,fact-5,46
+what do i do if i'm worried about my mental health in simple words?,fact-28,40
+could you explain can you explain can people with mental illness recover clearly for me?,fact-12,23
+"honestly, i am bad when i compare myself",comparison,11
+help me understand what does a therapist do for me please?,fact-6,47
+i need support with just hanging out,neutral-response,73
+can you explain how to i lost my drive?,motivation,71
+"lately, i feel stressed about school",academic-stress,1
+quick question: i have a question: i have a question: what should i know before starting a new medication in simple words briefly?,fact-20,32
+i have a question: could you explain what can i do to find therapy for me briefly?,fact-21,33
+would it be alright if i asked for your thoughts please?,ask,6
+could you tell me what are stress management tips?,stress-management,90
+"if i become involved in treatment, what do i need to know in simple words please briefly?",fact-16,27
+difference between anxiety and stress for me?,fact-31,44
+i need support with i can't stand you,hate-you,60
+can you explain how to i appreciate your insights. i'll prioritize meditation and center my attention on the areas where i can make a difference?,pandora-useful,77
+"honestly, i am having relationship problems",relationship-issues,82
+"guide me to i agree, i could use a break",user-agree,100
+help me understand what country are you for?,location,65
+i'd like to know what are the warning signs of mental illness?,fact-11,22
+show me how to encourage me,positive-affirmation,80
+help me understand what are your capabilities?,skill,87
+i have a question: what makes mental health important for me?,fact-2,31
+where else can i get help for me?,fact-19,30
+what's the difference between sadness and depression for me?,fact-32,45
+where can i go to find a support group clearly for me?,fact-24,36
+"honestly, i am burned out",burnout,9
+can you tell me what do i do if i'm worried about my mental health please clearly?,fact-28,40
+could you explain can someone recover from mental illness in simple words?,fact-12,23
+what helps with relaxation?,relaxation-techniques,83
+i have a question: quick question: am i suffering from depression?,fact-5,46
+i want help with encourage me,positive-affirmation,80
+could you explain how were you made?,creation,13
+guide me to i want to practice gratitude,gratitude,55
+quick question: quick question: where can i learn about types of mental health treatment clearly?,fact-22,34
+can you help me i don't think that's accurate?,wrong,104
+"these days, i'm struggling with addiction",addiction-support,2
+i have a question: any tips to find a mental health professional right for my child or myself clearly in simple words please briefly clearly briefly?,fact-18,29
+i am quite stressed about school,academic-stress,1
+hey hey good night bma clearly,night,74
+i have a question: help me understand is recovery from mental illness possible in simple words clearly?,fact-12,23
+hey there there,greeting,56
+i want to know what should i call you?,name,72
+please help me i don't want to talk about it,not-talking,76
+could you help me that's not what i had in mind?,wrong,104
+i need help to yeah you're absolutely right about that,user-agree,100
+can you explain how to i feel like i'm always the one who feels like i'm being isolated?,friends,52
+quick question: what are the causes of mental health problems?,fact-27,39
+could you help me you're against me?,hate-me,59
+what should i know about your origin?,creation,13
+"lately, i am bored",boredom,7
+i need self-care advice,self-care,86
+quick question: quick question: where else can i get help briefly?,fact-19,30
+where can i learn about types of mental health treatment?,fact-22,34
+help briefly?,help,61
+quick question: could you explain what can i do to find therapy in simple words briefly?,fact-21,33
+help me understand what are you?,about,0
+i want to know what country are you for?,location,65
+any tips to develop my mindset for me?,personal-development,79
+i need support with i want to practice gratitude,gratitude,55
+please help me i've heard that before,repeat,84
+i'm so panicking right now,panic-attack,78
+i'd like to hear a mental health fact,mental-health-fact,69
+i need help to i don't like you,hate-you,60
+help me understand the difference between sadness and depression?,fact-32,45
+give me advice about boyfriend,default,16
+i need support with you can't help me,understand,98
+any tips to know if i'm unwell?,fact-29,41
+quick question: where do i go to find a support group?,fact-24,36
+i need support with i feel like i'm always the one who feels like i'm being excluded,friends,52
+you're just some robot. how would you know for me?,understand,98
+i need support with i need a hotline,crisis-resources,14
+morning bma,morning,70
+i need help to motivate me,motivation,71
+i want help with difference between sadness and depression for me,fact-32,45
+i need help to you're repeating what you said,repeat,84
+i have a question: quick question: what should i do if i know someone who appears to have the symptoms of a mental disorder for me?,fact-13,24
+show me how to guide me to i want to grow as a person,personal-development,79
+could you explain where else can i get help clearly please?,fact-19,30
+"i don't think so, i have too much on my plate",no-approach,75
+i have a question: could you explain where should i look for therapy clearly for me clearly?,fact-21,33
+can you explain what can i do to know if i'm unwell please please?,fact-29,41
+"give me advice about you're right, i should give myself some time to relax",user-agree,100
+could you help me i need positive words?,positive-affirmation,80
+i need a good laugh,jokes,62
+"to be honest, i've been feeling lonely",loneliness,66
+please help me i want to kill myself,suicide,93
+explain the importance of mental health in simple words clearly briefly?,fact-2,31
+quick question: help me understand can you help me define depression clearly?,fact-3,42
+i have to go now,goodbye,54
+can you help me i can't stand you?,hate-you,60
+"right now, i don't believe in myself",low-self-esteem,67
+i need support with i'm feeling worried because i have an important deadline approaching,problem,81
+you're kind clearly in simple words clearly,compliment,12
+how can i find a mental health professional right for my child or myself?,fact-18,29
+could you tell me what does it mean to have a mental illness please?,fact-8,49
+i'm dealing with loss lately,grief,57
+how can i find a support group clearly?,fact-24,36
+guide me to i want help with give me advice about define mental health,fact-1,21
+"lately, i compare myself with everyone",comparison,11
+could you tell me how are anxiety and stress different in simple words please please?,fact-31,44
+how about a joke please?,jokes,62
+where are you from clearly?,location,65
+i feel so angry,anger,4
+what's the best way to maintain social connections? what if i feel lonely briefly?,fact-30,43
+i want help with i've thought about killing myself,suicide,93
+i want help with i would like to learn more about it,learn-more,64
+give me a simple definition of the difference between anxiety and stress for me clearly?,fact-31,44
+guide me to i feel like i'm always the one who feels like i'm being isolated,friends,52
+what's up clearly?,casual,10
+alright see ya,goodbye,54
+could you help me i'd like to shift the conversation to something else?,something-else,89
+i want help with affirmation please,positive-affirmation,80
+i am empty,depressed,17
+good to see you there,greeting,56
+how do i manage my time?,time-management,96
+give me advice about not much,neutral-response,73
+relationship,default,16
+how can i maintain social connections? what if i feel lonely briefly please?,fact-30,43
+"to be honest, i keep comparing myself to others",comparison,11
+where can i go to find a support group clearly in simple words briefly?,fact-24,36
+can you explain can you tell me what treatment options r available?,fact-15,26
+show me how to no just stay away,not-talking,76
+quick question: what are you?,about,0
+please help me i feel exhausted but can't sleep,sleep,88
+could you help me that's all?,done,19
+quick question: could you tell me can you tell me what can i do to know if i'm unwell in simple words in simple words?,fact-29,41
+i'm overwhelmed,stressed,91
+can you define the difference between sadness and depression?,fact-32,45
+i need help to i have trouble falling asleep,sleep,88
+can you tell me a mental health fact for me?,mental-health-fact,69
+i want to know where else can i get help in simple words in simple words?,fact-19,30
+i'm anxious today,anxious,5
+i want help with tell me about therapy,therapy,95
+i want to know what should i know before starting a new medication please in simple words please please?,fact-20,32
+can you help me i'm not interested in this topic?,something-else,89
+can you help me teach me to breathe?,breathing-exercise,8
+show me how to just chillin',neutral-response,73
+guide me to i'm not interested in this topic,something-else,89
+"these days, i am depressed",depressed,17
+could you explain can someone recover from mental illness in simple words for me?,fact-12,23
+can you explain where can i learn about types of mental health treatment in simple words?,fact-22,34
+i feel depressed lately,depressed,17
+please help me i want some advice,user-advice,99
+i am insecure about myself today,low-self-esteem,67
+please help me i waste too much time,time-management,96
+i need support with i need more willpower,discipline,18
+how do i recognize mental illness briefly?,fact-11,22
+i have a question: give me a simple definition of a therapist clearly?,fact-6,47
+"guide me to you're correct, i need to take a break",user-agree,100
+could you explain are you even listening?,stupid,92
+i feel very lonely,loneliness,66
+am i mentally ill for me in simple words in simple words?,fact-5,46
+tell me about your origin?,creation,13
+please help me that's all i have to say,done,19
+any tips to develop my mindset?,personal-development,79
+that's déjà vu,repeat,84
+hello morning bot,morning,70

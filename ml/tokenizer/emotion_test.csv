@@ -1,0 +1,3601 @@
+text,emotion,label
+today i feel totally pissed off,anger,0
+i just feel unattractive these days.,body_image_issue,2
+right now i'm quite enraged honestly.,anger,0
+i think i'm extremely fried...,burnout,3
+i feel completely worried about the test right now.,exam_stress,5
+"honestly, i'm kind of tearful today.",sadness,10
+i'm really a bit anxious about my upcoming exam.,exam_stress,5
+i just feel really calm these days.,neutral,9
+i'm a bit angry honestly.,anger,0
+i'm totally like nobody likes me right now.,low_self_esteem,8
+lately i feel a bit down lately.,sadness,10
+sometimes i feel kind of pressured right now.,stress,11
+i've been a bit at ease,neutral,9
+i am incredibly fearful more than usual.,anxiety,1
+these days i feel somewhat like there's no point more than usual.,depression,4
+a bit fried i don't know why.,burnout,3
+i've been quite furious i don't know why.,anger,0
+i feel gloomy and i can't shake it.,sadness,10
+tbh i'm totally gloomy right now.,sadness,10
+today i feel somewhat like a failure right now.,low_self_esteem,8
+i just feel pleased i don't know why.,joy,6
+i'm really very drained of meaning honestly.,depression,4
+i just feel a bit anxious,anxiety,1
+i just feel left out today.,loneliness,7
+insecure about my appearance honestly.,body_image_issue,2
+these days i feel really panicking about finals and i can't shake it.,exam_stress,5
+today i feel kind of numb lately.,depression,4
+it seems i'm a bit forgotten these days.,loneliness,7
+tbh i'm quite run down lately.,stress,11
+"honestly, i'm quite disgusting in the mirror these days.",body_image_issue,2
+tbh i'm somewhat stressed these days.,stress,11
+i'm incredibly left out lately.,loneliness,7
+it seems i'm kind of burnt out lately.,burnout,3
+i am a bit by myself these days.,loneliness,7
+right now i'm completely like nobody likes me honestly.,low_self_esteem,8
+i just feel incredibly done more than usual.,burnout,3
+it seems i'm somewhat like there's no point today.,depression,4
+i'm really somewhat upset honestly.,sadness,10
+i think i'm running on empty more than usual.,burnout,3
+i think i'm somewhat lonely more than usual.,loneliness,7
+these days i feel somewhat disgusting in the mirror...,body_image_issue,2
+it seems i'm totally optimistic more than usual.,joy,6
+i am very shaky and i can't shake it.,anxiety,1
+i am deeply uneasy and i can't shake it.,anxiety,1
+today i feel very isolated...,loneliness,7
+lately i feel incredibly worried about the test more than usual.,exam_stress,5
+"honestly, i'm fried...",burnout,3
+tbh i'm completely hopeless today.,depression,4
+i keep blanking on the material...,exam_stress,5
+extremely like i don't matter honestly.,low_self_esteem,8
+i'm really really melancholic.,sadness,10
+i just feel extremely grateful i don't know why.,joy,6
+i'm really really gloomy today.,sadness,10
+lately i feel really fried honestly.,burnout,3
+right now i'm so stupid today.,low_self_esteem,8
+i've been drained of meaning right now.,depression,4
+sometimes i feel a bit alright lately.,neutral,9
+"honestly, i'm kind of panicking about finals lately.",exam_stress,5
+i just feel stressed about my exams lately.,exam_stress,5
+quite invisible honestly.,loneliness,7
+"honestly, i'm quite emotionally exhausted i don't know why.",burnout,3
+right now i'm very panicking about finals more than usual.,exam_stress,5
+i'm extremely tearful more than usual.,sadness,10
+i'm really deeply forgotten.,loneliness,7
+i'm so tense from work i don't know why.,stress,11
+i am quite down these days.,sadness,10
+these days i feel totally done right now.,burnout,3
+tbh i'm a bit by myself right now.,loneliness,7
+i feel completely cheerful honestly.,joy,6
+right now i'm totally alright today.,neutral,9
+today i feel kind of swamped honestly.,stress,11
+i'm deeply on edge honestly.,anxiety,1
+lately i feel really light-hearted i don't know why.,joy,6
+tbh i'm somewhat by myself i don't know why.,loneliness,7
+i keep feeling very worthless i don't know why.,depression,4
+i just feel disconnected today.,loneliness,7
+i am incredibly fat these days.,body_image_issue,2
+so calm i don't know why.,neutral,9
+today i feel really running on empty and i can't shake it.,burnout,3
+i'm really deeply grateful,joy,6
+i'm extremely fine i don't know why.,neutral,9
+i am quite shaky today.,anxiety,1
+i'm extremely just chilling these days.,neutral,9
+i just feel a bit resentful lately.,anger,0
+i've been kind of lonely.,loneliness,7
+sometimes i feel completely done lately.,burnout,3
+right now i'm somewhat running on empty more than usual.,burnout,3
+right now i'm incredibly without purpose,depression,4
+so on edge today.,anxiety,1
+i feel completely fried.,burnout,3
+it seems i'm a bit heartbroken...,sadness,10
+i keep feeling kind of uneasy i don't know why.,anxiety,1
+"honestly, i'm somewhat depleted these days.",burnout,3
+i think i'm panicking about finals,exam_stress,5
+these days i feel totally tense from work today.,stress,11
+it seems i'm so insecure about myself today.,low_self_esteem,8
+sometimes i feel quite resentful today.,anger,0
+i just feel really by myself,loneliness,7
+i am somewhat left out more than usual.,loneliness,7
+these days i feel extremely buried in tasks today.,stress,11
+quite sad honestly.,sadness,10
+"honestly, i'm kind of frustrated today.",anger,0
+right now i'm very numb lately.,depression,4
+somewhat disgusting in the mirror today.,body_image_issue,2
+i'm really completely under pressure these days.,stress,11
+these days i feel a bit worried,anxiety,1
+i think i'm really annoyed,anger,0
+"honestly, i'm deeply disconnected honestly.",loneliness,7
+i've been kind of stressed about my exams honestly.,exam_stress,5
+i think i'm totally like a burden honestly.,depression,4
+i am very heartbroken i don't know why.,sadness,10
+these days i feel incredibly shaky honestly.,anxiety,1
+sometimes i feel by myself lately.,loneliness,7
+i keep feeling incredibly worthless more than usual.,depression,4
+i'm somewhat worried honestly.,anxiety,1
+i just feel totally blue these days.,sadness,10
+i just feel somewhat buried in tasks.,stress,11
+today i feel kind of like nobody likes me right now.,low_self_esteem,8
+tbh i'm incredibly not good enough,low_self_esteem,8
+i think i'm so drained and i can't shake it.,burnout,3
+right now i'm kind of pressured.,stress,11
+tbh i'm quite without purpose lately.,depression,4
+tbh i'm totally low...,sadness,10
+right now i'm so enraged lately.,anger,0
+i think i'm very at ease these days.,neutral,9
+i'm incredibly run down,stress,11
+sometimes i feel so alright these days.,neutral,9
+sometimes i feel incredibly tense honestly.,anxiety,1
+it seems i'm a bit tense from work and i can't shake it.,stress,11
+it seems i'm quite furious right now.,anger,0
+it seems i'm somewhat unattractive honestly.,body_image_issue,2
+these days i feel incredibly stressed about my exams right now.,exam_stress,5
+i feel a bit emotionally exhausted lately.,burnout,3
+i think i'm incredibly stressed about my exams...,exam_stress,5
+sometimes i feel very forgotten honestly.,loneliness,7
+tbh people keep pushing my buttons...,anger,0
+i think i'm a bit low and i can't shake it.,sadness,10
+i am kind of calm and i can't shake it.,neutral,9
+i feel very ugly more than usual.,body_image_issue,2
+i'm really extremely angry.,anger,0
+it seems i'm incredibly running on empty...,burnout,3
+i've been quite tense from work lately.,stress,11
+these days i feel somewhat disconnected i don't know why.,loneliness,7
+i've been really mad right now.,anger,0
+i'm quite drained of meaning right now.,depression,4
+i'm really very like nobody likes me right now.,low_self_esteem,8
+"honestly, i have no real talents :(",low_self_esteem,8
+useless these days.,low_self_esteem,8
+i am quite horrible about how i look these days.,body_image_issue,2
+i am somewhat light-hearted.,joy,6
+lately i feel really nervous these days.,anxiety,1
+right now i'm very content,joy,6
+i'm incredibly okay more than usual.,neutral,9
+lately i feel really blue lately.,sadness,10
+i feel really annoyed,anger,0
+i am extremely under pressure lately.,stress,11
+i feel overwhelmed by studying today.,exam_stress,5
+tbh i'm incredibly worthless more than usual.,depression,4
+i keep feeling extremely like nobody likes me right now.,low_self_esteem,8
+tbh everything is making me snap today :(,anger,0
+i'm extremely swamped right now.,stress,11
+i feel quite run down i don't know why.,stress,11
+lately i feel incredibly thankful i don't know why.,joy,6
+i think i'm somewhat on edge lately.,anxiety,1
+sometimes i feel so normal more than usual.,neutral,9
+sometimes i feel so at ease honestly.,neutral,9
+"honestly, i'm somewhat worried about the test these days.",exam_stress,5
+i keep feeling swamped i don't know why.,stress,11
+i'm really somewhat disgusting in the mirror more than usual.,body_image_issue,2
+today i feel completely like giving up lately.,depression,4
+lately i feel really annoyed right now.,anger,0
+incredibly miserable these days.,sadness,10
+i think i'm a bit smiling and i can't shake it.,joy,6
+lately i feel incredibly delighted i don't know why.,joy,6
+tbh i'm quite fat lately.,body_image_issue,2
+i'm really somewhat like i don't matter these days.,low_self_esteem,8
+sometimes i feel totally stressed about my exams i don't know why.,exam_stress,5
+tbh i'm deeply blue,sadness,10
+sometimes i feel very unattractive more than usual.,body_image_issue,2
+i keep feeling so worried more than usual.,anxiety,1
+i just feel quite smiling,joy,6
+i keep feeling really shaky.,anxiety,1
+sometimes i feel uneasy i don't know why.,anxiety,1
+these days i feel a bit calm lately.,neutral,9
+i'm really really pressured...,stress,11
+lately i feel very overwhelmed by studying.,exam_stress,5
+today i feel kind of like i don't matter today.,low_self_esteem,8
+lately i feel kind of like a burden.,depression,4
+i feel a bit worthless more than usual.,depression,4
+tbh i'm very scared i'll fail my exam i don't know why.,exam_stress,5
+"honestly, i'm incredibly like giving up...",depression,4
+i just feel quite insecure about my appearance,body_image_issue,2
+i keep feeling deeply ashamed of my body honestly.,body_image_issue,2
+i just feel incredibly at ease...,neutral,9
+"honestly, i'm totally disconnected right now.",loneliness,7
+i am incredibly calm and i can't shake it.,neutral,9
+i'm really incredibly numb i don't know why.,depression,4
+i just feel very melancholic and i can't shake it.,sadness,10
+i am quite low and i can't shake it.,sadness,10
+i feel deeply under pressure.,stress,11
+i feel quite like a burden lately.,depression,4
+i feel completely depleted,burnout,3
+i've been deeply worried about the test honestly.,exam_stress,5
+today i feel pleased...,joy,6
+i feel optimistic...,joy,6
+i've been deeply hopeless...,depression,4
+i think i'm kind of upset,sadness,10
+it seems i'm somewhat angry today.,anger,0
+i feel really left out.,loneliness,7
+i feel kind of calm lately.,neutral,9
+"honestly, i'm completely delighted these days.",joy,6
+it seems i'm so useless right now.,low_self_esteem,8
+i'm really really anxious i don't know why.,anxiety,1
+lately i feel so annoyed these days.,anger,0
+lately i feel incredibly alone more than usual.,loneliness,7
+i keep feeling so stressed today.,stress,11
+these days i feel a bit grateful honestly.,joy,6
+i feel completely balanced honestly.,neutral,9
+tbh i'm extremely drained of meaning right now.,depression,4
+i think i'm so by myself today.,loneliness,7
+i'm deeply fine right now.,neutral,9
+i just feel completely exhausted from work...,burnout,3
+i think i'm really horrible about how i look right now.,body_image_issue,2
+today i feel very joyful more than usual.,joy,6
+lately i feel completely swamped honestly.,stress,11
+today i feel extremely scared...,anxiety,1
+i think i'm kind of like a failure...,low_self_esteem,8
+i'm really a bit pressured honestly.,stress,11
+tbh nothing fits me right anymore,body_image_issue,2
+i am very okay i don't know why.,neutral,9
+i am kind of pissed off these days.,anger,0
+tbh i'm somewhat joyful today.,joy,6
+i'm really extremely depleted more than usual.,burnout,3
+these days i feel so sad and i can't shake it.,sadness,10
+"honestly, i'm totally fried today.",burnout,3
+right now i'm insecure about my appearance and i can't shake it.,body_image_issue,2
+sometimes i feel totally fearful these days.,anxiety,1
+sometimes i feel like nothing matters,depression,4
+sometimes i feel very fat i don't know why.,body_image_issue,2
+i think i'm very stressed about my exams,exam_stress,5
+tbh i'm somewhat forgotten.,loneliness,7
+i keep feeling quite overwhelmed...,stress,11
+i feel so fuming right now.,anger,0
+i think i'm really scared i'll fail my exam more than usual.,exam_stress,5
+i am extremely useless more than usual.,low_self_esteem,8
+tbh i'm somewhat insecure about myself more than usual.,low_self_esteem,8
+tbh my exam is in two days and i'm not ready,exam_stress,5
+"honestly, i'm completely forgotten right now.",loneliness,7
+i'm very fried these days.,burnout,3
+these days i feel so like nobody likes me these days.,low_self_esteem,8
+it seems i'm kind of burnt out i don't know why.,burnout,3
+right now i'm somewhat overwhelmed by studying right now.,exam_stress,5
+lately i feel kind of without purpose these days.,depression,4
+"honestly, i'm deeply isolated honestly.",loneliness,7
+sometimes i feel incredibly run down.,stress,11
+i've been somewhat unattractive right now.,body_image_issue,2
+i feel so balanced honestly.,neutral,9
+"honestly, i'm completely overwhelmed...",stress,11
+today i feel stupid...,low_self_esteem,8
+"honestly, i'm stuck in this dark place...",depression,4
+"honestly, i'm so pissed off.",anger,0
+lately i feel somewhat stupid honestly.,low_self_esteem,8
+i'm quite drained today.,burnout,3
+today i feel really enraged,anger,0
+i keep feeling anxious about my upcoming exam these days.,exam_stress,5
+lately i feel quite afraid honestly.,anxiety,1
+right now i'm deeply pressured more than usual.,stress,11
+lately i feel extremely uneasy today.,anxiety,1
+i am really useless...,low_self_esteem,8
+"honestly, i'm extremely at ease and i can't shake it.",neutral,9
+very ashamed of my body i don't know why.,body_image_issue,2
+lately i feel quite stressed these days.,stress,11
+"honestly, i'm quite like there's no point these days.",depression,4
+today i feel very like nothing matters right now.,depression,4
+i feel very heartbroken more than usual.,sadness,10
+sometimes i feel really fat right now.,body_image_issue,2
+i just feel deeply running on empty right now.,burnout,3
+i just feel a bit apprehensive and i can't shake it.,anxiety,1
+i keep feeling very done...,burnout,3
+i think i'm horrible about how i look more than usual.,body_image_issue,2
+i keep feeling very blessed,joy,6
+it seems i'm very pressured lately.,stress,11
+i think i'm a bit running on empty...,burnout,3
+tbh i'm a bit worried,anxiety,1
+sometimes i feel depleted today.,burnout,3
+tbh i'm a bit lonely and i can't shake it.,loneliness,7
+tbh i'm exhausted from work and i can't shake it.,burnout,3
+i've been low right now.,sadness,10
+i am very depleted these days.,burnout,3
+i think i'm fried...,burnout,3
+right now i'm quite ashamed of my body i don't know why.,body_image_issue,2
+"honestly, i'm incredibly left out these days.",loneliness,7
+i think i'm quite swamped right now.,stress,11
+right now i'm totally normal today.,neutral,9
+"honestly, i'm quite like i don't matter",low_self_esteem,8
+tbh i cried again tonight.,sadness,10
+i keep feeling kind of anxious about my upcoming exam,exam_stress,5
+i keep feeling totally calm these days.,neutral,9
+i'm really totally insecure about myself...,low_self_esteem,8
+i'm really really scared...,anxiety,1
+i've been totally miserable today.,sadness,10
+i feel miserable i don't know why.,sadness,10
+today i feel deeply down,sadness,10
+right now i'm really overwhelmed more than usual.,stress,11
+sometimes i feel quite fine...,neutral,9
+these days i feel completely empty,depression,4
+incredibly alone honestly.,loneliness,7
+lately i feel kind of not good enough honestly.,low_self_esteem,8
+i think i'm really scared i'll fail my exam i don't know why.,exam_stress,5
+i keep feeling kind of worried about the test...,exam_stress,5
+right now i'm completely pissed off,anger,0
+i've been somewhat ashamed of my body.,body_image_issue,2
+i feel somewhat calm today.,neutral,9
+i just feel extremely in a good mood...,joy,6
+sometimes i feel somewhat tense i don't know why.,anxiety,1
+i am kind of melancholic today.,sadness,10
+i feel quite panicking about finals lately.,exam_stress,5
+today i feel somewhat blessed today.,joy,6
+it seems i'm completely without purpose these days.,depression,4
+i think i'm so okay i don't know why.,neutral,9
+"honestly, i'm kind of exhausted from work lately.",burnout,3
+i keep feeling extremely on edge lately.,anxiety,1
+i'm really deeply unattractive and i can't shake it.,body_image_issue,2
+i have three exams this week and i'm losing it...,exam_stress,5
+lately i feel so burnt out...,burnout,3
+i'm somewhat like a failure more than usual.,low_self_esteem,8
+lately i feel completely in a good mood,joy,6
+i'm really horrible about how i look,body_image_issue,2
+i just feel very run down.,stress,11
+i've been a bit forgotten today.,loneliness,7
+tbh i'm kind of stressed about my exams...,exam_stress,5
+very left out lately.,loneliness,7
+it seems i'm deeply invisible today.,loneliness,7
+it seems i'm really on edge and i can't shake it.,anxiety,1
+these days i feel totally depleted and i can't shake it.,burnout,3
+"honestly, i'm somewhat disconnected",loneliness,7
+i've been completely drained of meaning and i can't shake it.,depression,4
+i am incredibly burnt out today.,burnout,3
+tbh i'm somewhat stressed honestly.,stress,11
+it seems i'm very fine...,neutral,9
+i'm really cheerful honestly.,joy,6
+tbh i'm really worthless i don't know why.,depression,4
+these days i feel quite insecure about my appearance i don't know why.,body_image_issue,2
+it seems i'm forgotten.,loneliness,7
+lately i feel kind of stressed i don't know why.,stress,11
+i think i'm kind of content these days.,joy,6
+i am quite normal more than usual.,neutral,9
+sometimes i feel very ugly more than usual.,body_image_issue,2
+a bit overwhelmed honestly.,stress,11
+today i feel kind of content...,joy,6
+"honestly, i'm deeply happy honestly.",joy,6
+right now i'm very by myself right now.,loneliness,7
+right now i'm quite gloomy i don't know why.,sadness,10
+lately i feel quite resentful.,anger,0
+i keep feeling totally overwhelmed by studying right now.,exam_stress,5
+i am so worried about the test more than usual.,exam_stress,5
+lately i feel extremely fried right now.,burnout,3
+i just feel quite furious honestly.,anger,0
+extremely not good enough and i can't shake it.,low_self_esteem,8
+tbh i'm a bit anxious about my upcoming exam...,exam_stress,5
+i think i'm totally joyful these days.,joy,6
+today i feel extremely unattractive and i can't shake it.,body_image_issue,2
+i think i'm so insecure about myself,low_self_esteem,8
+i feel really on edge...,anxiety,1
+i'm extremely insecure about myself.,low_self_esteem,8
+i'm extremely like i don't matter today.,low_self_esteem,8
+i just feel incredibly emotionally exhausted lately.,burnout,3
+i'm really quite resentful.,anger,0
+a bit like there's no point i don't know why.,depression,4
+i feel totally pressured lately.,stress,11
+sometimes i feel really unhappy.,sadness,10
+completely scared i'll fail my exam...,exam_stress,5
+i'm really somewhat fried honestly.,burnout,3
+right now i'm deeply disconnected lately.,loneliness,7
+it seems i'm very normal these days.,neutral,9
+i'm totally worthless today.,low_self_esteem,8
+tbh i'm so afraid right now.,anxiety,1
+i've been panicking about finals honestly.,exam_stress,5
+i'm extremely melancholic i don't know why.,sadness,10
+i'm quite stupid honestly.,low_self_esteem,8
+today i feel a bit annoyed right now.,anger,0
+"honestly, i'm a bit alone lately.",loneliness,7
+right now i'm disgusting in the mirror right now.,body_image_issue,2
+these days i feel really like giving up today.,depression,4
+a bit buried in tasks more than usual.,stress,11
+i keep feeling emotionally exhausted and i can't shake it.,burnout,3
+i think i'm very isolated,loneliness,7
+it seems i'm kind of shaky these days.,anxiety,1
+i'm quite worthless and i can't shake it.,depression,4
+right now i'm incredibly insecure about my appearance i don't know why.,body_image_issue,2
+i think i'm quite fuming.,anger,0
+today i feel kind of blessed i don't know why.,joy,6
+i am very nervous and i can't shake it.,anxiety,1
+today i feel extremely fearful,anxiety,1
+it seems i'm really drained of meaning right now.,depression,4
+right now i'm a bit joyful right now.,joy,6
+sometimes i feel somewhat pleased.,joy,6
+"honestly, i'm really under pressure more than usual.",stress,11
+i just feel extremely fine i don't know why.,neutral,9
+today i feel quite worthless these days.,low_self_esteem,8
+i feel deeply okay.,neutral,9
+i just feel anxious about my upcoming exam and i can't shake it.,exam_stress,5
+i've been somewhat worthless...,depression,4
+i feel very like giving up.,depression,4
+it seems i'm totally tense and i can't shake it.,anxiety,1
+tbh i'm completely numb today.,depression,4
+right now i'm deeply not good enough...,low_self_esteem,8
+tbh i'm extremely insecure about my appearance and i can't shake it.,body_image_issue,2
+right now i'm quite alright today.,neutral,9
+i just feel completely melancholic and i can't shake it.,sadness,10
+i keep feeling like a burden.,depression,4
+today i feel totally in a good mood right now.,joy,6
+i feel somewhat under pressure these days.,stress,11
+i think i'm so happy...,joy,6
+"honestly, i'm kind of sad and i can't shake it.",sadness,10
+i am a bit gloomy and i can't shake it.,sadness,10
+it seems i'm fried today.,burnout,3
+i think i'm really useless honestly.,low_self_esteem,8
+i just feel incredibly overwhelmed by studying i don't know why.,exam_stress,5
+lately i feel somewhat like giving up more than usual.,depression,4
+sometimes i feel completely fried...,burnout,3
+lately i feel deeply lonely...,loneliness,7
+"honestly, i'm deeply gloomy",sadness,10
+these days i feel exhausted from work and i can't shake it.,burnout,3
+stressed.,stress,11
+i feel extremely afraid today.,anxiety,1
+even resting doesn't help anymore...,burnout,3
+i keep feeling so alone today.,loneliness,7
+"honestly, i'm incredibly running on empty.",burnout,3
+today i feel incredibly numb honestly.,depression,4
+i think i'm quite like giving up,depression,4
+"honestly, i'm so blue more than usual.",sadness,10
+today i feel extremely buried in tasks...,stress,11
+right now i'm a bit furious,anger,0
+i am quite isolated more than usual.,loneliness,7
+today i feel completely useless.,low_self_esteem,8
+i am completely scared i'll fail my exam more than usual.,exam_stress,5
+sometimes i feel totally worthless lately.,low_self_esteem,8
+i think i'm incredibly run down honestly.,stress,11
+it seems i'm very empty these days.,depression,4
+it seems i'm quite swamped.,stress,11
+right now i'm overwhelmed by studying,exam_stress,5
+these days i feel somewhat swamped.,stress,11
+it seems i'm kind of worthless.,low_self_esteem,8
+i'm so blue lately.,sadness,10
+today i feel so okay and i can't shake it.,neutral,9
+these days i feel completely done these days.,burnout,3
+i just feel totally happy i don't know why.,joy,6
+i keep feeling completely frustrated,anger,0
+it seems i'm somewhat useless more than usual.,low_self_esteem,8
+right now i'm somewhat frustrated more than usual.,anger,0
+"honestly, i'm completely delighted right now.",joy,6
+i just feel incredibly joyful these days.,joy,6
+it seems i'm totally not good enough more than usual.,low_self_esteem,8
+i just feel extremely joyful and i can't shake it.,joy,6
+tbh i'm deeply sad right now.,sadness,10
+these days i feel really annoyed i don't know why.,anger,0
+i feel quite pressured,stress,11
+i've been incredibly angry today.,anger,0
+i've been so buried in tasks lately.,stress,11
+sometimes i feel really low more than usual.,sadness,10
+i keep feeling quite worthless honestly.,low_self_esteem,8
+i am really unattractive more than usual.,body_image_issue,2
+it seems i'm quite insecure about my appearance right now.,body_image_issue,2
+i'm a bit enraged and i can't shake it.,anger,0
+i feel totally like a burden more than usual.,depression,4
+"honestly, i'm quite anxious these days.",anxiety,1
+i think i'm incredibly worthless lately.,depression,4
+i keep feeling completely ashamed of my body right now.,body_image_issue,2
+i feel light-hearted more than usual.,joy,6
+these days i feel so like a burden honestly.,depression,4
+"honestly, i'm incredibly anxious.",anxiety,1
+i am very neutral right now.,neutral,9
+i am so worthless and i can't shake it.,low_self_esteem,8
+tbh i'm incredibly pressured...,stress,11
+i feel quite uneasy honestly.,anxiety,1
+really panicking about finals i don't know why.,exam_stress,5
+i just feel incredibly disgusting in the mirror...,body_image_issue,2
+today i feel really cheerful today.,joy,6
+i just feel extremely like nothing matters i don't know why.,depression,4
+i think i'm completely panicky i don't know why.,anxiety,1
+"honestly, i'm at ease and i can't shake it.",neutral,9
+right now i'm really stressed about my exams today.,exam_stress,5
+sometimes i feel quite anxious i don't know why.,anxiety,1
+i've been deeply okay honestly.,neutral,9
+i keep feeling totally neutral today.,neutral,9
+tbh i'm so fat and i can't shake it.,body_image_issue,2
+i keep feeling extremely drained of meaning and i can't shake it.,depression,4
+"honestly, i'm totally like a failure honestly.",low_self_esteem,8
+i've been totally panicking about finals and i can't shake it.,exam_stress,5
+right now i'm somewhat anxious...,anxiety,1
+i just feel incredibly depleted right now.,burnout,3
+i am so panicking about finals today.,exam_stress,5
+"honestly, i'm kind of optimistic i don't know why.",joy,6
+sometimes i feel quite miserable today.,sadness,10
+tbh i'm so pleased i don't know why.,joy,6
+ngl my heart hurts today :(,sadness,10
+totally tense from work more than usual.,stress,11
+i've been stressed honestly.,stress,11
+today i feel very sad i don't know why.,sadness,10
+sometimes i feel extremely thankful.,joy,6
+tbh i'm a bit unhappy these days.,sadness,10
+sometimes i feel so alright...,neutral,9
+lately i feel somewhat upset honestly.,sadness,10
+i've been extremely low and i can't shake it.,sadness,10
+quite hopeless and i can't shake it.,depression,4
+i've been really stressed about my exams more than usual.,exam_stress,5
+i keep feeling quite furious lately.,anger,0
+these days i feel kind of just chilling these days.,neutral,9
+i am extremely pissed off,anger,0
+i keep feeling incredibly heartbroken and i can't shake it.,sadness,10
+i think i'm somewhat low right now.,sadness,10
+i think i'm totally burnt out...,burnout,3
+tbh i'm completely melancholic and i can't shake it.,sadness,10
+i keep imagining worst case scenarios.,anxiety,1
+tbh i'm totally gloomy these days.,sadness,10
+i've been extremely fried,burnout,3
+"honestly, i'm a bit resentful lately.",anger,0
+i think i'm extremely horrible about how i look,body_image_issue,2
+i keep feeling quite uneasy honestly.,anxiety,1
+i'm nervous...,anxiety,1
+i've been very balanced right now.,neutral,9
+today i feel incredibly isolated today.,loneliness,7
+i'm quite overwhelmed and i can't shake it.,stress,11
+"honestly, i'm deeply calm...",neutral,9
+right now i'm completely shaky these days.,anxiety,1
+these days i feel really running on empty honestly.,burnout,3
+i've been extremely furious...,anger,0
+i feel deeply worried about the test i don't know why.,exam_stress,5
+i've been kind of calm i don't know why.,neutral,9
+i think i'm a bit like nobody likes me...,low_self_esteem,8
+right now i'm a bit like giving up i don't know why.,depression,4
+i am okay,neutral,9
+i've been a bit like a failure lately.,low_self_esteem,8
+it seems i'm incredibly alright lately.,neutral,9
+i'm really blessed lately.,joy,6
+these days i feel very running on empty today.,burnout,3
+i think i'm somewhat balanced honestly.,neutral,9
+i think i'm very like a failure i don't know why.,low_self_esteem,8
+sometimes i feel incredibly insecure about my appearance,body_image_issue,2
+i'm kind of like nobody likes me more than usual.,low_self_esteem,8
+i've been quite overwhelmed by studying.,exam_stress,5
+"honestly, i'm cheerful today.",joy,6
+it seems i'm very smiling i don't know why.,joy,6
+it seems i'm extremely annoyed these days.,anger,0
+i keep feeling very like nobody likes me lately.,low_self_esteem,8
+i am very worried about the test.,exam_stress,5
+sometimes i feel incredibly empty today.,depression,4
+i think i'm really normal...,neutral,9
+i feel miserable,sadness,10
+"honestly, i'm kind of disgusting in the mirror honestly.",body_image_issue,2
+it seems i'm completely numb today.,depression,4
+lately i feel deeply exhausted from work more than usual.,burnout,3
+i keep feeling really horrible about how i look more than usual.,body_image_issue,2
+tbh i'm totally fuming more than usual.,anger,0
+it seems i'm very blessed...,joy,6
+right now i'm quite disconnected these days.,loneliness,7
+i think i'm quite worried about the test right now.,exam_stress,5
+sometimes i feel very alright today.,neutral,9
+i am kind of afraid today.,anxiety,1
+"honestly, i'm really low...",sadness,10
+"honestly, i'm very stressed honestly.",stress,11
+i just feel angry more than usual.,anger,0
+tbh i'm kind of pressured today.,stress,11
+i'm kind of light-hearted honestly.,joy,6
+tbh i'm very drained and i can't shake it.,burnout,3
+i've been kind of grateful today.,joy,6
+tbh i can't stand my reflection :(,body_image_issue,2
+i just feel extremely without purpose...,depression,4
+i keep feeling deeply anxious about my upcoming exam i don't know why.,exam_stress,5
+i just feel fine,neutral,9
+sometimes i feel very annoyed these days.,anger,0
+right now i'm totally not good enough today.,low_self_esteem,8
+it seems i'm ugly...,body_image_issue,2
+a bit frustrated honestly.,anger,0
+i'm completely alright,neutral,9
+i think i'm so grateful and i can't shake it.,joy,6
+tbh good things keep happening,joy,6
+these days i feel a bit alone more than usual.,loneliness,7
+tbh i'm quite empty right now.,depression,4
+i think i'm very swamped and i can't shake it.,stress,11
+tbh i'm completely fat and i can't shake it.,body_image_issue,2
+i am really emotionally exhausted i don't know why.,burnout,3
+i think i'm incredibly without purpose...,depression,4
+i keep feeling very swamped.,stress,11
+i just feel somewhat tense honestly.,anxiety,1
+right now i'm totally invisible right now.,loneliness,7
+somewhat fuming honestly.,anger,0
+i'm so neutral honestly.,neutral,9
+"honestly, i'm really overwhelmed i don't know why.",stress,11
+i am a bit cheerful,joy,6
+right now i'm nervous i don't know why.,anxiety,1
+sometimes i feel completely heartbroken today.,sadness,10
+i'm deeply tense i don't know why.,anxiety,1
+tbh i'm somewhat without purpose today.,depression,4
+i keep feeling really insecure about my appearance these days.,body_image_issue,2
+i feel quite afraid these days.,anxiety,1
+i think i'm extremely content lately.,joy,6
+i keep feeling extremely enraged.,anger,0
+today i feel somewhat down lately.,sadness,10
+deeply happy,joy,6
+i've been completely disgusting in the mirror right now.,body_image_issue,2
+it seems i'm incredibly isolated right now.,loneliness,7
+i keep feeling a bit disconnected,loneliness,7
+i think i'm quite shaky i don't know why.,anxiety,1
+i am totally anxious about my upcoming exam honestly.,exam_stress,5
+i just feel a bit burnt out.,burnout,3
+tbh i'm really ugly.,body_image_issue,2
+tbh nothing feels the same anymore.,sadness,10
+i'm really extremely worried about the test,exam_stress,5
+today i feel incredibly apprehensive more than usual.,anxiety,1
+i'm really disgusting in the mirror more than usual.,body_image_issue,2
+i've been incredibly ashamed of my body.,body_image_issue,2
+these days i feel kind of exhausted from work lately.,burnout,3
+i am kind of disgusting in the mirror more than usual.,body_image_issue,2
+i am really run down and i can't shake it.,stress,11
+i just feel kind of under pressure these days.,stress,11
+sometimes i feel deeply unhappy right now.,sadness,10
+really stressed lately.,stress,11
+tbh i'm incredibly mad.,anger,0
+it seems i'm exhausted from work lately.,burnout,3
+tbh i'm gloomy i don't know why.,sadness,10
+i'm really totally insecure about myself more than usual.,low_self_esteem,8
+right now i'm a bit alone today.,loneliness,7
+i just feel totally ugly...,body_image_issue,2
+it seems i'm completely running on empty more than usual.,burnout,3
+i am totally horrible about how i look and i can't shake it.,body_image_issue,2
+i'm a bit worried honestly.,anxiety,1
+today i feel resentful...,anger,0
+"honestly, i'm quite tearful.",sadness,10
+i just feel deeply fried more than usual.,burnout,3
+extremely afraid today.,anxiety,1
+today i feel kind of panicky honestly.,anxiety,1
+i am very anxious about my upcoming exam these days.,exam_stress,5
+i'm having a panic attack :(,anxiety,1
+sometimes i feel totally left out honestly.,loneliness,7
+tbh i'm drained these days.,burnout,3
+"honestly, i'm deeply like nothing matters honestly.",depression,4
+these days i feel a bit like there's no point i don't know why.,depression,4
+i'm completely like a burden lately.,depression,4
+i've been neutral right now.,neutral,9
+i keep feeling incredibly done more than usual.,burnout,3
+these days i feel completely pissed off i don't know why.,anger,0
+lately i feel kind of drained honestly.,burnout,3
+today i feel extremely melancholic honestly.,sadness,10
+i keep feeling somewhat thankful i don't know why.,joy,6
+i think i'm a bit insecure about myself today.,low_self_esteem,8
+i am quite worried about the test these days.,exam_stress,5
+i've been really alright i don't know why.,neutral,9
+it seems i'm very like i don't matter.,low_self_esteem,8
+sometimes i feel completely run down more than usual.,stress,11
+i keep feeling quite numb,depression,4
+i think i'm very ashamed of my body lately.,body_image_issue,2
+i feel completely worthless and i can't shake it.,low_self_esteem,8
+lately i feel quite in a good mood,joy,6
+i keep feeling somewhat unattractive,body_image_issue,2
+right now i'm totally drained right now.,burnout,3
+i think i'm somewhat unattractive honestly.,body_image_issue,2
+i am extremely worthless and i can't shake it.,depression,4
+i feel quite frustrated,anger,0
+i am quite annoyed today.,anger,0
+somewhat fat...,body_image_issue,2
+completely by myself these days.,loneliness,7
+i'm really deeply drained these days.,burnout,3
+i'm really really upset these days.,sadness,10
+i feel totally exhausted from work,burnout,3
+i am very like nothing matters today.,depression,4
+i think i'm incredibly numb more than usual.,depression,4
+i'm completely without purpose.,depression,4
+somewhat annoyed,anger,0
+i think i'm totally happy today.,joy,6
+sometimes i feel a bit like nothing matters today.,depression,4
+today i feel kind of burnt out these days.,burnout,3
+"honestly, i'm quite buried in tasks and i can't shake it.",stress,11
+these days i feel kind of lonely and i can't shake it.,loneliness,7
+today i feel really running on empty,burnout,3
+i think i'm grateful and i can't shake it.,joy,6
+i think i'm completely delighted right now.,joy,6
+it seems i'm extremely anxious about my upcoming exam today.,exam_stress,5
+i keep feeling like nothing matters...,depression,4
+"honestly, i'm worried about the test and i can't shake it.",exam_stress,5
+it seems i'm a bit done right now.,burnout,3
+i just feel quite pissed off more than usual.,anger,0
+tbh i'm totally worried about the test,exam_stress,5
+really invisible and i can't shake it.,loneliness,7
+these days i feel totally scared i'll fail my exam today.,exam_stress,5
+a bit like nobody likes me these days.,low_self_esteem,8
+i feel fried right now.,burnout,3
+right now i'm kind of low,sadness,10
+tbh i'm kind of balanced more than usual.,neutral,9
+it seems i'm totally like nobody likes me today.,low_self_esteem,8
+it seems i'm deeply forgotten...,loneliness,7
+lately i feel somewhat on edge.,anxiety,1
+sometimes i feel extremely disgusting in the mirror...,body_image_issue,2
+today i feel quite alone more than usual.,loneliness,7
+i've been fat right now.,body_image_issue,2
+so pissed off lately.,anger,0
+"honestly, i'm really glad",joy,6
+i'm somewhat left out and i can't shake it.,loneliness,7
+these days i feel so light-hearted,joy,6
+i've been so melancholic more than usual.,sadness,10
+i am very worried about the test these days.,exam_stress,5
+right now i'm so low i don't know why.,sadness,10
+these days i feel a bit stressed about my exams more than usual.,exam_stress,5
+i'm really completely gloomy honestly.,sadness,10
+i feel a bit delighted.,joy,6
+i keep feeling deeply panicking about finals,exam_stress,5
+sometimes i feel really shaky these days.,anxiety,1
+i feel so like i don't matter i don't know why.,low_self_esteem,8
+i am completely grateful right now.,joy,6
+i think i'm extremely insecure about my appearance i don't know why.,body_image_issue,2
+i'm incredibly like nothing matters these days.,depression,4
+sometimes i feel somewhat low i don't know why.,sadness,10
+tbh i'm so like i don't matter.,low_self_esteem,8
+today i feel deeply fat,body_image_issue,2
+i think i'm a bit overwhelmed by studying more than usual.,exam_stress,5
+lately i feel extremely disgusting in the mirror right now.,body_image_issue,2
+i've been a bit stupid today.,low_self_esteem,8
+right now i'm completely hopeless,depression,4
+i think i'm deeply depleted right now.,burnout,3
+lately i feel a bit left out today.,loneliness,7
+lately i feel extremely on edge i don't know why.,anxiety,1
+i think i'm incredibly cheerful right now.,joy,6
+i've been somewhat unattractive lately.,body_image_issue,2
+sometimes i feel somewhat like giving up and i can't shake it.,depression,4
+it seems i'm incredibly anxious about my upcoming exam lately.,exam_stress,5
+today i feel completely alone.,loneliness,7
+sometimes i feel quite frustrated.,anger,0
+why does this keep happening to me :(,anger,0
+sometimes i feel incredibly anxious more than usual.,anxiety,1
+i'm really a bit normal i don't know why.,neutral,9
+i'm fuming honestly.,anger,0
+"honestly, i'm extremely like i don't matter and i can't shake it.",low_self_esteem,8
+tbh i'm deeply drained of meaning these days.,depression,4
+sometimes i feel very shaky these days.,anxiety,1
+"honestly, i'm very run down honestly.",stress,11
+i'm really quite insecure about my appearance and i can't shake it.,body_image_issue,2
+today i feel quite like a failure and i can't shake it.,low_self_esteem,8
+i feel upset lately.,sadness,10
+it seems i'm extremely pleased honestly.,joy,6
+tbh i'm deeply fine...,neutral,9
+i'm okay,neutral,9
+tbh i'm really at ease these days.,neutral,9
+it seems i'm a bit irritated today.,anger,0
+i'm extremely worried about the test,exam_stress,5
+right now i'm totally like a burden more than usual.,depression,4
+it seems i'm extremely uneasy...,anxiety,1
+sometimes i feel extremely neutral honestly.,neutral,9
+today i feel so balanced i don't know why.,neutral,9
+it seems i'm completely miserable lately.,sadness,10
+i'm really kind of overwhelmed by studying today.,exam_stress,5
+i think i'm totally pissed off today.,anger,0
+"honestly, i'm kind of forgotten these days.",loneliness,7
+i'm quite scared i'll fail my exam i don't know why.,exam_stress,5
+lately i feel incredibly heartbroken i don't know why.,sadness,10
+i just feel really panicky i don't know why.,anxiety,1
+it seems i'm so emotionally exhausted today.,burnout,3
+"honestly, i'm really apprehensive lately.",anxiety,1
+"honestly, i'm somewhat happy lately.",joy,6
+i feel extremely upset lately.,sadness,10
+tbh i'm extremely anxious...,anxiety,1
+i feel somewhat angry today.,anger,0
+tbh i'm like nothing matters honestly.,depression,4
+these days i feel totally exhausted from work,burnout,3
+"honestly, i'm extremely depleted.",burnout,3
+i feel extremely afraid,anxiety,1
+it seems i'm a bit sad lately.,sadness,10
+i keep feeling incredibly grateful these days.,joy,6
+right now i'm completely alright.,neutral,9
+i've been so like nobody likes me lately.,low_self_esteem,8
+lately i feel very blue right now.,sadness,10
+i keep feeling on edge and i can't shake it.,anxiety,1
+sometimes i feel extremely anxious about my upcoming exam honestly.,exam_stress,5
+these days i feel totally emotionally exhausted these days.,burnout,3
+sometimes i feel totally mad and i can't shake it.,anger,0
+kind of worthless honestly.,low_self_esteem,8
+i'm really totally scared i'll fail my exam i don't know why.,exam_stress,5
+i think i'm completely overwhelmed right now.,stress,11
+i keep feeling completely fat lately.,body_image_issue,2
+lately i feel very isolated lately.,loneliness,7
+completely overwhelmed right now.,stress,11
+i am quite lonely these days.,loneliness,7
+right now i'm so insecure about myself right now.,low_self_esteem,8
+i just feel really fried lately.,burnout,3
+right now i'm balanced.,neutral,9
+today i feel extremely insecure about myself lately.,low_self_esteem,8
+i've been really burnt out right now.,burnout,3
+i think i'm totally glad,joy,6
+i've been so mad these days.,anger,0
+lonely these days.,loneliness,7
+i keep feeling very afraid i don't know why.,anxiety,1
+i think i'm extremely worried about the test these days.,exam_stress,5
+tbh i'm deeply swamped i don't know why.,stress,11
+i feel totally stressed right now.,stress,11
+i'm quite done i don't know why.,burnout,3
+today i feel incredibly stressed about my exams lately.,exam_stress,5
+tbh i just want to break something :(,anger,0
+i feel very blessed these days.,joy,6
+tbh i'm really tense from work...,stress,11
+these days i feel really at ease.,neutral,9
+"honestly, i'm depleted right now.",burnout,3
+tbh i'm quite fat i don't know why.,body_image_issue,2
+tbh i'm totally worthless and i can't shake it.,depression,4
+i think i'm a bit anxious about my upcoming exam right now.,exam_stress,5
+i'm really very pissed off...,anger,0
+sometimes i feel kind of overwhelmed by studying.,exam_stress,5
+i keep feeling extremely anxious about my upcoming exam i don't know why.,exam_stress,5
+today i feel deeply empty i don't know why.,depression,4
+right now i'm deeply pleased...,joy,6
+i am a bit optimistic today.,joy,6
+these days i feel very furious i don't know why.,anger,0
+right now i'm really irritated i don't know why.,anger,0
+right now i'm incredibly not good enough more than usual.,low_self_esteem,8
+it seems i'm quite by myself and i can't shake it.,loneliness,7
+i just feel extremely like i don't matter honestly.,low_self_esteem,8
+"honestly, i'm forgotten honestly.",loneliness,7
+i've been a bit anxious lately.,anxiety,1
+i'm really deeply under pressure,stress,11
+i think i'm deeply panicky lately.,anxiety,1
+i keep feeling completely like there's no point lately.,depression,4
+it seems i'm very exhausted from work,burnout,3
+i think i'm so tearful lately.,sadness,10
+i am quite running on empty i don't know why.,burnout,3
+i feel extremely fried right now.,burnout,3
+worthless,low_self_esteem,8
+right now i'm very fat and i can't shake it.,body_image_issue,2
+these days i feel a bit nervous more than usual.,anxiety,1
+lately i feel totally horrible about how i look lately.,body_image_issue,2
+sometimes i feel completely disgusting in the mirror,body_image_issue,2
+tbh i'm totally anxious about my upcoming exam these days.,exam_stress,5
+i'm somewhat gloomy,sadness,10
+i keep feeling completely lonely i don't know why.,loneliness,7
+these days i feel very worthless today.,depression,4
+it seems i'm kind of just chilling...,neutral,9
+right now i'm really fearful.,anxiety,1
+completely fuming honestly.,anger,0
+tbh i'm so cheerful i don't know why.,joy,6
+these days i feel extremely fat i don't know why.,body_image_issue,2
+i just feel extremely ashamed of my body right now.,body_image_issue,2
+tbh i'm kind of normal more than usual.,neutral,9
+tbh i'm totally stressed...,stress,11
+"honestly, i'm deeply furious",anger,0
+somewhat ashamed of my body more than usual.,body_image_issue,2
+these days i feel kind of mad today.,anger,0
+today i feel somewhat insecure about myself right now.,low_self_esteem,8
+i think i'm kind of tense from work,stress,11
+lately i feel deeply disconnected i don't know why.,loneliness,7
+i feel pissed off more than usual.,anger,0
+today i feel so ugly more than usual.,body_image_issue,2
+i am completely disgusting in the mirror right now.,body_image_issue,2
+it seems i'm a bit worthless right now.,low_self_esteem,8
+i think i'm very panicking about finals and i can't shake it.,exam_stress,5
+i keep feeling somewhat worried more than usual.,anxiety,1
+sometimes i feel somewhat fat,body_image_issue,2
+it seems i'm fuming.,anger,0
+i feel really like giving up lately.,depression,4
+i'm so angry,anger,0
+these days i feel deeply exhausted from work today.,burnout,3
+i've been a bit by myself honestly.,loneliness,7
+i feel a bit like i don't matter honestly.,low_self_esteem,8
+"honestly, i'm really heartbroken...",sadness,10
+i just feel completely insecure about my appearance and i can't shake it.,body_image_issue,2
+i just feel deeply stressed about my exams today.,exam_stress,5
+i think i'm kind of isolated honestly.,loneliness,7
+"honestly, i'm so balanced...",neutral,9
+i'm really okay more than usual.,neutral,9
+lately i feel quite joyful lately.,joy,6
+i feel a bit burnt out right now.,burnout,3
+today i feel gloomy...,sadness,10
+tbh i'm extremely ashamed of my body right now.,body_image_issue,2
+sometimes i feel on edge right now.,anxiety,1
+i've been somewhat worried about the test,exam_stress,5
+sometimes i feel a bit irritated more than usual.,anger,0
+i've been like nothing matters these days.,depression,4
+a bit left out honestly.,loneliness,7
+right now i'm quite buried in tasks these days.,stress,11
+it seems i'm very at ease lately.,neutral,9
+i'm really a bit done,burnout,3
+i'm a bit down i don't know why.,sadness,10
+these days i feel really alright i don't know why.,neutral,9
+today i feel really unhappy...,sadness,10
+i just feel a bit annoyed.,anger,0
+i think i'm completely alone right now.,loneliness,7
+lately i feel running on empty lately.,burnout,3
+i feel so forgotten lately.,loneliness,7
+tbh i'm deeply forgotten honestly.,loneliness,7
+lately i feel like a failure and i can't shake it.,low_self_esteem,8
+tbh i'm deeply angry i don't know why.,anger,0
+these days i feel quite like a failure honestly.,low_self_esteem,8
+tbh i'm extremely anxious about my upcoming exam and i can't shake it.,exam_stress,5
+sometimes i feel really swamped today.,stress,11
+tbh i'm quite depleted these days.,burnout,3
+today i feel totally resentful lately.,anger,0
+i've been extremely fearful...,anxiety,1
+i am scared i'll fail my exam and i can't shake it.,exam_stress,5
+i just feel extremely upset more than usual.,sadness,10
+today i feel somewhat under pressure more than usual.,stress,11
+sometimes i feel stupid right now.,low_self_esteem,8
+i'm a bit panicking about finals these days.,exam_stress,5
+i am quite worthless and i can't shake it.,depression,4
+right now i'm very thankful honestly.,joy,6
+"honestly, i'm really like i don't matter today.",low_self_esteem,8
+i've been incredibly enraged more than usual.,anger,0
+i am a bit hopeless,depression,4
+tbh i'm totally like i don't matter honestly.,low_self_esteem,8
+tbh i'm a bit alone i don't know why.,loneliness,7
+i just feel extremely angry,anger,0
+i'm quite worried about the test today.,exam_stress,5
+incredibly balanced more than usual.,neutral,9
+i'm really frustrated honestly.,anger,0
+today i feel kind of left out,loneliness,7
+today i feel quite fat.,body_image_issue,2
+"honestly, i'm a bit okay i don't know why.",neutral,9
+these days i feel completely insecure about my appearance honestly.,body_image_issue,2
+it seems i'm kind of insecure about my appearance honestly.,body_image_issue,2
+i feel deeply sad right now.,sadness,10
+these days i feel kind of emotionally exhausted...,burnout,3
+i'm really so stressed about my exams more than usual.,exam_stress,5
+i'm kind of run down,stress,11
+tbh i'm extremely pleased these days.,joy,6
+lately i feel deeply down,sadness,10
+lately i feel really like nothing matters i don't know why.,depression,4
+today i feel quite not good enough i don't know why.,low_self_esteem,8
+"honestly, i'm somewhat pissed off",anger,0
+it seems i'm deeply light-hearted,joy,6
+right now i'm completely shaky i don't know why.,anxiety,1
+tbh i'm incredibly afraid more than usual.,anxiety,1
+"honestly, i'm a bit swamped...",stress,11
+i've been depleted more than usual.,burnout,3
+sometimes i feel very alright...,neutral,9
+these days i feel kind of panicking about finals more than usual.,exam_stress,5
+i'm really a bit optimistic these days.,joy,6
+it seems i'm so worried honestly.,anxiety,1
+i think i'm totally hopeless these days.,depression,4
+i'm really emotionally exhausted,burnout,3
+i think i'm deeply tense from work these days.,stress,11
+i'm apprehensive.,anxiety,1
+right now i'm deeply useless these days.,low_self_esteem,8
+i keep feeling incredibly like a failure right now.,low_self_esteem,8
+i'm overwhelmed more than usual.,stress,11
+right now i'm a bit overwhelmed.,stress,11
+i am quite ugly today.,body_image_issue,2
+i just feel incredibly by myself honestly.,loneliness,7
+i'm really kind of happy honestly.,joy,6
+kind of irritated i don't know why.,anger,0
+tbh i'm kind of happy,joy,6
+i just feel quite apprehensive...,anxiety,1
+i think i'm kind of mad,anger,0
+today i feel deeply like giving up more than usual.,depression,4
+i've been somewhat stressed and i can't shake it.,stress,11
+right now i'm a bit pressured today.,stress,11
+it seems i'm completely heartbroken.,sadness,10
+today i feel extremely swamped honestly.,stress,11
+lately i feel kind of like i don't matter right now.,low_self_esteem,8
+lately i feel very angry.,anger,0
+right now i'm extremely neutral and i can't shake it.,neutral,9
+sometimes i feel totally ashamed of my body,body_image_issue,2
+it seems i'm really alright lately.,neutral,9
+i am a bit tearful today.,sadness,10
+i feel very in a good mood today.,joy,6
+sometimes i feel totally swamped more than usual.,stress,11
+i keep feeling very afraid and i can't shake it.,anxiety,1
+today i feel a bit neutral lately.,neutral,9
+it seems i'm quite running on empty i don't know why.,burnout,3
+i feel incredibly pressured i don't know why.,stress,11
+i've been very shaky lately.,anxiety,1
+i'm at ease today.,neutral,9
+"honestly, i'm very under pressure.",stress,11
+i'm somewhat insecure about my appearance these days.,body_image_issue,2
+i keep feeling really pissed off lately.,anger,0
+"honestly, i'm incredibly mad today.",anger,0
+i just feel so anxious about my upcoming exam i don't know why.,exam_stress,5
+a bit like there's no point these days.,depression,4
+it seems i'm very at ease.,neutral,9
+i'm really really shaky honestly.,anxiety,1
+today i feel very left out right now.,loneliness,7
+i am somewhat scared i'll fail my exam.,exam_stress,5
+i'm really quite stressed about my exams honestly.,exam_stress,5
+i keep feeling kind of by myself.,loneliness,7
+today i feel extremely panicking about finals lately.,exam_stress,5
+right now i'm deeply buried in tasks,stress,11
+i feel somewhat done today.,burnout,3
+i keep feeling kind of gloomy these days.,sadness,10
+i keep feeling really frustrated more than usual.,anger,0
+these days i feel completely stupid more than usual.,low_self_esteem,8
+i just feel deeply angry i don't know why.,anger,0
+lately i feel quite normal these days.,neutral,9
+quite without purpose more than usual.,depression,4
+tbh i'm worthless right now.,low_self_esteem,8
+sometimes i feel extremely on edge right now.,anxiety,1
+i've been completely exhausted from work today.,burnout,3
+tbh i'm totally mad...,anger,0
+"honestly, i'm like there's no point lately.",depression,4
+i just feel kind of anxious about my upcoming exam...,exam_stress,5
+right now i'm kind of stupid,low_self_esteem,8
+i am kind of worthless...,low_self_esteem,8
+i just feel incredibly grateful right now.,joy,6
+incredibly just chilling...,neutral,9
+i'm really sad lately.,sadness,10
+it seems i'm quite like there's no point i don't know why.,depression,4
+lately i feel kind of scared i'll fail my exam i don't know why.,exam_stress,5
+"honestly, i'm really unhappy more than usual.",sadness,10
+i just feel totally running on empty lately.,burnout,3
+these days i feel really optimistic today.,joy,6
+i keep feeling kind of low today.,sadness,10
+i'm really really stupid more than usual.,low_self_esteem,8
+i'm a bit swamped today.,stress,11
+pissed off today.,anger,0
+somewhat miserable right now.,sadness,10
+i'm really kind of anxious about my upcoming exam i don't know why.,exam_stress,5
+i've been so ashamed of my body right now.,body_image_issue,2
+sometimes i feel completely overwhelmed by studying more than usual.,exam_stress,5
+i feel so buried in tasks.,stress,11
+i feel extremely fat...,body_image_issue,2
+these days i feel incredibly uneasy lately.,anxiety,1
+"honestly, i'm a bit burnt out.",burnout,3
+i feel completely horrible about how i look i don't know why.,body_image_issue,2
+right now i'm completely joyful honestly.,joy,6
+i'm really deeply overwhelmed today.,stress,11
+i'm completely thankful these days.,joy,6
+right now i'm totally shaky...,anxiety,1
+right now i'm really overwhelmed by studying these days.,exam_stress,5
+i am annoyed lately.,anger,0
+somewhat worried these days.,anxiety,1
+these days i feel somewhat drained of meaning honestly.,depression,4
+tbh i'm totally alright...,neutral,9
+tbh i'm quite happy i don't know why.,joy,6
+i just feel totally alone more than usual.,loneliness,7
+i just feel somewhat frustrated i don't know why.,anger,0
+i think i'm a bit overwhelmed more than usual.,stress,11
+lately i feel kind of fat more than usual.,body_image_issue,2
+sometimes i feel somewhat under pressure,stress,11
+i feel so tense lately.,anxiety,1
+i just feel totally pressured more than usual.,stress,11
+i keep feeling kind of like a burden today.,depression,4
+right now i'm kind of like giving up.,depression,4
+tbh i'm quite enraged...,anger,0
+lately i feel kind of panicky more than usual.,anxiety,1
+i've been completely isolated i don't know why.,loneliness,7
+today i feel totally happy...,joy,6
+these days i feel so buried in tasks honestly.,stress,11
+i've been so balanced these days.,neutral,9
+today i feel done i don't know why.,burnout,3
+tbh i'm totally burnt out...,burnout,3
+i think i'm somewhat okay honestly.,neutral,9
+i am done more than usual.,burnout,3
+it seems i'm extremely stupid these days.,low_self_esteem,8
+invisible honestly.,loneliness,7
+today i feel so like i don't matter honestly.,low_self_esteem,8
+these days i feel quite resentful honestly.,anger,0
+these days i feel anxious honestly.,anxiety,1
+lately i feel somewhat tense from work.,stress,11
+i am extremely calm honestly.,neutral,9
+i keep feeling very neutral.,neutral,9
+i feel completely alright honestly.,neutral,9
+"honestly, i'm invisible these days.",loneliness,7
+sometimes i feel kind of heartbroken honestly.,sadness,10
+i'm really very content right now.,joy,6
+i think i'm so worried i don't know why.,anxiety,1
+i've been so useless these days.,low_self_esteem,8
+i'm really completely like nothing matters right now.,depression,4
+it seems i'm somewhat ashamed of my body i don't know why.,body_image_issue,2
+tbh i'm so ashamed of my body today.,body_image_issue,2
+lately i feel so left out today.,loneliness,7
+incredibly pressured i don't know why.,stress,11
+i just feel incredibly like i don't matter more than usual.,low_self_esteem,8
+kind of without purpose more than usual.,depression,4
+i just feel quite normal honestly.,neutral,9
+right now i'm kind of stressed,stress,11
+i think i'm alright and i can't shake it.,neutral,9
+i think i'm really hopeless.,depression,4
+lately i feel a bit worried i don't know why.,anxiety,1
+so overwhelmed by studying lately.,exam_stress,5
+i'm really very afraid and i can't shake it.,anxiety,1
+today i feel a bit worried,anxiety,1
+i just feel quite okay these days.,neutral,9
+i am incredibly uneasy and i can't shake it.,anxiety,1
+i am extremely just chilling i don't know why.,neutral,9
+lately i feel deeply like a failure and i can't shake it.,low_self_esteem,8
+today i feel stupid honestly.,low_self_esteem,8
+i feel very panicking about finals lately.,exam_stress,5
+i've been totally run down right now.,stress,11
+i feel kind of like a burden lately.,depression,4
+i keep feeling joyful lately.,joy,6
+"honestly, i'm a bit disgusting in the mirror...",body_image_issue,2
+sometimes i feel really insecure about myself,low_self_esteem,8
+"honestly, i'm very overwhelmed more than usual.",stress,11
+i am quite stressed about my exams more than usual.,exam_stress,5
+i'm really incredibly worried and i can't shake it.,anxiety,1
+sometimes i feel emotionally exhausted more than usual.,burnout,3
+i think i'm very insecure about myself these days.,low_self_esteem,8
+i keep feeling disgusting in the mirror right now.,body_image_issue,2
+sometimes i feel really fearful lately.,anxiety,1
+i keep feeling so shaky.,anxiety,1
+i'm kind of depleted today.,burnout,3
+tbh i'm somewhat overwhelmed by studying honestly.,exam_stress,5
+"honestly, i'm a bit drained today.",burnout,3
+it seems i'm enraged lately.,anger,0
+lately i feel completely exhausted from work lately.,burnout,3
+these days i feel a bit numb,depression,4
+sometimes i feel extremely miserable honestly.,sadness,10
+i feel deeply alone these days.,loneliness,7
+i am completely neutral honestly.,neutral,9
+"honestly, i'm very done and i can't shake it.",burnout,3
+i just feel by myself honestly.,loneliness,7
+i'm really completely worthless.,low_self_esteem,8
+i keep feeling incredibly just chilling lately.,neutral,9
+completely nervous more than usual.,anxiety,1
+i feel deeply blue honestly.,sadness,10
+these days i feel completely exhausted from work right now.,burnout,3
+right now i'm so like there's no point...,depression,4
+i keep feeling incredibly by myself lately.,loneliness,7
+really shaky honestly.,anxiety,1
+lately i feel kind of emotionally exhausted right now.,burnout,3
+sometimes i feel kind of tense from work more than usual.,stress,11
+sometimes i feel a bit disconnected today.,loneliness,7
+these days i feel quite panicking about finals today.,exam_stress,5
+"honestly, i'm calm honestly.",neutral,9
+i think i'm completely enraged these days.,anger,0
+i feel totally anxious these days.,anxiety,1
+sometimes i feel deeply panicking about finals i don't know why.,exam_stress,5
+i'm really deeply panicking about finals and i can't shake it.,exam_stress,5
+i keep feeling quite swamped...,stress,11
+lately i feel somewhat stressed i don't know why.,stress,11
+i think i'm quite like i don't matter.,low_self_esteem,8
+i've been incredibly insecure about my appearance right now.,body_image_issue,2
+i'm very grateful and i can't shake it.,joy,6
+i keep feeling kind of like a failure right now.,low_self_esteem,8
+i've been really overwhelmed and i can't shake it.,stress,11
+i am totally worthless...,depression,4
+i feel quite isolated...,loneliness,7
+today i feel quite like there's no point these days.,depression,4
+i just feel kind of overwhelmed by studying...,exam_stress,5
+i've been completely drained i don't know why.,burnout,3
+lately i feel quite light-hearted...,joy,6
+it seems i'm very angry lately.,anger,0
+extremely fried right now.,burnout,3
+sometimes i feel panicking about finals right now.,exam_stress,5
+"honestly, i'm pleased...",joy,6
+it seems i'm fried i don't know why.,burnout,3
+"honestly, i'm a bit overwhelmed by studying more than usual.",exam_stress,5
+i'm really so heartbroken today.,sadness,10
+today i feel totally stressed about my exams and i can't shake it.,exam_stress,5
+sometimes i feel somewhat pissed off today.,anger,0
+lately i feel deeply invisible more than usual.,loneliness,7
+i am incredibly by myself and i can't shake it.,loneliness,7
+i just feel extremely blue right now.,sadness,10
+tbh i'm really scared i'll fail my exam lately.,exam_stress,5
+so horrible about how i look lately.,body_image_issue,2
+i've been very like nothing matters more than usual.,depression,4
+it seems i'm really panicking about finals these days.,exam_stress,5
+lately i feel quite cheerful these days.,joy,6
+i'm really uneasy these days.,anxiety,1
+quite tense from work today.,stress,11
+today i feel a bit stressed about my exams right now.,exam_stress,5
+i keep feeling extremely like a burden...,depression,4
+i just feel so worthless,low_self_esteem,8
+i'm incredibly like giving up i don't know why.,depression,4
+quite horrible about how i look...,body_image_issue,2
+"honestly, i'm somewhat just chilling today.",neutral,9
+i just feel quite ashamed of my body,body_image_issue,2
+i'm deeply like a burden honestly.,depression,4
+today i feel extremely furious today.,anger,0
+i've been kind of hopeless i don't know why.,depression,4
+i've been totally drained...,burnout,3
+these days i feel really left out more than usual.,loneliness,7
+today i feel by myself i don't know why.,loneliness,7
+i think i'm completely ugly i don't know why.,body_image_issue,2
+sometimes i feel extremely useless more than usual.,low_self_esteem,8
+i just feel completely fried right now.,burnout,3
+really nervous honestly.,anxiety,1
+lately i feel completely emotionally exhausted...,burnout,3
+tbh i'm deeply enraged and i can't shake it.,anger,0
+sometimes i feel totally nervous lately.,anxiety,1
+these days i feel extremely worthless.,low_self_esteem,8
+right now i'm completely done.,burnout,3
+completely ashamed of my body.,body_image_issue,2
+i feel a bit like there's no point today.,depression,4
+i feel completely lonely right now.,loneliness,7
+i'm really somewhat worthless.,depression,4
+i think i'm alone,loneliness,7
+lately i feel totally scared i'll fail my exam honestly.,exam_stress,5
+i think i'm deeply under pressure,stress,11
+i'm deeply isolated more than usual.,loneliness,7
+i've been somewhat under pressure.,stress,11
+i'm quite depleted.,burnout,3
+i feel incredibly isolated these days.,loneliness,7
+i think i'm so fuming and i can't shake it.,anger,0
+these days i feel frustrated.,anger,0
+i'm really a bit swamped.,stress,11
+i'm so fearful these days.,anxiety,1
+i'm incredibly under pressure these days.,stress,11
+these days i feel kind of invisible right now.,loneliness,7
+deeply ashamed of my body today.,body_image_issue,2
+tbh i'm totally done more than usual.,burnout,3
+i feel totally optimistic honestly.,joy,6
+tbh i'm incredibly like nobody likes me...,low_self_esteem,8
+it seems i'm quite gloomy.,sadness,10
+i am somewhat like i don't matter more than usual.,low_self_esteem,8
+i keep feeling unhappy lately.,sadness,10
+i am like nobody likes me and i can't shake it.,low_self_esteem,8
+i'm really so buried in tasks lately.,stress,11
+it seems i'm completely thankful i don't know why.,joy,6
+really like giving up more than usual.,depression,4
+i just feel extremely forgotten and i can't shake it.,loneliness,7
+these days i feel worried,anxiety,1
+i'm really totally without purpose these days.,depression,4
+sometimes i feel quite worried i don't know why.,anxiety,1
+i feel completely happy honestly.,joy,6
+a bit ashamed of my body right now.,body_image_issue,2
+these days i feel incredibly melancholic these days.,sadness,10
+i'm incredibly forgotten i don't know why.,loneliness,7
+it seems i'm incredibly worthless more than usual.,low_self_esteem,8
+i've been resentful.,anger,0
+i am really panicking about finals more than usual.,exam_stress,5
+lately i feel really happy and i can't shake it.,joy,6
+i just feel extremely annoyed.,anger,0
+i keep feeling incredibly isolated lately.,loneliness,7
+these days i feel incredibly run down.,stress,11
+it seems i'm extremely nervous honestly.,anxiety,1
+i'm really totally ugly lately.,body_image_issue,2
+i am kind of in a good mood,joy,6
+i keep feeling incredibly calm today.,neutral,9
+i feel really blue and i can't shake it.,sadness,10
+i feel very okay,neutral,9
+i'm really quite pleased right now.,joy,6
+somewhat worthless right now.,low_self_esteem,8
+i'm a bit overwhelmed today.,stress,11
+sometimes i feel extremely smiling and i can't shake it.,joy,6
+i'm extremely shaky...,anxiety,1
+i feel incredibly low,sadness,10
+i feel quite insecure about myself.,low_self_esteem,8
+tbh i'm deeply like a failure these days.,low_self_esteem,8
+right now i'm extremely melancholic i don't know why.,sadness,10
+i am really worthless honestly.,depression,4
+"honestly, i'm totally fat and i can't shake it.",body_image_issue,2
+sometimes i feel so tense from work honestly.,stress,11
+i feel so light-hearted honestly.,joy,6
+i feel a bit blue more than usual.,sadness,10
+i think i'm a bit on edge...,anxiety,1
+i keep feeling kind of panicking about finals and i can't shake it.,exam_stress,5
+i wish i looked different,body_image_issue,2
+these days i feel extremely thankful...,joy,6
+scared i'll fail my exam and i can't shake it.,exam_stress,5
+lately i feel deeply overwhelmed these days.,stress,11
+i feel incredibly like a failure,low_self_esteem,8
+today i feel a bit like nothing matters these days.,depression,4
+tbh i'm totally blessed right now.,joy,6
+right now i'm incredibly ugly honestly.,body_image_issue,2
+so alone lately.,loneliness,7
+sometimes i feel fat i don't know why.,body_image_issue,2
+i'm totally like a burden more than usual.,depression,4
+sometimes i feel so blessed and i can't shake it.,joy,6
+i am so irritated and i can't shake it.,anger,0
+i feel a bit under pressure more than usual.,stress,11
+i'm a bit upset.,sadness,10
+i just feel really panicky.,anxiety,1
+sometimes i feel stupid and i can't shake it.,low_self_esteem,8
+today i feel totally furious lately.,anger,0
+tbh i'm quite resentful.,anger,0
+right now i'm a bit upset today.,sadness,10
+right now i'm deeply lonely lately.,loneliness,7
+i keep feeling somewhat gloomy more than usual.,sadness,10
+very overwhelmed by studying more than usual.,exam_stress,5
+i just feel incredibly resentful...,anger,0
+i just feel somewhat by myself and i can't shake it.,loneliness,7
+today i feel incredibly frustrated i don't know why.,anger,0
+right now i'm very angry i don't know why.,anger,0
+i think i'm completely stressed honestly.,stress,11
+i'm really completely alone lately.,loneliness,7
+i am really like a burden and i can't shake it.,depression,4
+i keep feeling quite depleted...,burnout,3
+sometimes i feel deeply disconnected these days.,loneliness,7
+i'm really kind of running on empty and i can't shake it.,burnout,3
+today i feel so pissed off lately.,anger,0
+i'm incredibly like giving up right now.,depression,4
+lately i feel incredibly enraged.,anger,0
+it seems i'm kind of at ease i don't know why.,neutral,9
+i think i'm completely left out and i can't shake it.,loneliness,7
+i keep feeling really horrible about how i look today.,body_image_issue,2
+i think i'm somewhat worried about the test.,exam_stress,5
+right now i'm a bit anxious about my upcoming exam lately.,exam_stress,5
+tbh i'm kind of unattractive,body_image_issue,2
+i think i'm deeply disconnected,loneliness,7
+i've been extremely without purpose today.,depression,4
+lately i feel deeply isolated and i can't shake it.,loneliness,7
+"honestly, i'm very anxious...",anxiety,1
+very afraid i don't know why.,anxiety,1
+lately i feel completely angry.,anger,0
+lately i feel completely tense from work right now.,stress,11
+"honestly, i'm kind of glad",joy,6
+i'm extremely fat today.,body_image_issue,2
+tbh i'm totally in a good mood.,joy,6
+kind of nervous more than usual.,anxiety,1
+i've been lonely.,loneliness,7
+i'm really extremely furious...,anger,0
+tbh i'm a bit normal,neutral,9
+tbh i'm totally stressed honestly.,stress,11
+lately i feel very stressed about my exams today.,exam_stress,5
+"honestly, i miss having someone who cares :(",loneliness,7
+it seems i'm kind of furious honestly.,anger,0
+i am a bit ugly these days.,body_image_issue,2
+today i feel quite content,joy,6
+i feel so fat.,body_image_issue,2
+right now i'm deeply forgotten today.,loneliness,7
+"honestly, i'm quite scared i'll fail my exam.",exam_stress,5
+i just feel kind of pressured more than usual.,stress,11
+i'm so stressed about my exams...,exam_stress,5
+i am so unattractive right now.,body_image_issue,2
+i've been deeply pissed off lately.,anger,0
+these days i feel extremely afraid honestly.,anxiety,1
+i think i'm quite anxious and i can't shake it.,anxiety,1
+i've been so depleted.,burnout,3
+i think i'm under pressure and i can't shake it.,stress,11
+it seems i'm really scared i'll fail my exam honestly.,exam_stress,5
+i'm pressured today.,stress,11
+i think i'm a bit furious,anger,0
+sometimes i feel so exhausted from work honestly.,burnout,3
+i feel kind of under pressure honestly.,stress,11
+i just feel kind of horrible about how i look and i can't shake it.,body_image_issue,2
+i just feel extremely not good enough,low_self_esteem,8
+i think i'm really anxious.,anxiety,1
+i feel a bit exhausted from work,burnout,3
+i'm deeply calm right now.,neutral,9
+i just feel completely smiling more than usual.,joy,6
+sometimes i feel a bit stupid.,low_self_esteem,8
+i keep feeling completely just chilling right now.,neutral,9
+it seems i'm incredibly horrible about how i look right now.,body_image_issue,2
+i just feel so pissed off honestly.,anger,0
+"honestly, i'm quite forgotten lately.",loneliness,7
+i feel incredibly burnt out and i can't shake it.,burnout,3
+i feel quite by myself,loneliness,7
+i've been totally useless...,low_self_esteem,8
+lately i feel really tense from work more than usual.,stress,11
+it seems i'm a bit fine...,neutral,9
+i think i'm quite normal,neutral,9
+"honestly, i'm quite hopeless...",depression,4
+"honestly, i'm totally panicking about finals lately.",exam_stress,5
+today i feel deeply fried honestly.,burnout,3
+tbh i'm extremely worthless...,depression,4
+i've been really in a good mood honestly.,joy,6
+i feel incredibly running on empty these days.,burnout,3
+i think i'm a bit isolated i don't know why.,loneliness,7
+i'm unattractive these days.,body_image_issue,2
+somewhat empty these days.,depression,4
+tbh i'm really swamped these days.,stress,11
+i feel incredibly delighted...,joy,6
+today i feel really grateful lately.,joy,6
+tbh no one ever texts me first :(,loneliness,7
+very invisible,loneliness,7
+lately i feel quite heartbroken i don't know why.,sadness,10
+i've been very neutral right now.,neutral,9
+i keep feeling a bit worthless and i can't shake it.,depression,4
+i'm really a bit ashamed of my body right now.,body_image_issue,2
+lately i feel totally under pressure,stress,11
+these days i feel kind of burnt out and i can't shake it.,burnout,3
+lately i feel kind of scared and i can't shake it.,anxiety,1
+i am totally grateful today.,joy,6
+lately i feel kind of panicking about finals more than usual.,exam_stress,5
+i'm really very stupid,low_self_esteem,8
+sometimes i feel very low lately.,sadness,10
+these days i feel so running on empty lately.,burnout,3
+i think i'm incredibly joyful,joy,6
+these days i feel so anxious about my upcoming exam.,exam_stress,5
+completely scared i'll fail my exam i don't know why.,exam_stress,5
+i feel a bit like i don't matter today.,low_self_esteem,8
+lately i feel deeply under pressure honestly.,stress,11
+i think i'm really stressed more than usual.,stress,11
+i keep feeling extremely done honestly.,burnout,3
+i keep feeling somewhat lonely and i can't shake it.,loneliness,7
+these days i feel very without purpose and i can't shake it.,depression,4
+i feel a bit like nobody likes me i don't know why.,low_self_esteem,8
+i keep feeling extremely just chilling right now.,neutral,9
+i'm really deeply insecure about my appearance more than usual.,body_image_issue,2
+i am completely overwhelmed by studying i don't know why.,exam_stress,5
+a bit stressed about my exams.,exam_stress,5
+i keep feeling totally worried lately.,anxiety,1
+i just feel quite ugly and i can't shake it.,body_image_issue,2
+tbh i'm somewhat burnt out these days.,burnout,3
+sometimes i feel very disgusting in the mirror i don't know why.,body_image_issue,2
+it seems i'm a bit running on empty...,burnout,3
+i've been incredibly worried about the test more than usual.,exam_stress,5
+i think i'm somewhat neutral honestly.,neutral,9
+lately i feel so alone honestly.,loneliness,7
+right now i'm quite ugly lately.,body_image_issue,2
+these days i feel completely like a failure lately.,low_self_esteem,8
+i'm really extremely alright honestly.,neutral,9
+sometimes i feel totally afraid.,anxiety,1
+lately i feel totally forgotten,loneliness,7
+i think i'm incredibly resentful honestly.,anger,0
+today i feel quite insecure about myself...,low_self_esteem,8
+sometimes i feel deeply balanced lately.,neutral,9
+i feel really panicking about finals...,exam_stress,5
+i'm really incredibly shaky i don't know why.,anxiety,1
+it seems i'm really overwhelmed by studying right now.,exam_stress,5
+i just feel so emotionally exhausted more than usual.,burnout,3
+i think i'm a bit like nothing matters more than usual.,depression,4
+i'm at ease,neutral,9
+today i feel incredibly balanced.,neutral,9
+i am really tense right now.,anxiety,1
+sometimes i feel very disgusting in the mirror lately.,body_image_issue,2
+i am completely by myself these days.,loneliness,7
+i am completely running on empty lately.,burnout,3
+i am a bit disgusting in the mirror today.,body_image_issue,2
+lately i feel somewhat like a burden honestly.,depression,4
+tbh i'm really delighted honestly.,joy,6
+"honestly, i'm incredibly glad more than usual.",joy,6
+lately i feel really running on empty...,burnout,3
+right now i'm so emotionally exhausted right now.,burnout,3
+it seems i'm balanced.,neutral,9
+sometimes i feel so insecure about my appearance more than usual.,body_image_issue,2
+a bit enraged these days.,anger,0
+lately i feel deeply scared i don't know why.,anxiety,1
+there's just too much going on right now.,stress,11
+i've been irritated right now.,anger,0
+it seems i'm totally overwhelmed more than usual.,stress,11
+i feel somewhat furious and i can't shake it.,anger,0
+today i feel kind of in a good mood right now.,joy,6
+i just feel so fat,body_image_issue,2
+lately i feel quite like giving up today.,depression,4
+i'm really very insecure about my appearance more than usual.,body_image_issue,2
+it seems i'm deeply anxious about my upcoming exam honestly.,exam_stress,5
+"honestly, i'm incredibly not good enough more than usual.",low_self_esteem,8
+i keep feeling completely numb,depression,4
+completely running on empty right now.,burnout,3
+tbh i'm incredibly insecure about my appearance right now.,body_image_issue,2
+i keep feeling extremely low i don't know why.,sadness,10
+i think i'm kind of calm,neutral,9
+these days i feel quite fuming honestly.,anger,0
+really blue and i can't shake it.,sadness,10
+right now i'm incredibly tense from work these days.,stress,11
+sometimes i feel completely fried lately.,burnout,3
+i've been completely scared right now.,anxiety,1
+i'm really incredibly insecure about myself.,low_self_esteem,8
+these days i feel alone today.,loneliness,7
+lately i feel quite down more than usual.,sadness,10
+lately i feel quite afraid more than usual.,anxiety,1
+today i feel drained honestly.,burnout,3
+i'm really deeply neutral and i can't shake it.,neutral,9
+i feel somewhat uneasy these days.,anxiety,1
+i am very isolated lately.,loneliness,7
+these days i feel really buried in tasks today.,stress,11
+"honestly, i'm so exhausted from work",burnout,3
+sometimes i feel drained...,burnout,3
+i'm really totally content honestly.,joy,6
+a bit run down more than usual.,stress,11
+i've been fuming lately.,anger,0
+lately i feel deeply like nothing matters honestly.,depression,4
+extremely nervous,anxiety,1
+tbh i'm completely resentful...,anger,0
+i think i'm quite mad today.,anger,0
+right now i'm quite drained of meaning today.,depression,4
+ngl nothing feels the same anymore,sadness,10
+tbh i'm a bit panicky.,anxiety,1
+i keep feeling quite invisible i don't know why.,loneliness,7
+i feel incredibly down more than usual.,sadness,10
+these days i feel completely pressured,stress,11
+lately i feel extremely anxious these days.,anxiety,1
+right now i'm really scared i'll fail my exam more than usual.,exam_stress,5
+it seems i'm very stupid i don't know why.,low_self_esteem,8
+i keep feeling completely shaky these days.,anxiety,1
+i keep feeling really like there's no point honestly.,depression,4
+"honestly, i'm deeply tense these days.",anxiety,1
+incredibly numb.,depression,4
+right now i'm really left out lately.,loneliness,7
+"honestly, i'm so insecure about myself honestly.",low_self_esteem,8
+these days i feel somewhat panicking about finals today.,exam_stress,5
+it seems i'm completely running on empty and i can't shake it.,burnout,3
+i'm so alone these days.,loneliness,7
+i keep feeling anxious honestly.,anxiety,1
+right now i'm totally forgotten honestly.,loneliness,7
+it seems i'm quite buried in tasks right now.,stress,11
+these days i feel so anxious,anxiety,1
+under pressure...,stress,11
+"honestly, i'm really like giving up honestly.",depression,4
+tbh i'm totally ashamed of my body...,body_image_issue,2
+sometimes i feel incredibly fuming and i can't shake it.,anger,0
+today i feel really fine right now.,neutral,9
+a bit forgotten right now.,loneliness,7
+i'm really kind of like giving up more than usual.,depression,4
+i feel really not good enough lately.,low_self_esteem,8
+i feel deeply happy lately.,joy,6
+i'm really tense from work honestly.,stress,11
+right now i'm somewhat grateful right now.,joy,6
+tbh i'm deeply stressed about my exams today.,exam_stress,5
+right now i'm totally disgusting in the mirror these days.,body_image_issue,2
+i'm really kind of furious these days.,anger,0
+i am deeply buried in tasks right now.,stress,11
+it seems i'm deeply alone more than usual.,loneliness,7
+i just feel a bit pleased these days.,joy,6
+completely worried about the test...,exam_stress,5
+i just feel somewhat emotionally exhausted right now.,burnout,3
+i've been kind of like a failure.,low_self_esteem,8
+i keep feeling so normal these days.,neutral,9
+tbh i'm very furious right now.,anger,0
+i'm deeply isolated these days.,loneliness,7
+tbh i'm completely mad,anger,0
+today i feel incredibly anxious about my upcoming exam i don't know why.,exam_stress,5
+i just feel really drained of meaning honestly.,depression,4
+sometimes i feel extremely exhausted from work...,burnout,3
+completely done these days.,burnout,3
+"honestly, i'm incredibly light-hearted lately.",joy,6
+i'm extremely ugly right now.,body_image_issue,2
+i keep feeling somewhat worthless more than usual.,depression,4
+i feel really without purpose i don't know why.,depression,4
+i'm really quite drained,burnout,3
+"honestly, i'm extremely ugly today.",body_image_issue,2
+tbh i'm worthless and i can't shake it.,depression,4
+i feel delighted.,joy,6
+sometimes i feel drained honestly.,burnout,3
+i'm really incredibly drained of meaning lately.,depression,4
+totally under pressure and i can't shake it.,stress,11
+right now i'm deeply afraid honestly.,anxiety,1
+"honestly, i'm a bit okay today.",neutral,9
+these days i feel extremely stressed about my exams right now.,exam_stress,5
+i am deeply not good enough and i can't shake it.,low_self_esteem,8
+i think i'm without purpose honestly.,depression,4
+i think i'm a bit neutral honestly.,neutral,9
+i just feel a bit just chilling honestly.,neutral,9
+a bit like giving up lately.,depression,4
+today i feel incredibly without purpose and i can't shake it.,depression,4
+today i feel extremely stressed today.,stress,11
+not good enough.,low_self_esteem,8
+i've been extremely light-hearted more than usual.,joy,6
+deeply grateful honestly.,joy,6
+right now i'm so numb more than usual.,depression,4
+i feel quite scared i'll fail my exam i don't know why.,exam_stress,5
+these days i feel deeply glad these days.,joy,6
+these days i feel extremely worried more than usual.,anxiety,1
+sometimes i feel quite depleted,burnout,3
+today i feel ashamed of my body more than usual.,body_image_issue,2
+totally furious today.,anger,0
+it seems i'm incredibly delighted lately.,joy,6
+"honestly, i'm really like i don't matter...",low_self_esteem,8
+it seems i'm totally balanced more than usual.,neutral,9
+sometimes i feel a bit at ease.,neutral,9
+these days i feel kind of shaky honestly.,anxiety,1
+lately i feel totally melancholic,sadness,10
+lately i feel incredibly stressed about my exams,exam_stress,5
+sometimes i feel extremely insecure about myself more than usual.,low_self_esteem,8
+i think i'm kind of fat more than usual.,body_image_issue,2
+i think i'm quite overwhelmed i don't know why.,stress,11
+it seems i'm quite by myself.,loneliness,7
+it seems i'm extremely furious and i can't shake it.,anger,0
+i'm really a bit stupid honestly.,low_self_esteem,8
+"honestly, i'm a bit okay and i can't shake it.",neutral,9
+i'm really incredibly gloomy today.,sadness,10
+"honestly, i'm extremely insecure about my appearance i don't know why.",body_image_issue,2
+i'm extremely insecure about my appearance more than usual.,body_image_issue,2
+i'm really horrible about how i look more than usual.,body_image_issue,2
+i am very useless honestly.,low_self_esteem,8
+i've been somewhat invisible more than usual.,loneliness,7
+right now i'm quite like i don't matter right now.,low_self_esteem,8
+"honestly, i'm somewhat tense from work.",stress,11
+today i feel very not good enough honestly.,low_self_esteem,8
+tbh i'm very emotionally exhausted more than usual.,burnout,3
+tbh i'm completely tearful and i can't shake it.,sadness,10
+sometimes i feel extremely like a burden these days.,depression,4
+sometimes i feel emotionally exhausted.,burnout,3
+today i feel very ashamed of my body today.,body_image_issue,2
+extremely okay lately.,neutral,9
+i've been very left out today.,loneliness,7
+i'm really totally alone these days.,loneliness,7
+i just feel so emotionally exhausted...,burnout,3
+tbh i'm really smiling right now.,joy,6
+"honestly, i keep imagining worst case scenarios",anxiety,1
+sometimes i feel extremely insecure about myself and i can't shake it.,low_self_esteem,8
+i feel kind of worried about the test i don't know why.,exam_stress,5
+today i feel so normal i don't know why.,neutral,9
+it seems i'm incredibly fine right now.,neutral,9
+sometimes i feel incredibly balanced...,neutral,9
+i'm really completely ashamed of my body these days.,body_image_issue,2
+sometimes i feel incredibly fat i don't know why.,body_image_issue,2
+it seems i'm very hopeless and i can't shake it.,depression,4
+"honestly, i'm kind of scared...",anxiety,1
+i keep feeling so overwhelmed by studying honestly.,exam_stress,5
+i keep feeling really disgusting in the mirror...,body_image_issue,2
+today i feel completely run down lately.,stress,11
+i feel really like a burden right now.,depression,4
+i am somewhat tearful right now.,sadness,10
+"honestly, i'm totally unattractive more than usual.",body_image_issue,2
+today i feel very useless honestly.,low_self_esteem,8
+"honestly, i'm kind of mad and i can't shake it.",anger,0
+i think i'm completely enraged...,anger,0
+right now i'm extremely ugly more than usual.,body_image_issue,2
+right now i'm deeply just chilling right now.,neutral,9
+i'm so overwhelmed by studying lately.,exam_stress,5
+these days i feel really low and i can't shake it.,sadness,10
+"honestly, i'm deeply tearful...",sadness,10
+i just feel kind of drained of meaning and i can't shake it.,depression,4
+right now i'm kind of insecure about myself right now.,low_self_esteem,8
+i've been kind of lonely i don't know why.,loneliness,7
+"honestly, i'm deeply like giving up these days.",depression,4
+these days i feel sad honestly.,sadness,10
+i just feel incredibly ugly,body_image_issue,2
+these days i feel totally running on empty lately.,burnout,3
+it seems i'm really overwhelmed by studying...,exam_stress,5
+i'm deeply ashamed of my body i don't know why.,body_image_issue,2
+i think i'm deeply enraged these days.,anger,0
+these days i feel really running on empty...,burnout,3
+i feel completely down,sadness,10
+i keep feeling so fat,body_image_issue,2
+i feel so afraid more than usual.,anxiety,1
+i keep feeling somewhat content honestly.,joy,6
+"honestly, i'm totally depleted i don't know why.",burnout,3
+"honestly, my heart hurts today...",sadness,10
+i keep feeling quite apprehensive today.,anxiety,1
+lately i feel really blessed,joy,6
+i feel totally ashamed of my body these days.,body_image_issue,2
+i feel a bit angry and i can't shake it.,anger,0
+these days i feel really annoyed...,anger,0
+i've been totally disgusting in the mirror and i can't shake it.,body_image_issue,2
+it seems i'm anxious about my upcoming exam.,exam_stress,5
+"honestly, i'm so panicking about finals.",exam_stress,5
+lately i feel very panicky more than usual.,anxiety,1
+it seems i'm completely by myself right now.,loneliness,7
+tbh i'm so balanced...,neutral,9
+it seems i'm completely burnt out and i can't shake it.,burnout,3
+i keep feeling balanced more than usual.,neutral,9
+i've been incredibly run down more than usual.,stress,11
+these days i feel kind of enraged,anger,0
+sometimes i feel completely worried about the test today.,exam_stress,5
+right now i'm quite horrible about how i look and i can't shake it.,body_image_issue,2
+i've been so alright more than usual.,neutral,9
+i keep feeling completely thankful honestly.,joy,6
+right now i'm really furious and i can't shake it.,anger,0
+i'm really really balanced and i can't shake it.,neutral,9
+i'm extremely fuming lately.,anger,0
+i just feel a bit fine,neutral,9
+right now i'm incredibly delighted more than usual.,joy,6
+i am really pressured i don't know why.,stress,11
+these days i feel so normal i don't know why.,neutral,9
+lately i feel quite drained more than usual.,burnout,3
+i've been totally okay...,neutral,9
+i feel extremely normal more than usual.,neutral,9
+i'm so on edge honestly.,anxiety,1
+"honestly, i'm quite buried in tasks these days.",stress,11
+i think i'm somewhat ashamed of my body,body_image_issue,2
+today i feel somewhat ashamed of my body these days.,body_image_issue,2
+i'm really deeply buried in tasks these days.,stress,11
+sometimes i feel numb...,depression,4
+right now i'm completely neutral,neutral,9
+these days i feel deeply exhausted from work...,burnout,3
+really under pressure these days.,stress,11
+i keep feeling numb and i can't shake it.,depression,4
+"honestly, i'm incredibly happy",joy,6
+today i feel totally alright honestly.,neutral,9
+these days i feel somewhat tense from work these days.,stress,11
+tbh i'm really enraged today.,anger,0
+i keep feeling extremely stressed about my exams and i can't shake it.,exam_stress,5
+i just feel quite disgusting in the mirror.,body_image_issue,2
+"honestly, i'm somewhat fried these days.",burnout,3
+today i feel kind of isolated and i can't shake it.,loneliness,7
+i think i'm very like i don't matter today.,low_self_esteem,8
+i just feel totally drained of meaning...,depression,4
+completely drained...,burnout,3
+i've been incredibly fat more than usual.,body_image_issue,2
+i just feel completely overwhelmed by studying right now.,exam_stress,5
+i've been extremely grateful these days.,joy,6
+right now i'm somewhat forgotten honestly.,loneliness,7
+it seems i'm so furious honestly.,anger,0
+i'm really somewhat scared i'll fail my exam more than usual.,exam_stress,5
+totally fearful and i can't shake it.,anxiety,1
+"honestly, i'm completely thankful right now.",joy,6
+i'm incredibly blessed.,joy,6
+i am quite depleted these days.,burnout,3
+today i feel quite blue,sadness,10
+tbh i'm kind of low these days.,sadness,10
+sometimes i feel quite empty...,depression,4
+i feel deeply apprehensive honestly.,anxiety,1
+tbh i'm kind of insecure about my appearance,body_image_issue,2
+it seems i'm quite burnt out today.,burnout,3
+insecure about my appearance,body_image_issue,2
+tbh i'm completely depleted :(,burnout,3
+it seems i'm really lonely more than usual.,loneliness,7
+"honestly, i'm a bit just chilling these days.",neutral,9
+i think i'm kind of running on empty...,burnout,3
+sometimes i feel kind of enraged honestly.,anger,0
+i've been extremely exhausted from work.,burnout,3
+i feel incredibly running on empty honestly.,burnout,3
+these days i feel really run down right now.,stress,11
+i feel a bit fried right now.,burnout,3
+sometimes i feel pressured today.,stress,11
+lately i feel somewhat stupid more than usual.,low_self_esteem,8
+i am kind of enraged today.,anger,0
+i think i'm incredibly fearful lately.,anxiety,1
+tbh i'm a bit frustrated...,anger,0
+i think i'm totally stressed about my exams these days.,exam_stress,5
+i am a bit buried in tasks more than usual.,stress,11
+lately i feel really anxious about my upcoming exam,exam_stress,5
+tbh i'm somewhat alone.,loneliness,7
+it seems i'm quite empty and i can't shake it.,depression,4
+it seems i'm quite by myself these days.,loneliness,7
+i just feel really disconnected i don't know why.,loneliness,7
+i'm very stressed more than usual.,stress,11
+these days i feel somewhat isolated honestly.,loneliness,7
+i'm really extremely miserable and i can't shake it.,sadness,10
+lately i feel incredibly neutral lately.,neutral,9
+sometimes i feel extremely burnt out...,burnout,3
+it seems i'm totally not good enough today.,low_self_esteem,8
+i feel very tearful and i can't shake it.,sadness,10
+i feel deeply blessed.,joy,6
+tbh i'm totally worried lately.,anxiety,1
+i'm extremely left out today.,loneliness,7
+i feel disconnected today.,loneliness,7
+sometimes i feel a bit like nobody likes me honestly.,low_self_esteem,8
+i'm really extremely enraged right now.,anger,0
+i'm very miserable right now.,sadness,10
+right now i'm kind of fuming lately.,anger,0
+i've been so scared i'll fail my exam today.,exam_stress,5
+i keep feeling very tense...,anxiety,1
+right now i'm tense from work today.,stress,11
+sometimes i feel incredibly insecure about myself i don't know why.,low_self_esteem,8
+i feel deeply stressed these days.,stress,11
+tbh i'm kind of happy i don't know why.,joy,6
+extremely anxious about my upcoming exam i don't know why.,exam_stress,5
+right now i'm forgotten today.,loneliness,7
+"honestly, i can't stop overthinking everything",anxiety,1
+i'm very worthless more than usual.,depression,4
+invisible right now.,loneliness,7
+i feel a bit irritated today.,anger,0
+i am really in a good mood today.,joy,6
+tbh i'm kind of mad lately.,anger,0
+i keep feeling deeply stressed about my exams honestly.,exam_stress,5
+sometimes i feel somewhat like a failure lately.,low_self_esteem,8
+lately i feel incredibly mad honestly.,anger,0
+right now i'm a bit buried in tasks.,stress,11
+i just feel irritated lately.,anger,0
+"honestly, i'm somewhat forgotten...",loneliness,7
+i'm so alone right now.,loneliness,7
+"honestly, i'm somewhat melancholic...",sadness,10
+right now i'm kind of like nobody likes me i don't know why.,low_self_esteem,8
+i've been a bit fuming.,anger,0
+i feel deeply unhappy these days.,sadness,10
+these days i feel so scared these days.,anxiety,1
+i am completely worthless right now.,depression,4
+tbh i'm extremely burnt out honestly.,burnout,3
+these days i feel totally nervous and i can't shake it.,anxiety,1
+i feel somewhat horrible about how i look these days.,body_image_issue,2
+i feel so depleted and i can't shake it.,burnout,3
+tbh i'm totally by myself,loneliness,7
+somewhat insecure about my appearance more than usual.,body_image_issue,2
+these days i feel deeply anxious about my upcoming exam these days.,exam_stress,5
+it seems i'm somewhat like nothing matters right now.,depression,4
+i've been kind of miserable.,sadness,10
+it seems i'm really in a good mood honestly.,joy,6
+these days i feel incredibly neutral honestly.,neutral,9
+i've been really left out and i can't shake it.,loneliness,7
+i think i'm quite panicking about finals more than usual.,exam_stress,5
+i've been ugly...,body_image_issue,2
+i keep feeling somewhat overwhelmed by studying i don't know why.,exam_stress,5
+lately i feel completely calm more than usual.,neutral,9
+i'm really so exhausted from work.,burnout,3
+i feel extremely delighted more than usual.,joy,6
+lately i feel kind of forgotten today.,loneliness,7
+i'm extremely low today.,sadness,10
+i feel deeply anxious about my upcoming exam,exam_stress,5
+i'm a bit tense from work more than usual.,stress,11
+i keep feeling very alright i don't know why.,neutral,9
+i feel totally without purpose today.,depression,4
+i've been very like a failure right now.,low_self_esteem,8
+i keep feeling a bit just chilling these days.,neutral,9
+i'm so panicky.,anxiety,1
+i feel a bit like i don't matter these days.,low_self_esteem,8
+quite frustrated i don't know why.,anger,0
+i've been somewhat depleted...,burnout,3
+i keep feeling quite under pressure.,stress,11
+tbh i'm quite panicking about finals lately.,exam_stress,5
+i'm really a bit fuming honestly.,anger,0
+tbh i'm worthless,low_self_esteem,8
+i hate who i am,low_self_esteem,8
+i'm by myself these days.,loneliness,7
+today i feel a bit calm and i can't shake it.,neutral,9
+i feel really overwhelmed by studying lately.,exam_stress,5
+sometimes i feel very tense...,anxiety,1
+today i feel quite calm i don't know why.,neutral,9
+i just feel a bit at ease lately.,neutral,9
+totally tearful.,sadness,10
+i'm really completely fuming and i can't shake it.,anger,0
+i just feel totally glad honestly.,joy,6
+completely okay.,neutral,9
+these days i feel deeply fried more than usual.,burnout,3
+"honestly, i'm extremely not good enough lately.",low_self_esteem,8
+i just feel a bit blue right now.,sadness,10
+i am completely fat these days.,body_image_issue,2
+i'm really sad right now.,sadness,10
+i've been so stupid...,low_self_esteem,8
+deeply melancholic these days.,sadness,10
+i'm really deeply just chilling...,neutral,9
+tbh i'm quite afraid...,anxiety,1
+tbh i'm deeply pissed off these days.,anger,0
+incredibly optimistic lately.,joy,6
+i'm somewhat worthless today.,depression,4
+"honestly, i'm very ugly more than usual.",body_image_issue,2
+i feel totally at ease and i can't shake it.,neutral,9
+i keep feeling extremely cheerful,joy,6
+lately i feel completely like a burden lately.,depression,4
+tbh i'm a bit drained these days.,burnout,3
+i feel fearful today.,anxiety,1
+it seems i'm so anxious these days.,anxiety,1
+"honestly, i'm very angry today.",anger,0
+i just feel a bit balanced...,neutral,9
+"honestly, i'm really like a failure today.",low_self_esteem,8
+these days i feel a bit drained of meaning and i can't shake it.,depression,4
+tbh i'm quite happy,joy,6
+right now i'm completely run down,stress,11
+sometimes i feel incredibly tense from work these days.,stress,11
+"honestly, i'm deeply ugly.",body_image_issue,2
+i've been panicky right now.,anxiety,1
+tbh i'm completely furious,anger,0
+emotionally exhausted more than usual.,burnout,3
+really okay and i can't shake it.,neutral,9
+sometimes i feel really scared i'll fail my exam more than usual.,exam_stress,5
+i'm really kind of optimistic i don't know why.,joy,6
+these days i feel totally anxious lately.,anxiety,1
+these days i feel totally heartbroken more than usual.,sadness,10
+it seems i'm so calm lately.,neutral,9
+it seems i'm quite shaky these days.,anxiety,1
+today i feel furious more than usual.,anger,0
+i keep feeling very buried in tasks lately.,stress,11
+i'm really really like a failure these days.,low_self_esteem,8
+i keep feeling kind of like i don't matter i don't know why.,low_self_esteem,8
+i'm really pissed off today.,anger,0
+totally enraged i don't know why.,anger,0
+right now i'm completely not good enough right now.,low_self_esteem,8
+i've been quite grateful lately.,joy,6
+lately i feel so worried about the test today.,exam_stress,5
+"honestly, i'm very neutral...",neutral,9
+i think i'm very worried about the test i don't know why.,exam_stress,5
+really mad these days.,anger,0
+today i feel so insecure about myself,low_self_esteem,8
+i'm really very smiling honestly.,joy,6
+i'm incredibly stupid...,low_self_esteem,8
+i think i'm completely gloomy and i can't shake it.,sadness,10
+i keep feeling quite pleased and i can't shake it.,joy,6
+tbh i'm so light-hearted and i can't shake it.,joy,6
+right now i'm completely okay...,neutral,9
+today i feel extremely worried about the test honestly.,exam_stress,5
+lately i feel quite overwhelmed by studying i don't know why.,exam_stress,5
+tearful.,sadness,10
+right now i'm deeply fuming...,anger,0
+"honestly, i'm completely upset",sadness,10
+very like there's no point right now.,depression,4
+it seems i'm really without purpose,depression,4
+these days i feel quite frustrated i don't know why.,anger,0
+i'm deeply down lately.,sadness,10
+these days i feel very pleased more than usual.,joy,6
+i am stressed about my exams and i can't shake it.,exam_stress,5
+i am totally at ease honestly.,neutral,9
+lately i feel really overwhelmed i don't know why.,stress,11
+i think i'm deeply just chilling.,neutral,9
+i feel a bit fuming,anger,0
+it seems i'm so swamped,stress,11
+lately i feel quite joyful i don't know why.,joy,6
+i just feel extremely worthless more than usual.,low_self_esteem,8
+i keep feeling kind of exhausted from work and i can't shake it.,burnout,3
+today i feel annoyed,anger,0
+i am incredibly angry,anger,0
+these days i feel kind of depleted.,burnout,3
+"honestly, i'm completely isolated today.",loneliness,7
+sometimes i feel deeply alright,neutral,9
+i just feel low...,sadness,10
+today i feel extremely run down and i can't shake it.,stress,11
+i've been deeply irritated.,anger,0
+i am deeply unattractive,body_image_issue,2
+i keep feeling completely blessed.,joy,6
+sometimes i feel just chilling i don't know why.,neutral,9
+tbh i'm completely done i don't know why.,burnout,3
+today i feel extremely pissed off honestly.,anger,0
+sometimes i feel so afraid today.,anxiety,1
+i'm really completely tense from work,stress,11
+i just feel smiling...,joy,6
+i keep feeling incredibly scared i'll fail my exam more than usual.,exam_stress,5
+right now i'm somewhat alright lately.,neutral,9
+today i feel completely horrible about how i look...,body_image_issue,2
+today i feel so happy.,joy,6
+i feel a bit afraid more than usual.,anxiety,1
+i just feel kind of like giving up.,depression,4
+these days i feel quite at ease...,neutral,9
+i feel kind of melancholic.,sadness,10
+"honestly, i'm a bit swamped honestly.",stress,11
+right now i'm completely upset.,sadness,10
+tbh i'm totally sad,sadness,10
+i think i'm completely like i don't matter these days.,low_self_esteem,8
+i think i'm useless lately.,low_self_esteem,8
+completely grateful more than usual.,joy,6
+i am a bit stressed more than usual.,stress,11
+i am quite by myself lately.,loneliness,7
+i feel kind of happy lately.,joy,6
+it seems i'm a bit disgusting in the mirror i don't know why.,body_image_issue,2
+i feel really tearful today.,sadness,10
+it seems i'm somewhat like a failure,low_self_esteem,8
+really unattractive and i can't shake it.,body_image_issue,2
+i think i'm very on edge lately.,anxiety,1
+i've been a bit panicky honestly.,anxiety,1
+it seems i'm neutral.,neutral,9
+i feel completely alright more than usual.,neutral,9
+it seems i'm somewhat scared i'll fail my exam and i can't shake it.,exam_stress,5
+lately i feel deeply anxious about my upcoming exam lately.,exam_stress,5
+i think i'm really insecure about my appearance these days.,body_image_issue,2
+right now i'm totally balanced i don't know why.,neutral,9
+incredibly like nobody likes me...,low_self_esteem,8
+i am kind of by myself and i can't shake it.,loneliness,7
+"honestly, i'm so optimistic more than usual.",joy,6
+lately i feel completely at ease,neutral,9
+sometimes i feel very okay...,neutral,9
+right now i'm a bit just chilling lately.,neutral,9
+right now i'm so cheerful more than usual.,joy,6
+these days i feel incredibly like i don't matter i don't know why.,low_self_esteem,8
+i just feel a bit calm honestly.,neutral,9
+lately i feel extremely optimistic i don't know why.,joy,6
+today i feel totally fine.,neutral,9
+i just feel really ugly lately.,body_image_issue,2
+i am extremely pissed off lately.,anger,0
+lately i feel deeply enraged,anger,0
+i'm really kind of gloomy,sadness,10
+i feel very blue and i can't shake it.,sadness,10
+incredibly empty,depression,4
+"honestly, i'm overwhelmed by studying lately.",exam_stress,5
+i've been melancholic these days.,sadness,10
+sometimes i feel totally blue today.,sadness,10
+lately i feel quite not good enough more than usual.,low_self_esteem,8
+i feel under pressure and i can't shake it.,stress,11
+i'm really very like i don't matter.,low_self_esteem,8
+i think i'm really overwhelmed by studying,exam_stress,5
+i feel so running on empty i don't know why.,burnout,3
+i keep feeling just chilling right now.,neutral,9
+i've been a bit numb today.,depression,4
+i've been totally overwhelmed by studying lately.,exam_stress,5
+sometimes i feel quite optimistic these days.,joy,6
+i keep feeling kind of miserable honestly.,sadness,10
+i just feel really overwhelmed lately.,stress,11
+lately i feel somewhat blessed lately.,joy,6
+lately i feel somewhat isolated right now.,loneliness,7
+i'm very joyful i don't know why.,joy,6
+sometimes i feel a bit stressed these days.,stress,11
+i'm really extremely like there's no point more than usual.,depression,4
+today i feel totally fat i don't know why.,body_image_issue,2
+it seems i'm scared.,anxiety,1
+i am incredibly at ease today.,neutral,9
+these days i feel extremely tense from work these days.,stress,11
+i just feel very apprehensive right now.,anxiety,1
+i just feel a bit ugly today.,body_image_issue,2
+i just feel kind of like a failure.,low_self_esteem,8
+i am extremely content honestly.,joy,6
+i just feel deeply scared i'll fail my exam...,exam_stress,5
+lately i feel really fuming right now.,anger,0
+i keep feeling deeply worried today.,anxiety,1
+these days i feel extremely scared i'll fail my exam i don't know why.,exam_stress,5
+i keep feeling like nothing matters these days.,depression,4
+tbh i'm deeply irritated and i can't shake it.,anger,0
+"honestly, my heart feels full.",joy,6
+these days i feel somewhat normal...,neutral,9
+right now i'm very balanced right now.,neutral,9
+i'm really so forgotten honestly.,loneliness,7
+i'm really kind of alone these days.,loneliness,7
+lately i feel quite scared...,anxiety,1
+i just feel fat and i can't shake it.,body_image_issue,2
+i keep feeling deeply lonely lately.,loneliness,7
+i just feel incredibly fine,neutral,9
+it seems i'm totally like a burden these days.,depression,4
+sometimes i feel very pressured more than usual.,stress,11
+i keep feeling somewhat fuming,anger,0
+i'm really useless honestly.,low_self_esteem,8
+i just feel quite drained of meaning lately.,depression,4
+these days i feel totally worthless.,depression,4
+these days i feel a bit overwhelmed by studying right now.,exam_stress,5
+these days i feel completely grateful these days.,joy,6
+i just feel deeply lonely today.,loneliness,7
+"honestly, i'm very neutral today.",neutral,9
+tbh i'm kind of without purpose and i can't shake it.,depression,4
+sometimes i feel totally tense right now.,anxiety,1
+it seems i'm really swamped more than usual.,stress,11
+these days i feel extremely fine today.,neutral,9
+today i feel quite panicking about finals more than usual.,exam_stress,5
+i am by myself right now.,loneliness,7
+a bit in a good mood,joy,6
+today i feel incredibly burnt out today.,burnout,3
+today i feel really balanced these days.,neutral,9
+a bit mad.,anger,0
+"honestly, i'm a bit annoyed more than usual.",anger,0
+i've been kind of anxious today.,anxiety,1
+sometimes i feel a bit delighted lately.,joy,6
+i've been kind of insecure about myself more than usual.,low_self_esteem,8
+sometimes i feel a bit running on empty and i can't shake it.,burnout,3
+i've been very melancholic,sadness,10
+today i feel so disconnected more than usual.,loneliness,7
+tbh i'm extremely alone.,loneliness,7
+i just feel very nervous i don't know why.,anxiety,1
+it seems i'm kind of joyful and i can't shake it.,joy,6
+i'm really on edge more than usual.,anxiety,1
+i just feel very at ease more than usual.,neutral,9
+i just feel incredibly panicking about finals today.,exam_stress,5
+right now i'm a bit like i don't matter,low_self_esteem,8
+i feel so burnt out these days.,burnout,3
+today i feel so tense from work honestly.,stress,11
+right now i'm incredibly joyful i don't know why.,joy,6
+i think i'm extremely miserable lately.,sadness,10
+i think i'm incredibly gloomy right now.,sadness,10
+i just feel totally smiling lately.,joy,6
+"honestly, i'm very melancholic and i can't shake it.",sadness,10
+i've been completely scared and i can't shake it.,anxiety,1
+right now i'm completely lonely today.,loneliness,7
+tbh i'm deeply by myself today.,loneliness,7
+these days i feel completely pressured today.,stress,11
+sometimes i feel quite furious...,anger,0
+i feel very fried,burnout,3
+i've been so apprehensive lately.,anxiety,1
+i keep feeling completely miserable,sadness,10
+i'm extremely anxious these days.,anxiety,1
+it seems i'm under pressure right now.,stress,11
+i am very unhappy right now.,sadness,10
+i feel quite by myself today.,loneliness,7
+right now i'm quite worried about the test lately.,exam_stress,5
+these days i feel totally blue right now.,sadness,10
+totally okay today.,neutral,9
+lately i feel so like a failure honestly.,low_self_esteem,8
+sometimes i feel so apprehensive...,anxiety,1
+i think i'm deeply ashamed of my body...,body_image_issue,2
+i'm really emotionally exhausted more than usual.,burnout,3
+i think i'm upset...,sadness,10
+i'm enraged these days.,anger,0
+"honestly, i'm completely depleted these days.",burnout,3
+it seems i'm so tense from work more than usual.,stress,11
+i think i'm totally overwhelmed by studying i don't know why.,exam_stress,5
+right now i'm kind of overwhelmed more than usual.,stress,11
+right now i'm quite scared i don't know why.,anxiety,1
+kind of neutral i don't know why.,neutral,9
+tbh i'm so tense from work honestly.,stress,11
+i just feel sad honestly.,sadness,10
+kind of gloomy lately.,sadness,10
+i keep feeling kind of miserable these days.,sadness,10
+i just feel incredibly running on empty.,burnout,3
+i've been incredibly furious today.,anger,0
+sometimes i feel kind of like there's no point today.,depression,4
+i am enraged today.,anger,0
+i am kind of tense from work,stress,11
+i've been so overwhelmed by studying right now.,exam_stress,5
+it seems i'm kind of insecure about myself,low_self_esteem,8
+right now i'm very miserable right now.,sadness,10
+sometimes i feel deeply under pressure i don't know why.,stress,11
+i think i'm very anxious about my upcoming exam...,exam_stress,5
+today i feel a bit by myself lately.,loneliness,7
+i keep feeling fat i don't know why.,body_image_issue,2
+right now i'm really disgusting in the mirror today.,body_image_issue,2
+lately i feel totally without purpose more than usual.,depression,4
+right now i'm very forgotten right now.,loneliness,7
+it seems i'm incredibly scared i'll fail my exam.,exam_stress,5
+i'm really a bit apprehensive more than usual.,anxiety,1
+these days i feel somewhat tense lately.,anxiety,1
+totally ugly i don't know why.,body_image_issue,2
+i'm overwhelmed by studying these days.,exam_stress,5
+sometimes i feel really left out these days.,loneliness,7
+it seems i'm deeply like i don't matter these days.,low_self_esteem,8
+i am somewhat insecure about my appearance more than usual.,body_image_issue,2
+ngl it's a quiet afternoon.,neutral,9
+i'm stupid honestly.,low_self_esteem,8
+lately i feel at ease more than usual.,neutral,9
+these days i feel totally hopeless,depression,4
+i'm extremely blessed...,joy,6
+it seems i'm kind of left out...,loneliness,7
+"honestly, i'm deeply blessed...",joy,6
+lately i feel quite irritated these days.,anger,0
+i feel so fried.,burnout,3
+i keep feeling emotionally exhausted more than usual.,burnout,3
+i just feel extremely exhausted from work lately.,burnout,3
+"honestly, i'm really worried about the test.",exam_stress,5
+these days i feel completely balanced and i can't shake it.,neutral,9
+i keep feeling kind of exhausted from work honestly.,burnout,3
+right now i'm incredibly like a burden right now.,depression,4
+i feel completely depleted right now.,burnout,3
+i am a bit normal honestly.,neutral,9
+i just feel totally pleased today.,joy,6
+i'm really a bit overwhelmed by studying more than usual.,exam_stress,5
+"honestly, i'm quite running on empty and i can't shake it.",burnout,3
+right now i'm quite lonely.,loneliness,7
+i keep feeling fried more than usual.,burnout,3
+i think i'm really scared,anxiety,1
+i've been somewhat afraid i don't know why.,anxiety,1
+these days i feel really miserable more than usual.,sadness,10
+tbh i'm incredibly cheerful lately.,joy,6
+i'm extremely angry these days.,anger,0
+i am really overwhelmed by studying today.,exam_stress,5
+i feel a bit overwhelmed by studying...,exam_stress,5
+"honestly, i'm incredibly like i don't matter honestly.",low_self_esteem,8
+"honestly, i'm so fine i don't know why.",neutral,9
+"honestly, i'm quite emotionally exhausted right now.",burnout,3
+today i feel very balanced honestly.,neutral,9
+i keep feeling extremely buried in tasks lately.,stress,11
+i'm really a bit invisible right now.,loneliness,7
+i'm kind of ashamed of my body more than usual.,body_image_issue,2
+i think i'm deeply mad i don't know why.,anger,0
+i think i'm quite done.,burnout,3
+right now i'm very resentful...,anger,0
+i think i'm totally disgusting in the mirror...,body_image_issue,2
+today i feel useless...,low_self_esteem,8
+i keep feeling somewhat like there's no point i don't know why.,depression,4
+i feel completely worthless...,low_self_esteem,8
+lately i feel totally low right now.,sadness,10
+i am completely like giving up and i can't shake it.,depression,4
+incredibly irritated i don't know why.,anger,0
+lately i feel completely isolated these days.,loneliness,7
+totally content honestly.,joy,6
+i keep feeling a bit like nobody likes me...,low_self_esteem,8
+ngl why even try when nothing changes,depression,4
+i keep feeling totally useless.,low_self_esteem,8
+i think i'm really like giving up right now.,depression,4
+"honestly, i'm kind of low i don't know why.",sadness,10
+sometimes i feel very content today.,joy,6
+i just feel so disgusting in the mirror.,body_image_issue,2
+these days i feel completely anxious about my upcoming exam these days.,exam_stress,5
+i am really mad more than usual.,anger,0
+i just feel completely like i don't matter these days.,low_self_esteem,8
+lately i feel forgotten honestly.,loneliness,7
+sometimes i feel very like there's no point and i can't shake it.,depression,4
+i've been quite fried honestly.,burnout,3
+i've been extremely stressed about my exams these days.,exam_stress,5
+i keep feeling totally insecure about myself these days.,low_self_esteem,8
+these days i feel very forgotten right now.,loneliness,7
+i just feel a bit unhappy these days.,sadness,10
+lately i feel really under pressure more than usual.,stress,11
+lately i feel so unattractive right now.,body_image_issue,2
+i'm really incredibly scared i'll fail my exam...,exam_stress,5
+"honestly, i'm totally annoyed...",anger,0
+i'm incredibly irritated,anger,0
+i'm very unattractive and i can't shake it.,body_image_issue,2
+i am deeply forgotten,loneliness,7
+i am completely stupid right now.,low_self_esteem,8
+i think i'm totally apprehensive and i can't shake it.,anxiety,1
+i just feel incredibly on edge today.,anxiety,1
+tbh i'm kind of panicking about finals honestly.,exam_stress,5
+i'm very blessed i don't know why.,joy,6
+lately i feel ugly...,body_image_issue,2
+i think i'm very content i don't know why.,joy,6
+i'm annoyed...,anger,0
+it seems i'm deeply optimistic these days.,joy,6
+sometimes i feel ugly i don't know why.,body_image_issue,2
+these days i feel somewhat at ease.,neutral,9
+tbh i'm quite heartbroken lately.,sadness,10
+it seems i'm completely overwhelmed by studying lately.,exam_stress,5
+tbh i'm somewhat like i don't matter.,low_self_esteem,8
+lately i feel somewhat unattractive lately.,body_image_issue,2
+i'm really somewhat hopeless.,depression,4
+i'm normal more than usual.,neutral,9
+"honestly, i'm a bit anxious honestly.",anxiety,1
+i am extremely fuming more than usual.,anger,0
+i feel deeply neutral more than usual.,neutral,9
+i feel completely like a failure and i can't shake it.,low_self_esteem,8
+right now i'm really like giving up more than usual.,depression,4
+i feel extremely isolated and i can't shake it.,loneliness,7
+i've been incredibly insecure about myself lately.,low_self_esteem,8
+"honestly, i'm so like i don't matter these days.",low_self_esteem,8
+i've been so under pressure these days.,stress,11
+i think i'm incredibly like there's no point today.,depression,4
+tbh i've been working nonstop for months...,burnout,3
+totally overwhelmed right now.,stress,11
+i've been totally like a failure i don't know why.,low_self_esteem,8
+really low these days.,sadness,10
+today i feel somewhat blessed,joy,6
+i am extremely insecure about my appearance honestly.,body_image_issue,2
+it seems i'm very exhausted from work more than usual.,burnout,3
+today i feel completely emotionally exhausted more than usual.,burnout,3
+i feel incredibly buried in tasks lately.,stress,11
+these days i feel very frustrated right now.,anger,0
+it seems i'm a bit frustrated,anger,0
+"honestly, i'm deeply unhappy and i can't shake it.",sadness,10
+"honestly, i'm kind of tense",anxiety,1
+today i feel completely mad,anger,0
+today i feel a bit numb right now.,depression,4
+"honestly, i'm quite invisible honestly.",loneliness,7
+right now i'm by myself lately.,loneliness,7
+tbh i'm ashamed of my body.,body_image_issue,2
+i am a bit angry right now.,anger,0
+tbh i'm incredibly enraged.,anger,0
+it seems i'm really melancholic honestly.,sadness,10
+these days i feel really fat lately.,body_image_issue,2
+i'm really extremely worthless lately.,low_self_esteem,8
+lately i feel incredibly lonely,loneliness,7
+i feel completely scared today.,anxiety,1
+tbh i'm incredibly low i don't know why.,sadness,10
+lately i feel kind of under pressure and i can't shake it.,stress,11
+i think i'm kind of scared i'll fail my exam i don't know why.,exam_stress,5
+today i feel quite not good enough and i can't shake it.,low_self_esteem,8
+i just feel kind of not good enough and i can't shake it.,low_self_esteem,8
+tbh i'm very overwhelmed...,stress,11
+i'll never be successful :(,low_self_esteem,8
+somewhat worthless.,depression,4
+today i feel somewhat cheerful i don't know why.,joy,6
+i am quite calm lately.,neutral,9
+i've been quite worried about the test right now.,exam_stress,5
+sometimes i feel very okay honestly.,neutral,9
+i keep feeling very shaky and i can't shake it.,anxiety,1
+i'm unhappy.,sadness,10
+tbh i'm so under pressure...,stress,11
+it seems i'm very anxious honestly.,anxiety,1
+today i feel somewhat without purpose lately.,depression,4
+right now i'm somewhat panicking about finals,exam_stress,5
+these days i feel kind of like i don't matter i don't know why.,low_self_esteem,8
+"honestly, i'm deeply cheerful honestly.",joy,6
+i keep feeling so buried in tasks right now.,stress,11
+i feel somewhat ugly honestly.,body_image_issue,2
+it seems i'm light-hearted i don't know why.,joy,6
+"honestly, i'm completely apprehensive...",anxiety,1
+tbh i'm totally left out right now.,loneliness,7
+today i feel totally calm.,neutral,9
+i am really blessed more than usual.,joy,6
+i'm quite miserable.,sadness,10
+sometimes i feel very overwhelmed by studying these days.,exam_stress,5
+i feel kind of anxious i don't know why.,anxiety,1
+"honestly, i'm deeply content today.",joy,6
+these days i feel extremely fine i don't know why.,neutral,9
+i am very like i don't matter today.,low_self_esteem,8
+i am kind of unattractive honestly.,body_image_issue,2
+lately i feel extremely drained of meaning today.,depression,4
+i think i'm somewhat useless...,low_self_esteem,8
+right now i'm deeply like a burden today.,depression,4
+tbh i'm kind of worried about the test...,exam_stress,5
+really calm these days.,neutral,9
+i am somewhat worthless honestly.,depression,4
+"honestly, i have no energy and no will to do anything",depression,4
+i'm completely run down...,stress,11
+"honestly, i'm totally invisible...",loneliness,7
+i feel kind of like nobody likes me these days.,low_self_esteem,8
+it seems i'm quite left out today.,loneliness,7
+i feel really pissed off,anger,0
+i've been incredibly optimistic more than usual.,joy,6
+these days i feel somewhat insecure about my appearance and i can't shake it.,body_image_issue,2
+i'm totally pressured i don't know why.,stress,11
+tbh i'm a bit swamped these days.,stress,11
+these days i feel so fuming lately.,anger,0
+lately i feel incredibly under pressure lately.,stress,11
+sometimes i feel totally like i don't matter right now.,low_self_esteem,8
+i'm really fat these days.,body_image_issue,2
+sometimes i feel kind of blue right now.,sadness,10
+incredibly enraged i don't know why.,anger,0
+tbh i'm extremely worthless right now.,low_self_esteem,8
+sometimes i feel so like i don't matter.,low_self_esteem,8
+lately i feel somewhat worried about the test these days.,exam_stress,5
+i just feel resentful right now.,anger,0
+i keep feeling extremely burnt out right now.,burnout,3
+lately i feel kind of useless and i can't shake it.,low_self_esteem,8
+tbh i'm completely on edge,anxiety,1
+i am so fat more than usual.,body_image_issue,2
+i just feel completely worthless right now.,low_self_esteem,8
+incredibly horrible about how i look,body_image_issue,2
+today i feel completely melancholic more than usual.,sadness,10
+i'm totally down i don't know why.,sadness,10
+i just feel so like giving up.,depression,4
+tbh i'm quite grateful honestly.,joy,6
+"honestly, i'm very melancholic i don't know why.",sadness,10
+i'm really so pleased honestly.,joy,6
+i've been quite worthless honestly.,depression,4
+today i feel a bit insecure about myself more than usual.,low_self_esteem,8
+i just feel totally balanced...,neutral,9
+i feel extremely lonely more than usual.,loneliness,7
+i think i'm somewhat tearful honestly.,sadness,10
+lately i feel a bit like i don't matter and i can't shake it.,low_self_esteem,8
+lately i feel incredibly alright these days.,neutral,9
+"honestly, i'm extremely exhausted from work i don't know why.",burnout,3
+these days i feel extremely calm today.,neutral,9
+i've been completely resentful honestly.,anger,0
+i just feel totally unattractive and i can't shake it.,body_image_issue,2
+i feel somewhat without purpose,depression,4
+lately i feel incredibly burnt out i don't know why.,burnout,3
+it seems i'm really angry.,anger,0
+i just feel totally horrible about how i look more than usual.,body_image_issue,2
+i am totally miserable today.,sadness,10
+i think i'm deeply swamped these days.,stress,11
+i'm very fine lately.,neutral,9
+i think i'm a bit ashamed of my body honestly.,body_image_issue,2
+i think i'm extremely scared i'll fail my exam today.,exam_stress,5
+tbh i'm incredibly overwhelmed by studying.,exam_stress,5
+i don't think i studied enough for tomorrow :(,exam_stress,5
+these days i feel so not good enough more than usual.,low_self_esteem,8
+right now i'm a bit forgotten more than usual.,loneliness,7
+i think i'm very tense.,anxiety,1
+tbh i'm kind of content.,joy,6
+i think i'm completely okay these days.,neutral,9
+tbh i'm really panicking about finals right now.,exam_stress,5
+today i feel completely content honestly.,joy,6
+i keep feeling kind of normal more than usual.,neutral,9
+tbh i'm so neutral more than usual.,neutral,9
+i'm drained of meaning lately.,depression,4
+i keep feeling really thankful.,joy,6
+i keep feeling somewhat horrible about how i look,body_image_issue,2
+i am kind of sad lately.,sadness,10
+i think i'm extremely tense from work these days.,stress,11
+i just feel incredibly like i don't matter right now.,low_self_esteem,8
+today i feel completely disgusting in the mirror right now.,body_image_issue,2
+i've been completely furious right now.,anger,0
+i'm really somewhat fat...,body_image_issue,2
+tbh i'm so tense from work...,stress,11
+lately i feel kind of disgusting in the mirror more than usual.,body_image_issue,2
+sometimes i feel quite anxious about my upcoming exam today.,exam_stress,5
+i've been so buried in tasks these days.,stress,11
+lately i feel quite in a good mood right now.,joy,6
+i'm swamped,stress,11
+"honestly, i'm deeply grateful more than usual.",joy,6
+tbh i'm extremely okay lately.,neutral,9
+i feel upset.,sadness,10
+so worried about the test these days.,exam_stress,5
+lately i feel quite worried about the test these days.,exam_stress,5
+it seems i'm completely anxious today.,anxiety,1
+tbh i'm deeply like a failure and i can't shake it.,low_self_esteem,8
+sometimes i feel quite light-hearted and i can't shake it.,joy,6
+i just feel somewhat left out lately.,loneliness,7
+ngl i'm not smart enough for this...,low_self_esteem,8
+i just feel quite anxious about my upcoming exam honestly.,exam_stress,5
+"honestly, why even try when nothing changes...",depression,4
+sometimes i feel kind of like a burden right now.,depression,4
+right now i'm really fat...,body_image_issue,2
+right now i'm quite balanced right now.,neutral,9
+i'm really so like giving up these days.,depression,4
+i'm really totally like i don't matter today.,low_self_esteem,8
+i feel extremely blessed more than usual.,joy,6
+i think i'm very disgusting in the mirror i don't know why.,body_image_issue,2
+i feel so ashamed of my body...,body_image_issue,2
+i feel somewhat left out,loneliness,7
+i am totally emotionally exhausted right now.,burnout,3
+lately i feel a bit anxious...,anxiety,1
+i've been kind of cheerful lately.,joy,6
+lately i feel very just chilling.,neutral,9
+thankful more than usual.,joy,6
+tbh i'm totally uneasy and i can't shake it.,anxiety,1
+deeply on edge honestly.,anxiety,1
+i think i'm alone more than usual.,loneliness,7
+right now i'm somewhat in a good mood more than usual.,joy,6
+so left out,loneliness,7
+right now i'm very mad more than usual.,anger,0
+i think i'm totally not good enough i don't know why.,low_self_esteem,8
+i think i'm a bit tense from work...,stress,11
+it seems i'm totally miserable these days.,sadness,10
+i just feel a bit disgusting in the mirror honestly.,body_image_issue,2
+tbh i'm quite anxious i don't know why.,anxiety,1
+these days i feel completely annoyed...,anger,0
+i'm frustrated honestly.,anger,0
+today i feel really mad today.,anger,0
+today i feel very insecure about my appearance lately.,body_image_issue,2
+lately i feel totally panicky today.,anxiety,1
+i'm extremely overwhelmed by studying.,exam_stress,5
+i think i'm somewhat isolated.,loneliness,7
+sometimes i feel totally light-hearted.,joy,6
+right now i'm deeply like giving up i don't know why.,depression,4
+right now i'm kind of invisible more than usual.,loneliness,7
+i keep feeling extremely pleased.,joy,6
+lately i feel pressured more than usual.,stress,11
+i am somewhat heartbroken...,sadness,10
+"honestly, i'm extremely exhausted from work lately.",burnout,3
+right now i'm extremely cheerful...,joy,6
+these days i feel extremely scared these days.,anxiety,1
+i've been a bit resentful...,anger,0
+i keep feeling invisible,loneliness,7
+today i feel somewhat overwhelmed by studying lately.,exam_stress,5
+i am quite insecure about my appearance right now.,body_image_issue,2
+i think i'm a bit stressed about my exams...,exam_stress,5
+i've been really frustrated...,anger,0
+i'm so uneasy and i can't shake it.,anxiety,1
+tbh i'm totally upset...,sadness,10
+i'm so gloomy more than usual.,sadness,10
+i've been somewhat delighted i don't know why.,joy,6
+lately i feel quite apprehensive honestly.,anxiety,1
+tbh i'm quite under pressure lately.,stress,11
+i'm really exhausted from work right now.,burnout,3
+it seems i'm very alone...,loneliness,7
+i just feel really left out lately.,loneliness,7
+today i feel quite fuming...,anger,0
+i just feel completely running on empty these days.,burnout,3
+i keep feeling really running on empty lately.,burnout,3
+i'm really quite normal lately.,neutral,9
+very by myself these days.,loneliness,7
+shaky these days.,anxiety,1
+i feel totally down more than usual.,sadness,10
+it seems i'm really burnt out today.,burnout,3
+i just feel deeply disgusting in the mirror today.,body_image_issue,2
+sometimes i feel completely furious lately.,anger,0
+i am somewhat calm...,neutral,9
+i think i'm completely optimistic and i can't shake it.,joy,6
+i feel completely pressured lately.,stress,11
+i am kind of on edge honestly.,anxiety,1
+i keep feeling somewhat exhausted from work these days.,burnout,3
+these days i feel completely anxious about my upcoming exam honestly.,exam_stress,5
+i think i'm quite emotionally exhausted,burnout,3
+lately i feel incredibly left out and i can't shake it.,loneliness,7
+these days i feel totally down more than usual.,sadness,10
+i keep feeling deeply fine today.,neutral,9
+i just feel totally alone and i can't shake it.,loneliness,7
+i feel deeply emotionally exhausted and i can't shake it.,burnout,3
+i just feel deeply isolated i don't know why.,loneliness,7
+it seems i'm deeply stressed.,stress,11
+sometimes i feel completely by myself...,loneliness,7
+it seems i'm totally low i don't know why.,sadness,10
+i think i'm quite smiling and i can't shake it.,joy,6
+i am somewhat fat right now.,body_image_issue,2
+i think i'm completely exhausted from work...,burnout,3
+tbh i'm drained of meaning i don't know why.,depression,4
+i think i'm really left out these days.,loneliness,7
+just got back from a walk...,neutral,9
+right now i'm extremely panicking about finals...,exam_stress,5
+these days i feel very disgusting in the mirror,body_image_issue,2
+i've been so upset these days.,sadness,10
+these days i feel a bit like giving up.,depression,4
+i just feel very left out more than usual.,loneliness,7
+i feel a bit alright and i can't shake it.,neutral,9
+these days i feel extremely neutral...,neutral,9
+these days i feel deeply insecure about myself more than usual.,low_self_esteem,8
+sometimes i feel completely numb lately.,depression,4
+i am incredibly by myself.,loneliness,7
+i keep feeling kind of worried about the test right now.,exam_stress,5
+"honestly, i'm so done these days.",burnout,3
+tbh i'm a bit glad more than usual.,joy,6
+lately i feel so just chilling.,neutral,9
+i feel extremely burnt out...,burnout,3
+today i feel kind of without purpose honestly.,depression,4
+i think i'm extremely cheerful i don't know why.,joy,6
+i think i'm really depleted.,burnout,3
+"honestly, i'm quite resentful",anger,0
+i think i'm so depleted i don't know why.,burnout,3
+i'm really incredibly nervous and i can't shake it.,anxiety,1
+lately i feel a bit gloomy honestly.,sadness,10
+right now i'm so apprehensive more than usual.,anxiety,1
+i'm somewhat like a failure.,low_self_esteem,8
+i feel completely drained these days.,burnout,3
+it seems i'm quite at ease honestly.,neutral,9
+so overwhelmed by studying more than usual.,exam_stress,5
+"honestly, i'm somewhat mad i don't know why.",anger,0
+lately i feel kind of enraged,anger,0
+today i feel kind of like nobody likes me lately.,low_self_esteem,8
+so emotionally exhausted today.,burnout,3
+i am completely unattractive more than usual.,body_image_issue,2
+i'm incredibly like a failure right now.,low_self_esteem,8
+"honestly, i'm quite ugly today.",body_image_issue,2
+depleted.,burnout,3
+lately i feel a bit furious...,anger,0
+lately i feel totally empty these days.,depression,4
+lately i feel really frustrated.,anger,0
+it seems i'm quite scared i'll fail my exam i don't know why.,exam_stress,5
+lately i feel worried about the test these days.,exam_stress,5
+"honestly, i'm quite furious lately.",anger,0
+sometimes i feel deeply sad i don't know why.,sadness,10
+it seems i'm quite tense from work,stress,11
+i'm incredibly not good enough these days.,low_self_esteem,8
+sometimes i feel completely stupid...,low_self_esteem,8
+i keep feeling quite unhappy right now.,sadness,10
+i keep feeling completely fuming lately.,anger,0
+i keep feeling quite anxious about my upcoming exam these days.,exam_stress,5
+i think i'm so running on empty honestly.,burnout,3
+i'm a bit smiling right now.,joy,6
+i just feel deeply ugly and i can't shake it.,body_image_issue,2
+i've been so fine today.,neutral,9
+right now i'm quite emotionally exhausted today.,burnout,3
+right now i'm quite pissed off,anger,0
+i've been somewhat overwhelmed,stress,11
+lately i feel a bit overwhelmed right now.,stress,11
+it seems i'm by myself and i can't shake it.,loneliness,7
+i've been a bit calm i don't know why.,neutral,9
+it seems i'm somewhat frustrated today.,anger,0
+sometimes i feel kind of apprehensive these days.,anxiety,1
+it seems i'm somewhat overwhelmed lately.,stress,11
+today i feel very on edge i don't know why.,anxiety,1
+i think i'm somewhat useless today.,low_self_esteem,8
+lately i feel very down lately.,sadness,10
+ngl i cried again tonight.,sadness,10
+very pissed off.,anger,0
+sometimes i feel really hopeless i don't know why.,depression,4
+i keep feeling extremely mad lately.,anger,0
+these days i feel quite okay and i can't shake it.,neutral,9
+i am completely like there's no point...,depression,4
+i'm kind of unhappy more than usual.,sadness,10
+i feel quite anxious about my upcoming exam,exam_stress,5
+today i feel a bit heartbroken...,sadness,10
+lately i feel melancholic right now.,sadness,10
+i am very fried lately.,burnout,3
+i keep feeling deeply light-hearted these days.,joy,6
+tbh i'm kind of ashamed of my body honestly.,body_image_issue,2
+i've been very stressed lately.,stress,11
+i am really alright and i can't shake it.,neutral,9
+it seems i'm a bit tearful i don't know why.,sadness,10
+i am very burnt out and i can't shake it.,burnout,3
+"honestly, i'm pressured these days.",stress,11
+i think i'm quite horrible about how i look more than usual.,body_image_issue,2
+i've been extremely disconnected i don't know why.,loneliness,7
+i keep feeling completely okay lately.,neutral,9
+ngl i feel a heavy sadness inside :(,sadness,10
+right now i'm deeply horrible about how i look lately.,body_image_issue,2
+right now i'm somewhat irritated these days.,anger,0
+i am pissed off...,anger,0
+i feel left out.,loneliness,7
+lately i feel a bit forgotten more than usual.,loneliness,7
+i've been quite done.,burnout,3
+it seems i'm deeply numb today.,depression,4
+completely buried in tasks these days.,stress,11
+i'm completely blessed lately.,joy,6
+lately i feel somewhat panicking about finals,exam_stress,5
+i just feel quite balanced lately.,neutral,9
+i think i'm totally anxious about my upcoming exam.,exam_stress,5
+i keep feeling so insecure about myself honestly.,low_self_esteem,8
+lately i feel incredibly sad lately.,sadness,10
+very overwhelmed more than usual.,stress,11
+i keep feeling like there's no point and i can't shake it.,depression,4
+right now i'm a bit normal...,neutral,9
+i'm really fuming more than usual.,anger,0
+so worried about the test.,exam_stress,5
+tbh i have three exams this week and i'm losing it.,exam_stress,5
+i'm so calm more than usual.,neutral,9
+i keep feeling deeply fried honestly.,burnout,3
+lately i feel really numb these days.,depression,4
+i just feel somewhat enraged more than usual.,anger,0
+these days i feel quite overwhelmed these days.,stress,11
+i just feel deeply worthless today.,low_self_esteem,8
+right now i'm completely without purpose lately.,depression,4
+tbh i'm deeply resentful i don't know why.,anger,0
+sometimes i feel completely insecure about myself,low_self_esteem,8
+"honestly, i'm completely melancholic these days.",sadness,10
+i'm really deeply smiling and i can't shake it.,joy,6
+i am completely stressed honestly.,stress,11
+i think i'm completely angry these days.,anger,0
+i am totally in a good mood honestly.,joy,6
+i'm totally depleted right now.,burnout,3
+today i feel numb right now.,depression,4
+i think i'm burnt out today.,burnout,3
+i just feel incredibly buried in tasks these days.,stress,11
+i'm very scared.,anxiety,1
+"honestly, i'm deeply neutral more than usual.",neutral,9
+lately i feel extremely unattractive.,body_image_issue,2
+right now i'm quite nervous...,anxiety,1
+lately i feel completely forgotten right now.,loneliness,7
+i keep feeling a bit nervous today.,anxiety,1
+tbh i'm quite unhappy.,sadness,10
+it seems i'm a bit gloomy these days.,sadness,10
+it seems i'm very resentful and i can't shake it.,anger,0
+i just feel really empty...,depression,4
+today i feel totally worried today.,anxiety,1
+lately i feel quite enraged right now.,anger,0
+deeply horrible about how i look and i can't shake it.,body_image_issue,2
+sometimes i feel really afraid lately.,anxiety,1
+i feel kind of insecure about my appearance today.,body_image_issue,2
+i keep feeling incredibly afraid today.,anxiety,1
+it seems i'm low these days.,sadness,10
+tbh i'm totally pissed off.,anger,0
+i feel depleted,burnout,3
+i've been completely horrible about how i look i don't know why.,body_image_issue,2
+these days i feel deeply useless today.,low_self_esteem,8
+i've been incredibly scared i'll fail my exam.,exam_stress,5
+i've been so just chilling more than usual.,neutral,9
+i feel incredibly joyful i don't know why.,joy,6
+i've been kind of run down and i can't shake it.,stress,11
+i keep feeling deeply nervous right now.,anxiety,1
+lately i feel insecure about my appearance today.,body_image_issue,2
+i think i'm somewhat smiling these days.,joy,6
+i think i'm a bit ugly lately.,body_image_issue,2
+i just feel numb i don't know why.,depression,4
+right now i'm completely scared i don't know why.,anxiety,1
+tbh i'm really like i don't matter,low_self_esteem,8
+today i feel at ease today.,neutral,9
+i keep feeling very pissed off...,anger,0
+i keep feeling deeply overwhelmed by studying honestly.,exam_stress,5
+sometimes i feel quite miserable right now.,sadness,10
+i keep feeling a bit just chilling honestly.,neutral,9
+i feel quite worried about the test i don't know why.,exam_stress,5
+kind of like nothing matters and i can't shake it.,depression,4
+sometimes i feel empty and i can't shake it.,depression,4
+i think i'm quite stressed right now.,stress,11
+today i feel so depleted more than usual.,burnout,3
+these days i feel deeply disconnected honestly.,loneliness,7
+i'm really very enraged i don't know why.,anger,0
+these days i feel kind of hopeless more than usual.,depression,4
+"honestly, i'm kind of nervous right now.",anxiety,1
+sometimes i feel totally uneasy lately.,anxiety,1
+today i feel extremely worthless right now.,depression,4
+i've been extremely nervous,anxiety,1
+"honestly, everyone is better than me.",low_self_esteem,8
+i feel incredibly irritated right now.,anger,0
+i'm really really neutral i don't know why.,neutral,9
+"honestly, i'm very melancholic",sadness,10
+today i feel somewhat burnt out right now.,burnout,3
+tbh i'm completely insecure about my appearance and i can't shake it.,body_image_issue,2
+i am totally apprehensive lately.,anxiety,1
+it seems i'm kind of frustrated.,anger,0
+right now i'm completely panicky today.,anxiety,1
+lately i feel somewhat pressured and i can't shake it.,stress,11
+quite like nothing matters.,depression,4
+sometimes i feel kind of scared i'll fail my exam right now.,exam_stress,5
+i keep feeling quite not good enough honestly.,low_self_esteem,8
+these days i feel a bit nervous...,anxiety,1
+right now i'm a bit sad more than usual.,sadness,10
+today i feel a bit calm right now.,neutral,9
+i keep feeling incredibly like a failure today.,low_self_esteem,8
+i am so angry today.,anger,0
+it seems i'm stressed about my exams honestly.,exam_stress,5
+i just feel incredibly like there's no point lately.,depression,4
+"honestly, i'm incredibly fine and i can't shake it.",neutral,9
+i'm really so glad and i can't shake it.,joy,6
+i am kind of resentful i don't know why.,anger,0
+sometimes i feel calm honestly.,neutral,9
+sometimes i feel completely annoyed,anger,0
+i've been kind of scared i'll fail my exam and i can't shake it.,exam_stress,5
+very resentful right now.,anger,0
+i feel so done more than usual.,burnout,3
+deeply anxious about my upcoming exam today.,exam_stress,5
+it seems i'm kind of fearful i don't know why.,anxiety,1
+i just feel very glad...,joy,6
+right now i'm totally swamped and i can't shake it.,stress,11
+lately i feel totally stressed right now.,stress,11
+"honestly, i'm totally pissed off right now.",anger,0
+lately i feel so under pressure...,stress,11
+i just feel stressed today.,stress,11
+i keep feeling really okay more than usual.,neutral,9
+tbh i'm hopeless and i can't shake it.,depression,4
+right now i'm very optimistic,joy,6
+i feel incredibly overwhelmed,stress,11
+i'm really really without purpose and i can't shake it.,depression,4
+sometimes i feel somewhat delighted...,joy,6
+sometimes i feel deeply irritated...,anger,0
+i've been deeply hopeless today.,depression,4
+i'm really totally numb these days.,depression,4
+sometimes i feel pleased and i can't shake it.,joy,6
+it seems i'm really blue today.,sadness,10
+i am completely invisible today.,loneliness,7
+i just feel deeply unattractive more than usual.,body_image_issue,2
+these days i feel very okay these days.,neutral,9
+i've been really resentful i don't know why.,anger,0
+i'm very horrible about how i look i don't know why.,body_image_issue,2
+tbh i'm so isolated more than usual.,loneliness,7
+very down lately.,sadness,10
+incredibly annoyed right now.,anger,0
+totally neutral today.,neutral,9
+lately i feel totally like a failure and i can't shake it.,low_self_esteem,8
+i'm really so optimistic.,joy,6
+extremely glad and i can't shake it.,joy,6
+sometimes i feel totally blessed today.,joy,6
+"honestly, i'm incredibly calm today.",neutral,9
+i keep feeling completely left out more than usual.,loneliness,7
+"honestly, i'm completely forgotten honestly.",loneliness,7
+i just feel completely apprehensive today.,anxiety,1
+tbh i'm totally hopeless,depression,4
+i just feel totally mad these days.,anger,0
+i feel somewhat pissed off...,anger,0
+i've been very not good enough.,low_self_esteem,8
+i am totally angry,anger,0
+deeply shaky lately.,anxiety,1
+i think i'm somewhat like i don't matter more than usual.,low_self_esteem,8
+i'm extremely blue and i can't shake it.,sadness,10
+i just feel somewhat frustrated.,anger,0
+i feel okay more than usual.,neutral,9
+i keep feeling incredibly worthless.,depression,4
+i just feel a bit worried about the test these days.,exam_stress,5
+i'm really very scared i don't know why.,anxiety,1
+tbh i'm incredibly stupid right now.,low_self_esteem,8
+"honestly, i'm insecure about my appearance today.",body_image_issue,2
+today i feel a bit isolated,loneliness,7
+i'm really quite irritated i don't know why.,anger,0
+tbh i'm very pleased honestly.,joy,6
+"honestly, i'm extremely miserable these days.",sadness,10
+i keep feeling really alone more than usual.,loneliness,7
+sometimes i feel really cheerful right now.,joy,6
+i'm really somewhat calm i don't know why.,neutral,9
+today i feel completely left out,loneliness,7
+tbh i'm somewhat buried in tasks i don't know why.,stress,11
+i think i'm so on edge more than usual.,anxiety,1
+right now i'm totally heartbroken i don't know why.,sadness,10
+i've been extremely under pressure.,stress,11
+i am very delighted right now.,joy,6
+i'm gloomy...,sadness,10
+i've been kind of forgotten and i can't shake it.,loneliness,7
+i'm deeply left out honestly.,loneliness,7
+i think i'm really anxious about my upcoming exam right now.,exam_stress,5
+lately i feel kind of fat and i can't shake it.,body_image_issue,2
+i think i'm incredibly heartbroken and i can't shake it.,sadness,10
+sometimes i feel quite like i don't matter lately.,low_self_esteem,8
+i've been so drained today.,burnout,3
+i think i'm kind of apprehensive more than usual.,anxiety,1
+it seems i'm quite neutral right now.,neutral,9
+i am extremely happy,joy,6
+right now i'm incredibly ashamed of my body and i can't shake it.,body_image_issue,2
+it seems i'm extremely sad...,sadness,10
+sometimes i feel so tense more than usual.,anxiety,1
+i just feel very unattractive honestly.,body_image_issue,2
+i feel so pressured lately.,stress,11
+i feel deeply down lately.,sadness,10
+i think i'm quite upset more than usual.,sadness,10
+i'm really very stressed about my exams...,exam_stress,5
+i'm like i don't matter lately.,low_self_esteem,8
+i'm really deeply run down,stress,11
+lately i feel completely by myself...,loneliness,7
+right now i'm very worried about the test right now.,exam_stress,5
+i'm really completely delighted right now.,joy,6
+these days i feel somewhat happy...,joy,6
+sometimes i feel totally run down these days.,stress,11
+somewhat stressed about my exams i don't know why.,exam_stress,5
+frustrated i don't know why.,anger,0
+i feel kind of neutral these days.,neutral,9
+sometimes i feel extremely happy lately.,joy,6
+tbh everything feels pointless lately,depression,4
+sometimes i feel just chilling more than usual.,neutral,9
+these days i feel kind of fearful right now.,anxiety,1
+i'm deeply burnt out and i can't shake it.,burnout,3
+i just feel completely fearful...,anxiety,1
+i think i'm completely alone.,loneliness,7
+tbh i'm incredibly joyful these days.,joy,6
+tbh i'm really burnt out honestly.,burnout,3
+today i feel totally lonely i don't know why.,loneliness,7
+today i feel incredibly swamped lately.,stress,11
+i am kind of furious these days.,anger,0
+right now i'm very angry more than usual.,anger,0
+i feel somewhat under pressure lately.,stress,11
+i'm really incredibly like a failure honestly.,low_self_esteem,8
+i'm really so stressed about my exams right now.,exam_stress,5
+i think i'm totally drained of meaning today.,depression,4
+today i feel so like a failure...,low_self_esteem,8
+tbh i'm very done lately.,burnout,3
+"honestly, i'm totally on edge and i can't shake it.",anxiety,1
+today i feel very stressed about my exams lately.,exam_stress,5
+sometimes i feel somewhat emotionally exhausted right now.,burnout,3
+sometimes i feel deeply furious these days.,anger,0
+these days i feel kind of scared more than usual.,anxiety,1
+sometimes i feel completely empty lately.,depression,4
+these days i feel completely frustrated honestly.,anger,0
+these days i feel somewhat invisible these days.,loneliness,7
+"honestly, i'm not good enough.",low_self_esteem,8
+tbh i'm deeply blessed and i can't shake it.,joy,6
+i feel very under pressure today.,stress,11
+sometimes i feel kind of fried.,burnout,3
+right now i'm totally emotionally exhausted today.,burnout,3
+i feel somewhat isolated lately.,loneliness,7
+i keep feeling deeply under pressure...,stress,11
+i am completely nervous these days.,anxiety,1
+i feel worried about the test more than usual.,exam_stress,5
+these days i feel quite buried in tasks right now.,stress,11
+i think i'm a bit not good enough.,low_self_esteem,8
+it seems i'm kind of tearful.,sadness,10
+sometimes i feel somewhat insecure about my appearance honestly.,body_image_issue,2
+"honestly, i'm deeply blue honestly.",sadness,10
+tbh i'm kind of not good enough...,low_self_esteem,8
+i'm very depleted honestly.,burnout,3
+lately i feel extremely not good enough,low_self_esteem,8
+i've been extremely worried about the test honestly.,exam_stress,5
+today i feel very tense from work...,stress,11
+these days i feel anxious about my upcoming exam i don't know why.,exam_stress,5
+sometimes i feel quite fearful honestly.,anxiety,1
+"honestly, i'm so by myself and i can't shake it.",loneliness,7
+today i feel totally nervous today.,anxiety,1
+i'm totally panicking about finals today.,exam_stress,5
+i've been extremely miserable...,sadness,10
+sometimes i feel kind of low these days.,sadness,10
+i feel incredibly irritated i don't know why.,anger,0
+i feel deeply exhausted from work more than usual.,burnout,3
+i am really like a burden lately.,depression,4
+it seems i'm run down,stress,11
+i feel quite under pressure lately.,stress,11
+these days i feel very ashamed of my body more than usual.,body_image_issue,2
+i am totally fearful.,anxiety,1
+i think i'm swamped these days.,stress,11
+i've been deeply cheerful honestly.,joy,6
+i'm really incredibly drained of meaning these days.,depression,4
+"honestly, i'm kind of done more than usual.",burnout,3
+incredibly done...,burnout,3
+lately i feel gloomy...,sadness,10
+sometimes i feel totally depleted,burnout,3
+it seems i'm very content i don't know why.,joy,6
+i'm really kind of like nothing matters lately.,depression,4
+today i feel incredibly not good enough and i can't shake it.,low_self_esteem,8
+i keep feeling incredibly by myself today.,loneliness,7
+i am kind of ashamed of my body and i can't shake it.,body_image_issue,2
+i feel so useless,low_self_esteem,8
+i keep feeling incredibly annoyed.,anger,0
+tbh i'm totally miserable lately.,sadness,10
+i am completely panicky right now.,anxiety,1
+i just feel running on empty honestly.,burnout,3
+it seems i'm so buried in tasks.,stress,11
+it seems i'm deeply fat lately.,body_image_issue,2
+i think i'm so uneasy more than usual.,anxiety,1
+tbh i'm very insecure about my appearance i don't know why.,body_image_issue,2
+i'm totally pressured these days.,stress,11
+i've been extremely insecure about my appearance right now.,body_image_issue,2
+i keep feeling deeply melancholic...,sadness,10
+ngl i can't even get out of bed for work anymore,burnout,3
+right now i'm upset...,sadness,10
+a bit not good enough i don't know why.,low_self_esteem,8
+"honestly, i'm incredibly scared and i can't shake it.",anxiety,1
+i think i'm deeply panicking about finals honestly.,exam_stress,5
+these days i feel really cheerful lately.,joy,6
+i think i'm on edge,anxiety,1
+incredibly like there's no point.,depression,4
+i keep feeling somewhat without purpose and i can't shake it.,depression,4
+today i feel tense from work i don't know why.,stress,11
+i am quite blue lately.,sadness,10
+i just feel pleased right now.,joy,6
+today i feel totally resentful,anger,0
+these days i feel incredibly burnt out...,burnout,3
+today i feel quite ashamed of my body honestly.,body_image_issue,2
+these days i feel kind of useless these days.,low_self_esteem,8
+these days i feel so drained.,burnout,3
+i just feel totally unattractive right now.,body_image_issue,2
+right now i'm done today.,burnout,3
+i'm totally scared i'll fail my exam,exam_stress,5
+i am a bit fat,body_image_issue,2
+right now i'm so down.,sadness,10
+i just feel really unattractive.,body_image_issue,2
+i'm really so numb i don't know why.,depression,4
+i just feel incredibly melancholic right now.,sadness,10
+really fried honestly.,burnout,3
+today i feel really buried in tasks...,stress,11
+right now i'm completely at ease and i can't shake it.,neutral,9
+"honestly, i'm totally insecure about myself lately.",low_self_esteem,8
+i am quite worthless i don't know why.,depression,4
+i'm so in a good mood,joy,6
+these days i feel neutral and i can't shake it.,neutral,9
+i'm really shaky and i can't shake it.,anxiety,1
+i am a bit apprehensive...,anxiety,1
+lately i feel really at ease lately.,neutral,9
+tbh i'm quite frustrated lately.,anger,0
+today i feel quite fried...,burnout,3
+sometimes i feel very upset.,sadness,10
+today i feel very gloomy and i can't shake it.,sadness,10
+it seems i'm completely swamped right now.,stress,11
+i think i'm so enraged...,anger,0
+it seems i'm ashamed of my body and i can't shake it.,body_image_issue,2
+these days i feel worried about the test today.,exam_stress,5
+tbh i'm a bit furious these days.,anger,0
+i've been extremely without purpose honestly.,depression,4
+today i feel stressed about my exams right now.,exam_stress,5
+i've been totally joyful lately.,joy,6
+it seems i'm incredibly useless,low_self_esteem,8
+today i feel exhausted from work today.,burnout,3
+sometimes i feel completely lonely.,loneliness,7
+i feel somewhat invisible i don't know why.,loneliness,7
+tbh i'm deeply run down and i can't shake it.,stress,11
+i'm so on edge and i can't shake it.,anxiety,1
+tbh i'm really fried and i can't shake it.,burnout,3
+today i feel really down i don't know why.,sadness,10
+extremely glad right now.,joy,6
+"honestly, i'm tense from work...",stress,11
+"honestly, i'm totally shaky",anxiety,1
+today i feel extremely fat i don't know why.,body_image_issue,2
+today i feel kind of unhappy these days.,sadness,10
+i just feel low honestly.,sadness,10
+i feel quite disgusting in the mirror honestly.,body_image_issue,2
+i've been so worthless these days.,depression,4
+right now i'm really numb and i can't shake it.,depression,4
+i just feel horrible about how i look and i can't shake it.,body_image_issue,2
+i'm really kind of low today.,sadness,10
+right now i'm incredibly pressured these days.,stress,11
+i'm deeply afraid these days.,anxiety,1
+sometimes i feel extremely anxious about my upcoming exam.,exam_stress,5
+deeply panicky,anxiety,1
+right now i'm somewhat running on empty...,burnout,3
+right now i'm kind of disconnected right now.,loneliness,7
+i keep feeling extremely okay lately.,neutral,9
+i'm so run down.,stress,11
+i've been incredibly normal...,neutral,9
+i'm really somewhat upset more than usual.,sadness,10
+i think i'm delighted,joy,6
+i keep feeling kind of insecure about myself today.,low_self_esteem,8
+"honestly, i'm completely disgusting in the mirror lately.",body_image_issue,2
+it seems i'm completely invisible these days.,loneliness,7
+a bit fearful today.,anxiety,1
+i just feel scared i'll fail my exam i don't know why.,exam_stress,5
+today i feel kind of fuming these days.,anger,0
+totally mad today.,anger,0
+lately i feel extremely swamped.,stress,11
+i'm extremely like a failure.,low_self_esteem,8
+i'm very alright lately.,neutral,9
+today i feel completely mad more than usual.,anger,0
+i'm really tense today.,anxiety,1
+i think i'm totally optimistic and i can't shake it.,joy,6
+it seems i'm so emotionally exhausted honestly.,burnout,3
+i just feel very invisible right now.,loneliness,7
+today i feel quite overwhelmed...,stress,11
+i feel very happy lately.,joy,6
+tbh i'm very like there's no point i don't know why.,depression,4
+i keep feeling completely useless,low_self_esteem,8
+completely angry these days.,anger,0
+i'm a bit alone,loneliness,7
+tbh i'm extremely glad more than usual.,joy,6
+lately i feel somewhat grateful right now.,joy,6
+these days i feel completely grateful i don't know why.,joy,6
+i'm totally down today.,sadness,10
+i feel totally in a good mood today.,joy,6
+these days i feel completely blue honestly.,sadness,10
+i am incredibly exhausted from work and i can't shake it.,burnout,3
+right now i'm somewhat angry lately.,anger,0
+tbh i'm very fine and i can't shake it.,neutral,9
+i keep feeling very miserable i don't know why.,sadness,10
+really upset these days.,sadness,10
+today i feel totally normal...,neutral,9
+i think i'm uneasy honestly.,anxiety,1
+sometimes i feel on edge.,anxiety,1
+these days i feel so forgotten lately.,loneliness,7
+right now i'm deeply melancholic,sadness,10
+i'm really completely horrible about how i look...,body_image_issue,2
+"honestly, i'm somewhat anxious about my upcoming exam honestly.",exam_stress,5
+i am very like nothing matters honestly.,depression,4
+i feel deeply fat right now.,body_image_issue,2
+these days i feel really lonely i don't know why.,loneliness,7
+these days i feel totally insecure about myself today.,low_self_esteem,8
+i am incredibly scared i don't know why.,anxiety,1
+tbh i'm somewhat down,sadness,10
+extremely pressured right now.,stress,11
+i am so fearful these days.,anxiety,1
+i am deeply insecure about my appearance i don't know why.,body_image_issue,2
+i think i'm deeply optimistic...,joy,6
+tbh i'm really stupid right now.,low_self_esteem,8
+i just feel panicking about finals more than usual.,exam_stress,5
+tbh i'm totally worried about the test and i can't shake it.,exam_stress,5
+it seems i'm somewhat without purpose these days.,depression,4
+totally swamped more than usual.,stress,11
+i've been a bit miserable.,sadness,10
+i'm a bit useless.,low_self_esteem,8
+sometimes i feel done these days.,burnout,3
+i'm really somewhat stupid i don't know why.,low_self_esteem,8
+i keep feeling quite stupid lately.,low_self_esteem,8
+right now i'm really swamped...,stress,11
+these days i feel really left out and i can't shake it.,loneliness,7
+i think i'm quite run down today.,stress,11
+i think i'm a bit running on empty today.,burnout,3
+i am deeply sad these days.,sadness,10
+sometimes i feel incredibly insecure about my appearance today.,body_image_issue,2
+i'm normal honestly.,neutral,9
+i feel so fat i don't know why.,body_image_issue,2
+i'm very panicking about finals lately.,exam_stress,5
+tbh i'm very worthless i don't know why.,depression,4
+right now i'm quite useless today.,low_self_esteem,8
+these days i feel totally on edge i don't know why.,anxiety,1
+i'm so ashamed of my body and i can't shake it.,body_image_issue,2
+sometimes i feel very ugly...,body_image_issue,2
+i just feel deeply delighted...,joy,6
+i think i'm so ugly i don't know why.,body_image_issue,2
+incredibly miserable,sadness,10
+extremely like there's no point i don't know why.,depression,4
+tbh i'm somewhat exhausted from work i don't know why.,burnout,3
+i feel totally melancholic these days.,sadness,10
+i'm completely like giving up lately.,depression,4
+today i feel completely annoyed and i can't shake it.,anger,0
+i just feel deeply like a burden more than usual.,depression,4
+i'm really kind of tense and i can't shake it.,anxiety,1
+i'm incredibly lonely lately.,loneliness,7
+"honestly, today is pretty average...",neutral,9
+right now i'm a bit optimistic today.,joy,6
+i keep feeling incredibly insecure about my appearance right now.,body_image_issue,2
+i keep feeling deeply tense from work honestly.,stress,11
+i feel kind of unattractive honestly.,body_image_issue,2
+"honestly, i'm kind of optimistic right now.",joy,6
+these days i feel somewhat nervous these days.,anxiety,1
+"honestly, i'm so resentful i don't know why.",anger,0
+i just feel totally nervous and i can't shake it.,anxiety,1
+kind of like giving up,depression,4
+i feel totally fried right now.,burnout,3
+deeply neutral honestly.,neutral,9
+these days i feel extremely buried in tasks honestly.,stress,11
+today i feel completely resentful.,anger,0
+i am deeply ashamed of my body...,body_image_issue,2
+these days i feel really fearful...,anxiety,1
+i've been completely forgotten these days.,loneliness,7
+i think i'm extremely heartbroken today.,sadness,10
+right now i'm quite disgusting in the mirror these days.,body_image_issue,2
+i am very lonely right now.,loneliness,7
+tbh i'm kind of anxious about my upcoming exam these days.,exam_stress,5
+lately i feel quite worried and i can't shake it.,anxiety,1
+these days i feel a bit happy these days.,joy,6
+i'm really quite running on empty more than usual.,burnout,3
+i am totally anxious these days.,anxiety,1
+i'm very anxious about my upcoming exam more than usual.,exam_stress,5
+i am completely overwhelmed by studying more than usual.,exam_stress,5
+right now i'm stressed about my exams lately.,exam_stress,5
+today i feel kind of fried more than usual.,burnout,3
+i feel completely grateful...,joy,6
+i'm really so stupid,low_self_esteem,8
+today i feel extremely alone these days.,loneliness,7
+tbh i'm quite neutral more than usual.,neutral,9
+"honestly, i'm very left out honestly.",loneliness,7
+"honestly, i'm just chilling today.",neutral,9
+sometimes i feel a bit down honestly.,sadness,10
+lately i feel really low lately.,sadness,10
+i am completely tense from work today.,stress,11
+today i feel completely fat more than usual.,body_image_issue,2
+i'm really joyful today.,joy,6
+everyone is better than me :(,low_self_esteem,8
+i am completely sad,sadness,10
+sometimes i feel ugly honestly.,body_image_issue,2
+these days i feel in a good mood.,joy,6
+sometimes i feel quite worthless,depression,4
+i'm quite resentful today.,anger,0
+i'm really totally fuming and i can't shake it.,anger,0
+today i feel incredibly under pressure these days.,stress,11
+i'm really really not good enough these days.,low_self_esteem,8
+i keep feeling totally anxious about my upcoming exam i don't know why.,exam_stress,5
+i think i'm extremely alright more than usual.,neutral,9
+i'm very down...,sadness,10
+i keep feeling incredibly exhausted from work i don't know why.,burnout,3
+lately i feel totally fearful lately.,anxiety,1
+i just feel quite at ease lately.,neutral,9
+lately i feel a bit useless today.,low_self_esteem,8
+today i feel a bit thankful these days.,joy,6
+right now i'm really like i don't matter these days.,low_self_esteem,8
+i keep feeling very unattractive more than usual.,body_image_issue,2
+i've been so unattractive and i can't shake it.,body_image_issue,2
+right now i'm totally cheerful more than usual.,joy,6
+"honestly, i'm really hopeless",depression,4
+i'm completely on edge lately.,anxiety,1
+i've been really worried about the test lately.,exam_stress,5
+these days i feel deeply pissed off lately.,anger,0
+sometimes i feel deeply light-hearted lately.,joy,6
+lately i feel so furious honestly.,anger,0
+tbh i'm really horrible about how i look and i can't shake it.,body_image_issue,2
+i am a bit annoyed and i can't shake it.,anger,0
+it seems i'm quite horrible about how i look today.,body_image_issue,2
+i'm very thankful more than usual.,joy,6
+right now i'm very useless,low_self_esteem,8
+sometimes i feel drained lately.,burnout,3
+it seems i'm very forgotten...,loneliness,7
+i'm really extremely not good enough...,low_self_esteem,8
+i think i'm very tearful i don't know why.,sadness,10
+i'm kind of just chilling and i can't shake it.,neutral,9
+right now i'm kind of worried,anxiety,1
+i've been really unhappy today.,sadness,10
+tbh i'm really miserable,sadness,10
+today i feel so alone i don't know why.,loneliness,7
+really normal,neutral,9
+i feel deeply worried more than usual.,anxiety,1
+lately i feel somewhat happy.,joy,6
+these days i feel very stressed i don't know why.,stress,11
+today i feel deeply tense from work more than usual.,stress,11
+i feel melancholic right now.,sadness,10
+lately i feel quite burnt out i don't know why.,burnout,3
+today i feel so tense,anxiety,1
+i'm really completely fine these days.,neutral,9
+these days i feel completely ashamed of my body today.,body_image_issue,2
+i just feel somewhat like a burden honestly.,depression,4
+i feel quite like nobody likes me lately.,low_self_esteem,8
+today i feel a bit upset i don't know why.,sadness,10
+i keep feeling incredibly stressed today.,stress,11
+lately i feel quite anxious about my upcoming exam right now.,exam_stress,5
+tbh i'm very just chilling right now.,neutral,9
+it seems i'm extremely at ease right now.,neutral,9
+right now i'm really under pressure and i can't shake it.,stress,11
+these days i feel quite pissed off honestly.,anger,0
+i'm a bit scared these days.,anxiety,1
+lately i feel completely done,burnout,3
+lately i feel a bit balanced i don't know why.,neutral,9
+i just feel so stressed about my exams and i can't shake it.,exam_stress,5
+i think i'm so tense.,anxiety,1
+i feel like nobody likes me and i can't shake it.,low_self_esteem,8
+"honestly, i'm incredibly melancholic lately.",sadness,10
+today i feel so ashamed of my body...,body_image_issue,2
+today i feel somewhat running on empty lately.,burnout,3
+i've been somewhat upset,sadness,10
+these days i feel a bit buried in tasks more than usual.,stress,11
+i've been kind of ashamed of my body these days.,body_image_issue,2
+"honestly, i'm quite left out lately.",loneliness,7
+i'm very worthless i don't know why.,low_self_esteem,8
+i just feel kind of empty,depression,4
+i'm very sad today.,sadness,10
+i've been completely scared i'll fail my exam these days.,exam_stress,5
+sometimes i feel so drained lately.,burnout,3
+i am a bit like a burden.,depression,4
+i keep feeling quite by myself right now.,loneliness,7
+right now i'm incredibly like nobody likes me right now.,low_self_esteem,8
+i am incredibly worthless today.,depression,4
+totally gloomy right now.,sadness,10
+so stressed right now.,stress,11
+i'm incredibly cheerful more than usual.,joy,6
+sometimes i feel kind of invisible lately.,loneliness,7
+these days i feel a bit by myself today.,loneliness,7
+anxious about my upcoming exam honestly.,exam_stress,5
+i feel incredibly alone honestly.,loneliness,7
+i'm extremely forgotten today.,loneliness,7
+i just feel very tense from work right now.,stress,11
+i just feel completely at ease right now.,neutral,9
+i feel very like giving up honestly.,depression,4
+tbh i'm a bit sad...,sadness,10
+i think i'm emotionally exhausted today.,burnout,3
+i feel extremely exhausted from work,burnout,3
+i am pleased and i can't shake it.,joy,6
+i think i'm a bit useless honestly.,low_self_esteem,8
+i think i'm completely glad honestly.,joy,6
+i am so emotionally exhausted right now.,burnout,3
+right now i'm really okay...,neutral,9
+i feel completely buried in tasks and i can't shake it.,stress,11
+i just feel extremely pleased these days.,joy,6
+"honestly, i'm kind of scared i'll fail my exam and i can't shake it.",exam_stress,5
+i'm really incredibly running on empty more than usual.,burnout,3
+these days i feel a bit alright right now.,neutral,9
+i think i'm disconnected,loneliness,7
+today i feel so like there's no point honestly.,depression,4
+i'm really somewhat blue honestly.,sadness,10
+right now i'm incredibly frustrated right now.,anger,0
+i've been really worried about the test...,exam_stress,5
+i just feel so ashamed of my body right now.,body_image_issue,2
+i think i'm completely anxious more than usual.,anxiety,1
+it seems i'm kind of apprehensive i don't know why.,anxiety,1
+i feel completely buried in tasks.,stress,11
+today i feel neutral i don't know why.,neutral,9
+i'm really kind of running on empty i don't know why.,burnout,3
+i keep feeling very uneasy.,anxiety,1
+really like nothing matters more than usual.,depression,4
+very disgusting in the mirror,body_image_issue,2
+i am deeply stupid lately.,low_self_esteem,8
+right now i'm so alone...,loneliness,7
+lately i feel incredibly balanced today.,neutral,9
+today i feel quite apprehensive,anxiety,1
+i just feel really numb...,depression,4
+i just feel a bit upset more than usual.,sadness,10
+i'm quite delighted honestly.,joy,6
+i think i'm totally lonely more than usual.,loneliness,7
+i'm quite like giving up...,depression,4
+it seems i'm somewhat panicky more than usual.,anxiety,1
+lately i feel extremely annoyed more than usual.,anger,0
+i'm really really mad...,anger,0
+i'm incredibly ashamed of my body.,body_image_issue,2
+tbh i'm so stressed about my exams today.,exam_stress,5
+it seems i'm deeply overwhelmed more than usual.,stress,11
+"honestly, i'm completely tense from work today.",stress,11
+i am deeply on edge i don't know why.,anxiety,1
+i feel completely tearful honestly.,sadness,10
+i'm really quite worried about the test more than usual.,exam_stress,5
+right now i'm quite worthless lately.,low_self_esteem,8
+"honestly, i'm totally ugly today.",body_image_issue,2
+sometimes i feel kind of unhappy i don't know why.,sadness,10
+i'm totally miserable.,sadness,10
+i am somewhat scared i'll fail my exam today.,exam_stress,5
+right now i'm deeply drained of meaning and i can't shake it.,depression,4
+i just feel disconnected more than usual.,loneliness,7
+sometimes i feel kind of afraid.,anxiety,1
+i am completely disconnected more than usual.,loneliness,7
+tbh i'm deeply unattractive...,body_image_issue,2
+i just feel extremely balanced more than usual.,neutral,9
+right now i'm completely by myself...,loneliness,7
+extremely scared more than usual.,anxiety,1
+sometimes i feel incredibly low more than usual.,sadness,10
+it seems i'm like i don't matter i don't know why.,low_self_esteem,8
+i am extremely sad and i can't shake it.,sadness,10
+today i feel somewhat stressed about my exams honestly.,exam_stress,5
+these days i feel somewhat depleted today.,burnout,3
+tbh i'm a bit fine honestly.,neutral,9
+today i feel so done and i can't shake it.,burnout,3
+sometimes i feel very disgusting in the mirror more than usual.,body_image_issue,2
+i am totally panicky today.,anxiety,1
+today i feel tense from work and i can't shake it.,stress,11
+overwhelmed by studying...,exam_stress,5
+i think i'm a bit pressured honestly.,stress,11
+i am totally alone these days.,loneliness,7
+tbh i'm a bit unattractive...,body_image_issue,2
+i think i'm alone today.,loneliness,7
+i'm quite worthless.,depression,4
+i feel really just chilling honestly.,neutral,9
+i just feel furious lately.,anger,0
+it seems i'm so isolated,loneliness,7
+sometimes i feel quite like nobody likes me honestly.,low_self_esteem,8
+i feel so numb.,depression,4
+i feel really useless and i can't shake it.,low_self_esteem,8
+tbh i'm a bit done today.,burnout,3
+it seems i'm so overwhelmed by studying and i can't shake it.,exam_stress,5
+i'm really deeply balanced and i can't shake it.,neutral,9
+i've been totally neutral honestly.,neutral,9
+these days i feel extremely empty honestly.,depression,4
+today i feel somewhat calm i don't know why.,neutral,9
+i feel kind of furious honestly.,anger,0
+somewhat emotionally exhausted.,burnout,3
+i just feel very low...,sadness,10
+i feel extremely swamped more than usual.,stress,11
+i am a bit like a failure today.,low_self_esteem,8
+today i feel completely ashamed of my body,body_image_issue,2
+i've been deeply scared i don't know why.,anxiety,1
+tbh i'm totally tearful...,sadness,10
+lately i feel a bit frustrated i don't know why.,anger,0
+sometimes i feel completely running on empty.,burnout,3
+i think i'm so thankful these days.,joy,6
+i just feel stressed about my exams i don't know why.,exam_stress,5
+i am okay i don't know why.,neutral,9
+i feel a bit enraged.,anger,0
+i'm completely optimistic,joy,6
+i keep feeling extremely alright more than usual.,neutral,9
+a bit insecure about myself i don't know why.,low_self_esteem,8
+sometimes i feel kind of delighted i don't know why.,joy,6
+these days i feel a bit delighted lately.,joy,6
+i feel overwhelmed by studying and i can't shake it.,exam_stress,5
+i'm overwhelmed by studying more than usual.,exam_stress,5
+i've been so depleted lately.,burnout,3
+i'm totally upset today.,sadness,10
+lately i feel so insecure about my appearance lately.,body_image_issue,2
+right now i'm incredibly ashamed of my body more than usual.,body_image_issue,2
+i've been quite left out more than usual.,loneliness,7
+i'm incredibly worthless honestly.,depression,4
+right now i'm really just chilling and i can't shake it.,neutral,9
+i think i'm completely anxious about my upcoming exam more than usual.,exam_stress,5
+"honestly, i'm incredibly done honestly.",burnout,3
+i'm so overwhelmed by studying,exam_stress,5
+lately i feel extremely worried about the test today.,exam_stress,5
+i feel a bit okay right now.,neutral,9
+i'm kind of panicky lately.,anxiety,1
+lately i feel a bit fat these days.,body_image_issue,2
+i am extremely panicking about finals.,exam_stress,5
+it seems i'm totally enraged more than usual.,anger,0
+these days i feel very mad these days.,anger,0
+i'm so disgusting in the mirror these days.,body_image_issue,2
+it seems i'm totally just chilling more than usual.,neutral,9
+i keep feeling deeply forgotten more than usual.,loneliness,7
+i just feel a bit cheerful honestly.,joy,6
+i'm really incredibly pissed off.,anger,0
+kind of overwhelmed and i can't shake it.,stress,11
+i think i'm somewhat enraged i don't know why.,anger,0
+kind of calm lately.,neutral,9
+right now i'm really annoyed...,anger,0
+i feel really by myself lately.,loneliness,7
+"honestly, i'm incredibly unhappy lately.",sadness,10
+i'm by myself more than usual.,loneliness,7
+lately i feel completely tense from work i don't know why.,stress,11
+right now i'm incredibly stressed about my exams lately.,exam_stress,5
+tbh i'm so alone and i can't shake it.,loneliness,7
+sometimes i feel deeply empty lately.,depression,4
+i feel really fat...,body_image_issue,2
+"honestly, i'm really sad.",sadness,10
+"honestly, i'm a bit balanced lately.",neutral,9
+tbh i'm very smiling...,joy,6
+deeply anxious about my upcoming exam honestly.,exam_stress,5
+i think i'm quite lonely these days.,loneliness,7
+i think i'm completely thankful today.,joy,6
+lately i feel somewhat shaky and i can't shake it.,anxiety,1
+these days i feel completely melancholic...,sadness,10
+really run down these days.,stress,11
+extremely panicky...,anxiety,1
+i am very buried in tasks.,stress,11
+i've been somewhat unattractive today.,body_image_issue,2
+today i feel a bit depleted,burnout,3
+lately i feel so buried in tasks lately.,stress,11
+right now i'm extremely neutral right now.,neutral,9
+i think i'm extremely like a failure today.,low_self_esteem,8
+these days i feel completely forgotten right now.,loneliness,7
+today i feel incredibly down.,sadness,10
+i've been very scared i'll fail my exam more than usual.,exam_stress,5
+i keep feeling kind of stressed about my exams right now.,exam_stress,5
+i'm really completely pissed off today.,anger,0
+i've been a bit empty i don't know why.,depression,4
+right now i'm extremely done honestly.,burnout,3
+these days i feel extremely stupid honestly.,low_self_esteem,8
+i've been somewhat scared i'll fail my exam...,exam_stress,5
+i am so buried in tasks.,stress,11
+i just feel completely sad,sadness,10
+sometimes i feel insecure about myself lately.,low_self_esteem,8
+right now i'm kind of neutral...,neutral,9
+it seems i'm somewhat blessed these days.,joy,6
+today was a great day...,joy,6
+these days i feel deeply normal more than usual.,neutral,9
+these days i feel kind of fuming these days.,anger,0
+i keep feeling quite optimistic i don't know why.,joy,6
+it seems i'm a bit content,joy,6
+ngl i want to scream...,anger,0
+sometimes i feel really fine,neutral,9
+i'm emotionally exhausted more than usual.,burnout,3
+these days i feel extremely worthless more than usual.,depression,4
+i am kind of unhappy honestly.,sadness,10
+i just feel kind of fearful more than usual.,anxiety,1
+lately i feel incredibly forgotten.,loneliness,7
+it seems i'm very unattractive,body_image_issue,2
+i just feel totally insecure about myself lately.,low_self_esteem,8
+i feel so joyful honestly.,joy,6
+it seems i'm completely fat.,body_image_issue,2
+i'm kind of empty i don't know why.,depression,4
+i feel a bit tense honestly.,anxiety,1
+i think i'm kind of worried about the test these days.,exam_stress,5
+i'm really very swamped lately.,stress,11
+i think i'm kind of insecure about my appearance,body_image_issue,2
+i am extremely like there's no point right now.,depression,4
+i've been by myself lately.,loneliness,7
+"honestly, i'm panicking about finals today.",exam_stress,5
+today i feel a bit like a failure honestly.,low_self_esteem,8
+i think i'm very optimistic...,joy,6
+today i feel so tearful.,sadness,10
+these days i feel really disgusting in the mirror...,body_image_issue,2
+sometimes i feel really ugly today.,body_image_issue,2
+sometimes i feel so drained of meaning right now.,depression,4
+today i feel completely alright...,neutral,9
+sometimes i feel somewhat by myself these days.,loneliness,7
+i've been completely insecure about myself.,low_self_esteem,8
+i keep feeling disgusting in the mirror and i can't shake it.,body_image_issue,2
+i'm really kind of without purpose,depression,4
+i feel somewhat unattractive honestly.,body_image_issue,2
+totally disgusting in the mirror lately.,body_image_issue,2
+i think i'm a bit angry,anger,0
+i'm really so okay.,neutral,9
+i am quite tense from work.,stress,11
+i'm totally exhausted from work.,burnout,3
+i just feel quite burnt out today.,burnout,3
+i feel very forgotten these days.,loneliness,7
+i've been kind of worthless these days.,low_self_esteem,8
+lately i feel somewhat just chilling lately.,neutral,9
+i think i'm so joyful i don't know why.,joy,6
+"honestly, i'm somewhat invisible i don't know why.",loneliness,7
+i just feel incredibly enraged,anger,0
+i've been kind of light-hearted...,joy,6
+i've been completely thankful right now.,joy,6
+i feel completely glad these days.,joy,6
+these days i feel quite angry these days.,anger,0
+these days i feel so running on empty more than usual.,burnout,3
+i think i'm so anxious today.,anxiety,1
+i'm really like there's no point these days.,depression,4
+lately i feel extremely fuming today.,anger,0
+very overwhelmed honestly.,stress,11
+i am extremely drained i don't know why.,burnout,3
+tbh i'm really alright.,neutral,9
+i am kind of light-hearted today.,joy,6
+lately i feel kind of worried about the test i don't know why.,exam_stress,5
+i am extremely left out i don't know why.,loneliness,7
+it seems i'm numb lately.,depression,4
+i am very like giving up i don't know why.,depression,4
+i just feel completely anxious about my upcoming exam today.,exam_stress,5
+really alright i don't know why.,neutral,9
+i'm completely fried more than usual.,burnout,3
+right now i'm quite hopeless more than usual.,depression,4
+i'm just chilling these days.,neutral,9
+it seems i'm a bit upset more than usual.,sadness,10
+so like i don't matter,low_self_esteem,8
+i feel extremely like giving up...,depression,4
+i just feel very smiling i don't know why.,joy,6
+today i feel completely empty right now.,depression,4
+i just feel deeply grateful,joy,6
+tbh i'm extremely alright lately.,neutral,9
+today i feel incredibly low...,sadness,10
+today i feel incredibly lonely,loneliness,7
+i keep feeling quite unattractive...,body_image_issue,2
+right now i'm exhausted from work right now.,burnout,3
+i keep feeling so by myself these days.,loneliness,7
+sometimes i feel incredibly joyful i don't know why.,joy,6
+i'm really like a burden these days.,depression,4
+right now i'm kind of okay...,neutral,9
+i feel deeply stupid today.,low_self_esteem,8
+i'm very scared i'll fail my exam.,exam_stress,5
+i keep feeling kind of annoyed lately.,anger,0
+incredibly unattractive.,body_image_issue,2
+i keep feeling extremely unattractive,body_image_issue,2
+it seems i'm quite under pressure i don't know why.,stress,11
+lately i feel like a failure lately.,low_self_esteem,8
+i am quite under pressure right now.,stress,11
+today i feel extremely unattractive today.,body_image_issue,2
+sometimes i feel incredibly sad today.,sadness,10
+these days i feel completely scared i'll fail my exam more than usual.,exam_stress,5
+right now i'm extremely by myself more than usual.,loneliness,7
+right now i'm incredibly grateful more than usual.,joy,6
+these days i feel really hopeless more than usual.,depression,4
+tbh i'm a bit tense from work...,stress,11
+i just feel incredibly overwhelmed by studying honestly.,exam_stress,5
+lately i feel deeply like nobody likes me i don't know why.,low_self_esteem,8
+i keep feeling somewhat drained right now.,burnout,3
+incredibly swamped,stress,11
+tbh i'm tense from work...,stress,11
+today i feel a bit overwhelmed by studying honestly.,exam_stress,5
+i feel a bit hopeless and i can't shake it.,depression,4
+i've been quite useless right now.,low_self_esteem,8
+today i feel incredibly buried in tasks honestly.,stress,11
+i've been completely buried in tasks today.,stress,11
+i just feel completely ashamed of my body right now.,body_image_issue,2
+lately i feel kind of disgusting in the mirror lately.,body_image_issue,2
+tbh i'm very worried about the test these days.,exam_stress,5
+these days i feel quite by myself these days.,loneliness,7
+"honestly, i'm completely numb these days.",depression,4
+i feel extremely stressed about my exams.,exam_stress,5
+right now i'm a bit forgotten right now.,loneliness,7
+i feel really insecure about my appearance i don't know why.,body_image_issue,2
+tbh i'm completely emotionally exhausted more than usual.,burnout,3
+today i feel so pressured and i can't shake it.,stress,11
+right now i'm like a failure right now.,low_self_esteem,8
+it seems i'm incredibly not good enough...,low_self_esteem,8
+tbh i'm somewhat lonely and i can't shake it.,loneliness,7
+so insecure about my appearance,body_image_issue,2
+today i feel somewhat running on empty and i can't shake it.,burnout,3
+upset honestly.,sadness,10
+these days i feel very under pressure today.,stress,11
+i just feel somewhat swamped honestly.,stress,11
+lately i feel completely upset today.,sadness,10
+today i feel completely without purpose these days.,depression,4
+i'm really totally forgotten these days.,loneliness,7
+tbh i'm really down.,sadness,10
+sometimes i feel kind of worthless and i can't shake it.,low_self_esteem,8
+today i feel totally swamped more than usual.,stress,11
+lately i feel kind of worried about the test these days.,exam_stress,5
+lately i feel totally fearful.,anxiety,1
+today i feel completely not good enough,low_self_esteem,8
+lately i feel incredibly not good enough more than usual.,low_self_esteem,8
+tbh i'm so on edge.,anxiety,1
+i'm really incredibly insecure about myself more than usual.,low_self_esteem,8
+i just feel run down right now.,stress,11
+i keep feeling completely tearful...,sadness,10
+i'm kind of sad lately.,sadness,10
+i've been really hopeless today.,depression,4
+i keep feeling sad honestly.,sadness,10
+very without purpose today.,depression,4
+i'm really really tense from work and i can't shake it.,stress,11
+sometimes i feel quite stressed about my exams these days.,exam_stress,5
+really fearful honestly.,anxiety,1
+tbh i'm totally miserable today.,sadness,10
+i just feel completely without purpose right now.,depression,4
+it seems i'm deeply disconnected lately.,loneliness,7
+today i feel extremely scared i'll fail my exam and i can't shake it.,exam_stress,5
+i just feel really upset right now.,sadness,10
+these days i feel a bit isolated today.,loneliness,7
+really invisible...,loneliness,7
+completely invisible right now.,loneliness,7
+today i feel somewhat like i don't matter more than usual.,low_self_esteem,8
+i am completely fat today.,body_image_issue,2
+i've been completely insecure about myself i don't know why.,low_self_esteem,8
+sometimes i feel very resentful,anger,0
+totally running on empty these days.,burnout,3
+these days i feel really fried...,burnout,3
+deeply heartbroken and i can't shake it.,sadness,10
+i feel totally done today.,burnout,3
+sometimes i feel shaky today.,anxiety,1
+"honestly, i'm so melancholic more than usual.",sadness,10
+right now i'm completely anxious,anxiety,1
+i've been so alright right now.,neutral,9
+lately i feel very normal.,neutral,9
+today i feel somewhat isolated.,loneliness,7
+i just feel incredibly sad honestly.,sadness,10
+it seems i'm incredibly ugly...,body_image_issue,2
+today i feel disconnected honestly.,loneliness,7
+i've been incredibly left out today.,loneliness,7
+i just feel a bit smiling these days.,joy,6
+a bit worried about the test...,exam_stress,5
+i am somewhat at ease right now.,neutral,9
+i'm really incredibly annoyed.,anger,0
+lately i feel totally drained of meaning today.,depression,4
+i feel deeply exhausted from work today.,burnout,3
+i'm so ashamed of my body lately.,body_image_issue,2
+i just feel quite like a burden lately.,depression,4
+these days i feel a bit invisible today.,loneliness,7
+i feel completely light-hearted honestly.,joy,6
+it seems i'm a bit disconnected and i can't shake it.,loneliness,7
+i keep feeling really overwhelmed by studying honestly.,exam_stress,5
+i am kind of under pressure and i can't shake it.,stress,11
+tbh i'm a bit fuming these days.,anger,0
+i keep feeling extremely anxious about my upcoming exam right now.,exam_stress,5
+sometimes i feel left out lately.,loneliness,7
+i am very alone...,loneliness,7
+i feel totally run down right now.,stress,11
+tbh i'm incredibly not good enough honestly.,low_self_esteem,8
+tbh i'm quite under pressure today.,stress,11
+i'm completely alone i don't know why.,loneliness,7
+i just feel kind of like i don't matter i don't know why.,low_self_esteem,8
+i've been completely stressed about my exams today.,exam_stress,5
+i've been deeply scared i'll fail my exam lately.,exam_stress,5
+i'm so depleted,burnout,3
+i keep feeling somewhat like nothing matters today.,depression,4
+i feel deeply hopeless and i can't shake it.,depression,4
+i've been somewhat like a burden...,depression,4
+i just feel somewhat fuming and i can't shake it.,anger,0
+i am a bit content...,joy,6
+i think i'm totally optimistic i don't know why.,joy,6
+"honestly, i'm glad",joy,6
+i feel completely okay right now.,neutral,9
+i keep feeling completely overwhelmed by studying i don't know why.,exam_stress,5
+i just feel extremely annoyed honestly.,anger,0
+sometimes i feel totally under pressure and i can't shake it.,stress,11
+tbh i'm really by myself these days.,loneliness,7
+i am very insecure about myself...,low_self_esteem,8
+it seems i'm unhappy...,sadness,10
+these days i feel somewhat without purpose...,depression,4
+sometimes i feel deeply lonely more than usual.,loneliness,7
+i'm really under pressure and i can't shake it.,stress,11
+i am so annoyed and i can't shake it.,anger,0
+i am somewhat stressed about my exams i don't know why.,exam_stress,5
+i keep feeling very melancholic today.,sadness,10
+it seems i'm deeply buried in tasks and i can't shake it.,stress,11
+i feel completely stupid and i can't shake it.,low_self_esteem,8
+i keep feeling quite like i don't matter honestly.,low_self_esteem,8
+right now i'm kind of smiling,joy,6
+right now i'm so lonely more than usual.,loneliness,7
+i'm deeply drained today.,burnout,3
+i'm really completely tearful,sadness,10
+i'm somewhat isolated.,loneliness,7
+these days i feel incredibly calm more than usual.,neutral,9
+i keep feeling somewhat anxious.,anxiety,1
+it seems i'm so by myself...,loneliness,7
+i'm really blue...,sadness,10
+i just feel incredibly annoyed,anger,0
+right now i'm very pleased lately.,joy,6
+sometimes i feel somewhat insecure about myself,low_self_esteem,8
+these days i feel really like nothing matters,depression,4
+i think i'm very exhausted from work lately.,burnout,3
+today i feel a bit drained lately.,burnout,3
+i've been insecure about my appearance lately.,body_image_issue,2
+today i feel completely just chilling honestly.,neutral,9
+i am deeply cheerful right now.,joy,6
+i think i'm insecure about my appearance right now.,body_image_issue,2
+i'm really so at ease.,neutral,9
+it seems i'm a bit like i don't matter honestly.,low_self_esteem,8
+i keep feeling incredibly insecure about myself,low_self_esteem,8
+right now i'm incredibly left out today.,loneliness,7
+these days i feel heartbroken honestly.,sadness,10
+i keep feeling completely like giving up.,depression,4
+today i feel totally insecure about my appearance i don't know why.,body_image_issue,2
+"honestly, i'm somewhat balanced",neutral,9
+today i feel deeply panicking about finals today.,exam_stress,5
+a bit alright today.,neutral,9
+i just feel very pressured right now.,stress,11
+it seems i'm incredibly anxious about my upcoming exam honestly.,exam_stress,5
+i've been very drained of meaning right now.,depression,4
+these days i feel extremely blessed lately.,joy,6
+i feel very insecure about myself these days.,low_self_esteem,8
+"honestly, i always mess things up",low_self_esteem,8
+tbh i'm melancholic.,sadness,10
+i am quite worried lately.,anxiety,1
+sometimes i feel totally pleased more than usual.,joy,6
+right now i'm a bit burnt out and i can't shake it.,burnout,3
+"honestly, i'm incredibly anxious about my upcoming exam.",exam_stress,5
+a bit apprehensive more than usual.,anxiety,1
+it seems i'm so left out.,loneliness,7
+i think i'm a bit like a failure lately.,low_self_esteem,8
+right now i'm kind of just chilling and i can't shake it.,neutral,9
+i keep feeling extremely okay right now.,neutral,9
+i've been swamped.,stress,11
+tbh i'm a bit gloomy.,sadness,10
+tbh i'm incredibly apprehensive.,anxiety,1
+totally melancholic,sadness,10
+i've been kind of anxious...,anxiety,1
+sometimes i feel somewhat nervous more than usual.,anxiety,1
+i keep feeling very ugly,body_image_issue,2
+i keep feeling deeply without purpose i don't know why.,depression,4
+lately i feel a bit left out honestly.,loneliness,7
+today i feel completely numb.,depression,4
+"honestly, i'm by myself today.",loneliness,7
+right now i'm really done.,burnout,3
+these days i feel so annoyed lately.,anger,0
+lately i feel really horrible about how i look these days.,body_image_issue,2
+lately i feel like a burden more than usual.,depression,4
+completely forgotten right now.,loneliness,7
+"honestly, i'm annoyed i don't know why.",anger,0
+i am totally alone,loneliness,7
+lately i feel so insecure about my appearance.,body_image_issue,2
+right now i'm extremely scared i'll fail my exam i don't know why.,exam_stress,5
+today i feel deeply unhappy i don't know why.,sadness,10
+i keep feeling deeply apprehensive more than usual.,anxiety,1
+tbh i'm deeply blessed these days.,joy,6
+i just feel worthless more than usual.,depression,4
+i keep feeling quite balanced and i can't shake it.,neutral,9
+lately i feel quite apprehensive,anxiety,1
+tbh i'm quite just chilling these days.,neutral,9
+it seems i'm somewhat emotionally exhausted i don't know why.,burnout,3
+"honestly, i'm totally gloomy lately.",sadness,10
+today i feel incredibly depleted right now.,burnout,3
+i just feel really unattractive honestly.,body_image_issue,2
+i keep feeling somewhat delighted honestly.,joy,6
+today i feel extremely afraid honestly.,anxiety,1
+today i feel a bit like giving up right now.,depression,4
+right now i'm deeply fearful more than usual.,anxiety,1
+tbh i'm completely like nothing matters and i can't shake it.,depression,4
+i've been kind of fearful lately.,anxiety,1
+these days i feel very useless and i can't shake it.,low_self_esteem,8
+right now i'm totally buried in tasks.,stress,11
+completely unhappy more than usual.,sadness,10
+i feel incredibly grateful.,joy,6
+i just feel totally light-hearted...,joy,6
+i've been incredibly fried lately.,burnout,3
+today i feel somewhat overwhelmed these days.,stress,11
+right now i'm a bit glad.,joy,6
+i feel really left out these days.,loneliness,7
+lately i feel so burnt out right now.,burnout,3
+right now i'm anxious about my upcoming exam i don't know why.,exam_stress,5
+i keep feeling a bit calm more than usual.,neutral,9
+extremely swamped honestly.,stress,11
+tbh i'm kind of like there's no point these days.,depression,4
+i'm totally like giving up honestly.,depression,4
+i feel kind of ugly and i can't shake it.,body_image_issue,2
+i keep feeling kind of useless,low_self_esteem,8
+i'm really extremely tense from work honestly.,stress,11
+i am deeply like a failure these days.,low_self_esteem,8
+i'm so exhausted from work more than usual.,burnout,3
+kind of down,sadness,10
+i'm quite lonely more than usual.,loneliness,7
+today i feel kind of melancholic these days.,sadness,10
+today i feel a bit insecure about myself these days.,low_self_esteem,8
+today i feel kind of optimistic i don't know why.,joy,6
+these days i feel really by myself right now.,loneliness,7
+sometimes i feel a bit on edge more than usual.,anxiety,1
+these days i feel really worthless today.,depression,4
+today i feel extremely joyful,joy,6
+sometimes i feel somewhat drained more than usual.,burnout,3
+i just feel totally empty,depression,4
+i keep feeling incredibly worried about the test lately.,exam_stress,5
+i keep feeling kind of under pressure honestly.,stress,11
+i'm a bit empty right now.,depression,4
+tbh i'm so emotionally exhausted right now.,burnout,3
+right now i'm a bit like a burden i don't know why.,depression,4
+i think i'm somewhat hopeless,depression,4
+today i feel quite okay these days.,neutral,9
+i just feel incredibly annoyed honestly.,anger,0
+"honestly, i'm deeply glad i don't know why.",joy,6
+lately i feel completely like a failure lately.,low_self_esteem,8
+i'm really totally just chilling...,neutral,9
+i feel apprehensive i don't know why.,anxiety,1
+i'm useless and i can't shake it.,low_self_esteem,8
+somewhat pressured lately.,stress,11
+"honestly, i'm so isolated.",loneliness,7
+today i feel deeply like nobody likes me lately.,low_self_esteem,8
+today i feel kind of worried about the test...,exam_stress,5
+i just feel very alone honestly.,loneliness,7
+ngl i keep imagining worst case scenarios.,anxiety,1
+today i feel very grateful and i can't shake it.,joy,6
+"honestly, i'm deeply fat and i can't shake it.",body_image_issue,2
+"honestly, i'm really like nothing matters more than usual.",depression,4
+right now i'm incredibly like a burden...,depression,4
+i just feel apprehensive.,anxiety,1

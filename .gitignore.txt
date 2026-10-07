@@ -1,0 +1,29 @@
+# API Keys - JAMAIS uploader
+.env
+
+# Modèles trop lourds
+ml/models/distilbert_model/
+ml/models/emotion_model/
+
+# Base de données personnelle
+database/mental_health.db
+
+# Logs
+logs/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.pkl
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
