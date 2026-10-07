@@ -153,6 +153,10 @@ Open in your browser:
 
 ---
 
+## Screenshots
+![1](Capture d'écran 2026-04-28 234022.png)
+
+
 ## 🤖 ML Pipeline
 
 ### Step-by-step
