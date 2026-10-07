@@ -156,7 +156,7 @@ Open in your browser:
 ## Screenshots
 ![1](screenshots/screen_1.png)
 ![2](screenshots/screen_2.png)
-![3](dashbord.png)
+![3](screenshots/dashbord.png)
 
 ## 🤖 ML Pipeline
 
