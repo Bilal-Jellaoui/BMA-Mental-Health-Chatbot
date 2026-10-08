@@ -308,4 +308,4 @@ services immediately.
 
 ---
 
-*BMA · 2025/2026 · Bilal Jellaoui: projet academique (master big data,intelligence artificielle et applications avancees*
+*BMA · 2025/2026 · Bilal Jellaoui: projet academique (Master big data,intelligence artificielle et applications avancees)*
